@@ -39,7 +39,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableRobotsTXT = true
 # whether to use git commit log
 # 是否使用 git 信息
-enableGitInfo = false
+enableGitInfo = true
 # whether to use emoji code
 # 是否使用 emoji 代码
 enableEmoji = true
@@ -363,10 +363,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     lightgallery = false
     # whether to enable the ruby extended syntax
     # 是否使用 ruby 扩展语法
-    ruby = true
+    ruby = false
     # whether to enable the fraction extended syntax
     # 是否使用 fraction 扩展语法
-    fraction = true
+    fraction = false
     # whether to enable the fontawesome extended syntax
     # 是否使用 fontawesome 扩展语法
     fontawesome = true
@@ -683,7 +683,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.compatibility]
     # whether to use Polyfill.io to be compatible with older browsers
     # 是否使用 Polyfill.io 来兼容旧式浏览器
-    polyfill = true
+    polyfill = false
     # whether to use object-fit-images to be compatible with older browsers
     # 是否使用 object-fit-images 来兼容旧式浏览器
     objectFit = true
