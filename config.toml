@@ -781,12 +781,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [languages.en.menu]
       [[languages.en.menu.main]]
         weight = 1
-        identifier = "kmsg"
+        identifier = "posts"
         pre = ""
         post = ""
-        name = "KMSG"
-        url = "/proc/kmsg"
-        title = "Kernel Messages"
+        name = "POSTS"
+        url = "/posts"
+        title = "Posts"
       [[languages.en.menu.main]]
         weight = 2
         identifier = "mal"
@@ -859,12 +859,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [languages.id.menu]
       [[languages.id.menu.main]]
         weight = 1
-        identifier = "kmsg"
+        identifier = "posts"
         pre = ""
         post = ""
-        name = "KMSG"
-        url = "/proc/kmsg"
-        title = "Pesan Kernel"
+        name = "POS"
+        url = "/posts"
+        title = "Pos"
       [[languages.id.menu.main]]
         weight = 2
         identifier = "mal"
