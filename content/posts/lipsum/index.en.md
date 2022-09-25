@@ -8,13 +8,13 @@ author: ""
 authorLink: ""
 description: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 license: ""
-images: ["featured.jpg"]
+images: ["/lipsum/featured.jpg"]
 
 tags: ["Lipsum"]
 categories: ["Dummy"]
 
 featuredImage: ""
-featuredImagePreview: "featured.jpg"
+featuredImagePreview: "/lipsum/featured.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: []
 seo:
-  images: ["featured.jpg"]
+  images: ["/lipsum/featured.jpg"]
   # ...
 ---
 
