@@ -19,9 +19,9 @@ featuredImagePreview: "/id/lipsum/featured.jpg"
 hiddenFromHomePage: false
 hiddenFromSearch: false
 twemoji: false
-lightgallery: true
-ruby: true
-fraction: true
+lightgallery: false
+ruby: false
+fraction: false
 fontawesome: true
 linkToMarkdown: true
 rssFullText: false
