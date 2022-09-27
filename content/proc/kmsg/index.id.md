@@ -4,7 +4,7 @@ subtitle: ""
 date: 
 lastmod: 
 draft: false
-author: ""
+author: "Harry Kurn"
 authorLink: ""
 description: "$ man 5 proc | less +/kmsg"
 license: ""
@@ -28,7 +28,7 @@ rssFullText: false
 
 toc:
   enable: false
-  auto: false
+  auto: true
 code:
   copy: true
   maxShownLines: 50
