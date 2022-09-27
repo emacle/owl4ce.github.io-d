@@ -27,10 +27,10 @@ linkToMarkdown: true
 rssFullText: false
 
 toc:
-  enable: true
+  enable: false
   auto: true
 code:
-  copy: true
+  copy: false
   maxShownLines: 50
 math:
   enable: false
@@ -41,11 +41,11 @@ share:
   enable: true
   # ...
 comment:
-  enable: true
+  enable: false
   # ...
 library:
   css: []
-  js: []
+  js: ["js/shield.js"]
 seo:
   images: []
   # ...
@@ -55,22 +55,8 @@ seo:
 
 ---
 
-{{< style "text-align:right" >}}
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-{{< /style >}}
-
----
-
 {{< style "text-align:justify" >}}
 
 ...
 
 {{< /style >}}
-
----
-
-{{< style "text-align:right" >}}
-جَزَاكُمُ ٱللَّٰهُ خَيْرًا
-{{< /style >}}
-
----
