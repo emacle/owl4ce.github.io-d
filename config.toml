@@ -381,7 +381,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.page.toc]
       # whether to enable the table of the contents
       # 是否使用目录
-      enable = true
+      enable = false
       # whether to keep the static table of the contents in front of the post
       # 是否保持使用文章前面的静态目录
       keepStatic = false
@@ -393,7 +393,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.page.code]
       # whether to show the copy button of the code block
       # 是否显示代码块的复制按钮
-      copy = true
+      copy = false
       # the maximum number of lines of displayed code by default
       # 默认展开显示的代码行数
       maxShownLines = 50
@@ -442,7 +442,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Social share links in post page
     # 文章页面的分享信息设置
     [params.page.share]
-      enable = true
+      enable = false
       Twitter = true
       Facebook = true
       Linkedin = false
@@ -469,7 +469,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Comment config
     # 评论系统设置
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
