@@ -4,7 +4,7 @@ subtitle: ""
 date: 2022-09-25T02:20:52+07:00
 lastmod: 2022-09-25T02:20:52+07:00
 draft: false
-author: ""
+author: "Harry Kurn"
 authorLink: ""
 description: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 license: ""
@@ -27,10 +27,10 @@ linkToMarkdown: true
 rssFullText: false
 
 toc:
-  enable: true
+  enable: false
   auto: true
 code:
-  copy: true
+  copy: false
   maxShownLines: 50
 math:
   enable: false
@@ -45,7 +45,7 @@ comment:
   # ...
 library:
   css: []
-  js: []
+  js: ["js/shield.js"]
 seo:
   images: ["/id/lipsum/featured.jpg"]
   # ...
