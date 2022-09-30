@@ -6,7 +6,7 @@ lastmod: 2022-09-26T23:13:43+07:00
 draft: false
 author: "Harry Kurn"
 authorLink: ""
-description: "Dia yang tidak ragu [maka] tidak melihat, dan dia yang tidak melihat [maka] tidak [pernah] melihat, dan dia yang tidak [pernah] melihat, tetap dalam kebutaan .... Keraguan adalah pintu awal menuju ..."
+description: "Dia yang tidak ragu [maka] tidak melihat, dan dia yang tidak melihat [maka] tidak [pernah] melihat, dan dia yang tidak [pernah] melihat tetap dalam kebutaan .... Keraguan adalah pintu awal menuju ..."
 license: ""
 images: ["/id/truthful/featured.jpg"]
 
@@ -97,7 +97,7 @@ sekuler dari Barat, yang sering menimbulkan bias di antara kaum beragama.
 
 Disadari atau tidak, salah satu pembiasan logika paling fatal ialah menempatkan semua agama pada posisi dan fenomena
 yang sama rata. *Din al-Islam* (tauhid) yang secara fitrah (potensial) mengakui eksistensi Tuhan YME, sejak dijadikannya
-Nabi Adam AS sebagai khalifah pertama di muka Bumi hingga diutusnya Rasullullah Muhammad SAW, disamakategorikan dengan
+Nabi Adam AS sebagai khalifah pertama di muka Bumi hingga diutusnya Rasulullah Muhammad SAW, disamakategorikan dengan
 agama-agama samawi (langit) yang telah mengalami pendistorsian esensi tauhid sebab keterbatasan akal pada masa itu.[^6]
 Manusia sekuler dan pluralis melihat Islam tidak lebih dari sebatas agama, setidaknya, dari kalangan orientalis
 melihat kebenaran Islam historis-teologis. Akan tetapi, mayoritas tetap mengingkarinya.[^7]
@@ -111,7 +111,7 @@ melihat kebenaran Islam historis-teologis. Akan tetapi, mayoritas tetap mengingk
       83:13.
 
 Pendekatan (1) historis-teologis adalah pendekatan dengan cara mengelompokkan dan menafsirkan teks-teks yang terkait
-dengan metafisik secara kronologis, termasuk peristiwa *Mi'raj* yang dialami Rasullullah Muhammad SAW, perjalanan lintas
+dengan metafisik secara kronologis, termasuk peristiwa *Mi'raj* yang dialami Rasulullah Muhammad SAW, perjalanan lintas
 dimensi ruang-waktu yang ditempuh hanya dalam semalam dari *Masjid al-Aqsa* menuju *Sidrat al-Muntaha* yang tidak perlu
 dibuktikan empiris sebab keterbatasan akal (rasio) sejak zaman kerasulan Rasulullah hingga umat manusia pada zaman
 ini.[^8] Pendekatan (2) ilmiah (*scientific*) adalah pendekatan dengan cara mengkaji teks-teks yang terkait
