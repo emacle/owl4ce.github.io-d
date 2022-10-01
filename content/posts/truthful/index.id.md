@@ -11,7 +11,7 @@ license: ""
 images: ["/id/truthful/featured.jpg"]
 
 tags: ["Islam"]
-categories: ["Interbelief"]
+categories: ["Essay"]
 
 featuredImage: ""
 featuredImagePreview: "/id/truthful/featured.jpg"
