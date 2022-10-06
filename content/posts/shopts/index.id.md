@@ -395,7 +395,6 @@ Avenged Sevenfold - Nightmare
 avenged Sevenfold - Nightmare
 {{< /admonition >}}
 
-
 ```shell
 # zsh 5+: Parameter Expansion Flags
 ```
