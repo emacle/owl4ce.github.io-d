@@ -325,6 +325,18 @@ Polyphia - Ego Death (feat. Guitar Lord)
 Plyph - g Dth (ft. Stv V)
 {{< /admonition >}}
 
+```shell
+# Alternative with (GNU) sed.
+```
+
+```bash
+sed 's/(feat. .*)/(feat. Guitar Lord)/' <<< "$CURRENT_SONG" # bash herestrings.
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+Polyphia - Ego Death (feat. Guitar Lord)
+{{< /admonition >}}
+
 ---
 
 ```shell
