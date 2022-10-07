@@ -203,7 +203,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Search config
   # 搜索配置
   [params.search]
-    enable = true
+    enable = false
     # type of search engine ["lunr", "algolia"]
     # 搜索引擎的类型 ["lunr", "algolia"]
     type = "lunr"
@@ -783,38 +783,38 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [[languages.en.menu.main]]
         weight = 1
         identifier = "posts"
-        pre = ""
+        pre = "<i class='fas fa-p fa-fw'></i>"
         post = ""
-        name = "POSTS"
+        name = ""
         url = "/posts"
         title = "Posts"
       [[languages.en.menu.main]]
         weight = 2
-        identifier = "mal"
-        pre = ""
-        post = ""
-        name = "MAL"
-        url = "https://myanimelist.net/animelist/owl4ce?status=2&order=4&order2=0"
-        title = "MyAnimeList"
-      [[languages.en.menu.main]]
-        weight = 3
         identifier = "rss"
-        pre = ""
+        pre = "<i class='fas fa-r fa-fw'></i>"
         post = ""
-        name = "RSS"
+        name = ""
         url = "https://violet-ia.github.io/index.xml"
         title = "RSS"
       [[languages.en.menu.main]]
-        weight = 4
+        weight = 3
         identifier = "github"
-        pre = ""
+        pre = "<i class='fas fa-g fa-fw'></i>"
         post = ""
-        name = "GH"
+        name = ""
         url = "https://git.io/JfLHJ"
         title = "GitHub"
+      [[languages.en.menu.main]]
+        weight = 4
+        identifier = "mal"
+        pre = "<i class='fas fa-m fa-fw'></i>"
+        post = ""
+        name = ""
+        url = "https://myanimelist.net/animelist/owl4ce?status=2&order=4&order2=0"
+        title = "MyAnimeList"
     [languages.en.params]
       [languages.en.params.search]
-        enable = true
+        enable = false
         type = "lunr"
         contentLength = 4000
         placeholder = ""
@@ -861,38 +861,38 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [[languages.id.menu.main]]
         weight = 1
         identifier = "posts"
-        pre = ""
+        pre = "<i class='fas fa-p fa-fw'></i>"
         post = ""
-        name = "POS"
+        name = ""
         url = "/posts"
         title = "Pos"
       [[languages.id.menu.main]]
         weight = 2
-        identifier = "mal"
-        pre = ""
-        post = ""
-        name = "MAL"
-        url = "https://myanimelist.net/animelist/owl4ce?status=2&order=4&order2=0"
-        title = "MyAnimeList"
-      [[languages.id.menu.main]]
-        weight = 3
         identifier = "rss"
-        pre = ""
+        pre = "<i class='fas fa-r fa-fw'></i>"
         post = ""
-        name = "RSS"
+        name = ""
         url = "https://violet-ia.github.io/id/index.xml"
         title = "RSS"
       [[languages.id.menu.main]]
-        weight = 4
+        weight = 3
         identifier = "github"
-        pre = ""
+        pre = "<i class='fas fa-g fa-fw'></i>"
         post = ""
-        name = "GH"
+        name = ""
         url = "https://git.io/JfLHJ"
         title = "GitHub"
+      [[languages.id.menu.main]]
+        weight = 4
+        identifier = "mal"
+        pre = "<i class='fas fa-m fa-fw'></i>"
+        post = ""
+        name = ""
+        url = "https://myanimelist.net/animelist/owl4ce?status=2&order=4&order2=0"
+        title = "MyAnimeList"
     [languages.id.params]
       [languages.id.params.search]
-        enable = true
+        enable = false
         type = "lunr"
         contentLength = 4000
         placeholder = ""
