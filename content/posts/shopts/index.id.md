@@ -57,9 +57,9 @@ seo:
 
 {{< style "text-align:justify" >}}
 
-Memahami spesifikasi POSIX maka otomatis menguasai berbagai (Unix) *shell*. Memahami bukanlah hanya
-diketahui, tetapi harus mempelajari lingkungan *userspace*. Mempelajari tidak sekedar *trial-error*,
-melainkan diaplikasikan, guna memperkokoh paradigma dalam menyusun sebuah algoritma. Demikian,
+Memahami spesifikasi POSIX maka otomatis menguasai berbagai (Unix) *shell*. Memahami bukanlah hanya diketahui,
+tetapi harus mempelajari lingkungan *userspace*. Mempelajari tidak sekedar *trial-error*, melainkan diaplikasikan,
+guna [memperkokoh](#preferrable-shell-syntaxes) paradigma dalam menyusun sebuah algoritma. Demikian,
 rangkuman praktis ini didedikasikan bagi para "pragmatis" terhadap segala urusan teknis.
 
 ---
@@ -159,7 +159,7 @@ echo "${VARIABLE:?"\$VARIABLE is unset."}"
 ```
 
 {{< admonition failure "/proc/self/fd/2" true >}}
-dash: 4: VARIABLE: $VARIABLE is unset.
+dash: ?: VARIABLE: $VARIABLE is unset.
 {{< /admonition >}}
 
 ---
@@ -556,7 +556,7 @@ echo '... overwrite data.' > /tmp/file
 ```
 
 {{< admonition failure "/proc/self/fd/2" true >}}
-dash: 4: cannot create /tmp/file: File exists
+dash: ?: cannot create /tmp/file: File exists
 {{< /admonition >}}
 
 ---
@@ -752,6 +752,431 @@ up 5 hours, 39 minutes
 
 {{< /style >}}
 
+## Statements
+
+### `if` Construction
+
+{{< style "text-align:justify" >}}
+
+```shell
+# POSIX.1-2017: if TRUE; then CONSEQ; fi
+#               if TRUE; then CONSEQ; else CONSEQ; fi
+#               if TRUE; then CONSEQ; elif TRUE; then CONSEQ; else CONSEQ; fi
+```
+
+```shell
+if [ -e / -a ! -d / ]; then # If root exists and is not a directory.
+    echo 'Root is not a directory is an impossibility.' >&2 # I/O redirection:
+elif [ -e / -a -d / ]; then # If root exists and is a directory.
+    echo 'Root is a directory is a clear true.' # Output true as stdin, and
+else # If either `if` and `elif` above are false (failure).
+    echo 'Errors are red, your screen always blue.' >&2 # false as stderr.
+fi
+```
+
+{{< admonition failure "/proc/self/fd/2" false >}}
+Root is not a directory is an impossibility.
+{{< /admonition >}}
+
+{{< admonition success "/proc/self/fd/1" true >}}
+Root is a directory is a clear true.
+{{< /admonition >}}
+
+{{< admonition failure "/proc/self/fd/2" false >}}
+Errors are red, your screen always blue.
+{{< /admonition >}}
+
+---
+
+{{< /style >}}
+
+### `case` Construction
+
+{{< style "text-align:justify" >}}
+
+```shell
+KERNEL="$(uname -s)"
+```
+
+```shell
+# POSIX.1-2017: case STRING in GLOB) CONSEQ;; GLOB) CONSEQ;; esac
+#               case STRING in (GLOB) CONSEQ;; (GLOB) CONSEQ;; esac
+```
+
+```shell
+case "$KERNEL" in # The value of $KERNEL is Linux.
+    Linux|GNU*|*BSD) echo "You are using ${KERNEL} operating system."
+    ;;
+         [Mm]ac*OS*) echo 'You are using 4.3BSD+Mach operating system.'
+    ;;
+                  *) echo 'Errors are red, your screen always blue.' >&2
+    ;;
+esac
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+You are using Linux operating system.
+{{< /admonition >}}
+
+{{< admonition success "/proc/self/fd/1" false >}}
+You are using 4.3BSD+Mach operating system.
+{{< /admonition >}}
+
+{{< admonition failure "/proc/self/fd/2" false >}}
+Errors are red, your screen always blue.
+{{< /admonition >}}
+
+---
+
+{{< /style >}}
+
+## Tests
+
+### Preferrable Shell Syntaxes
+
+#### Built-in (**faster**)
+
+{{< style "text-align:justify" >}}
+
+```shell
+command -V 'set'
+command -V 'read'
+command -V '['
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+set is a special shell builtin  
+read is a shell builtin  
+\[ is a shell builtin
+{{< /admonition >}}
+
+---
+
+{{< /style >}}
+
+#### Reserved word (**fast**)
+
+{{< style "text-align:justify" >}}
+
+```bash
+command -V 'if'
+command -V 'case'
+command -V '[['
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+if is a shell keyword  
+case is a shell keyword  
+\[\[ is a shell keyword
+{{< /admonition >}}
+
+---
+
+{{< /style >}}
+
+#### External program (**slow**)
+
+{{< style "text-align:justify" >}}
+
+```shell
+command -V 'cat'
+command -V 'awk'
+command -V 'sed'
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+cat is /bin/cat  
+awk is /usr/bin/awk  
+sed is /bin/sed
+{{< /admonition >}}
+
+---
+
+{{< /style >}}
+
+### Tests' Expressions
+
+{{< style "text-align:justify" >}}
+
+| `[` / `test` | `[[` | ? |
+|:---:|:---:|:---|
+| `-b` file | <sup><sub>(identical)</sub></sup> | Is a block special file. |
+| `-c` file | <sup><sub>(identical)</sub></sup> | Is a character special file. |
+| `-d` file | <sup><sub>(identical)</sub></sup> | Is a directory. |
+| `-e` file | <sup><sub>(identical)</sub></sup> | Is a file or directory (exists). |
+| `-f` file | <sup><sub>(identical)</sub></sup> | Is a file. |
+| `-g` file | <sup><sub>(identical)</sub></sup> | Is a file with SGID. |
+| `-G` file | <sup><sub>(identical)</sub></sup> | Is a file with effective group id from the current process. |
+| `-h` file <br> `-L` file | <sup><sub>(identical)</sub></sup> | Is a symbolic link. |
+| `-k` file | <sup><sub>(identical)</sub></sup> | Is a file with sticky bit. |
+| `-O` file | <sup><sub>(identical)</sub></sup> | Is a file with effective user id from the current process. |
+| `-p` file | <sup><sub>(identical)</sub></sup> | Is a named pipe (FIFO). |
+| `-r` file | <sup><sub>(identical)</sub></sup> | Is a readable file. |
+| `-s` file | <sup><sub>(identical)</sub></sup> | File size is not or greater than null. |
+| `-S` file | <sup><sub>(identical)</sub></sup> | Is an Unix socket. |
+| `-t` fdN | <sup><sub>(identical)</sub></sup> | Is an open file descriptor which connected. |
+| `-u` file | <sup><sub>(identical)</sub></sup> | Is a file with SUID. |
+| `-w` file | <sup><sub>(identical)</sub></sup> | Is a writable file, based on permission bit. |
+| `-x` file | <sup><sub>(identical)</sub></sup> | Is an executable file, based on permission bit. |
+| <sup><sub>file</sub></sup>1 `-nt` <sup><sub>file</sub></sup>2 | <sup><sub>(identical)</sub></sup> | 1st file is newer than the 2nd. |
+| <sup><sub>file</sub></sup>1 `-ot` <sup><sub>file</sub></sup>2 | <sup><sub>(identical)</sub></sup> | 1st file is older than the 2nd. |
+| <sup><sub>file</sub></sup>1 `-ef` <sup><sub>file</sub></sup>2 | <sup><sub>(identical)</sub></sup> | Both files are the same file. |
+| `-n` string | <sup><sub>(identical)</sub></sup> | String length is not or greater than null. |
+| `-z` string | <sup><sub>(identical)</sub></sup> | String length is null. |
+| <sup><sub>string</sub></sup>1 `=` <sup><sub>string</sub></sup>2 | `==` | Both strings are equal. Inside `[[` `]]`, globbing supported. |
+| <sup><sub>(none)</sub></sup> | `=~` | Both strings are equal, based on regular expression. |
+| <sup><sub>string</sub></sup>1 `!=` <sup><sub>string</sub></sup>2 | <sup><sub>(identical)</sub></sup> | Both strings are not equal. |
+| <sup><sub>string</sub></sup>1 `\<` <sup><sub>string</sub></sup>2 | `<` | 1st string before the 2nd, lexicographically. |
+| <sup><sub>string</sub></sup>1 `\>` <sup><sub>string</sub></sup>2 | `>` | 1st string after the 2nd, lexicographically. |
+| <sup><sub>integer</sub></sup>1 `-eq` <sup><sub>integer</sub></sup>2 | <sup><sub>(identical)</sub></sup> | Both integers are equal, algebraically. |
+| <sup><sub>integer</sub></sup>1 `-ne` <sup><sub>integer</sub></sup>2 | <sup><sub>(identical)</sub></sup> | Both integers are not equal, algebraically. |
+| <sup><sub>integer</sub></sup>1 `-gt` <sup><sub>integer</sub></sup>2 | <sup><sub>(identical)</sub></sup> | 1st integer is greater than the 2nd, algebraically. |
+| <sup><sub>integer</sub></sup>1 `-ge` <sup><sub>integer</sub></sup>2 | <sup><sub>(identical)</sub></sup> | 1st integer is greater than or equal to the 2nd, algebraically. |
+| <sup><sub>integer</sub></sup>1 `-lt` <sup><sub>integer</sub></sup>2 | <sup><sub>(identical)</sub></sup> | 1st integer is smaller than the 2nd, algebraically. |
+| <sup><sub>integer</sub></sup>1 `-le` <sup><sub>integer</sub></sup>2 | <sup><sub>(identical)</sub></sup> | 1st integer is smaller than or equal to the 2nd, algebraically. |
+| `!` expression | <sup><sub>(identical)</sub></sup> | Inverts true/false values of the expression's exit status. |
+| `\(` expression `\)` | `( )` | Groups multiple expressions, with final expression value. |
+| <sup><sub>expression</sub></sup>1 `-a` <sup><sub>expression</sub></sup>2 | `&&` | Execute next expression if the previous expression is true. |
+| <sup><sub>expression</sub></sup>1 `-o` <sup><sub>expression</sub></sup>2 | `\|\|` | Execute next expression if the previous expression is false. |
+
+---
+
+{{< /style >}}
+
+### `[` Built-in
+
+{{< style "text-align:justify" >}}
+
+```shell
+SOCKET="${HOME}/.urxvt/urxvtd-localh3art"
+```
+
+```shell
+# POSIX.1-2017: [ EXPRESSIONS ]
+#               test EXPRESSIONS
+```
+
+```shell
+[ \( -n "$SOCKET" -o ! -z "$SOCKET" \) -a \( -e "$SOCKET" -o -S "$SOCKET" \) ]
+```
+
+```shell
+{ [ "$?" -eq 0 ] || [ ! "$?" -gt 0 ]; } && file "$SOCKET" # Grouped.
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+/home/rachel/.urxvt/urxvtd-localh3art: socket
+{{< /admonition >}}
+
+---
+
+```shell
+QUEEN='Lucy (Kaede)'
+```
+
+```shell
+[ $QUEEN = 'Lucy (Kaede)' ] && echo "$QUEEN" # Inside [ ], need to be quoted.
+```
+
+{{< admonition failure "/proc/self/fd/2" true >}}
+dash: ?: \[: Lucy: unexpected operator
+{{< /admonition >}}
+
+---
+
+{{< /style >}}
+
+#### `test`
+
+{{< style "text-align:justify" >}}
+
+```shell
+test -t 0 -a -h "/proc/$$/fd/0" && file "${_%%/fd*}/exe"
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+/proc/1337/exe: symbolic link to /bin/dash
+{{< /admonition >}}
+
+---
+
+{{< /style >}}
+
+### `[[` Keyword
+
+{{< style "text-align:justify" >}}
+
+```shell
+# ksh, bash, zsh, yash, busybox sh: [[ EXPRESSIONS ]]
+```
+
+```bash
+[[ ( -n "$SOCKET" || ! -z "$SOCKET" ) && ( -e "$SOCKET" || -S "$SOCKET" ) ]]
+```
+
+```bash
+[[ "$?" -eq 0 || "$?" -gt '1 / -1' ]] && file "$SOCKET" # Arithmetic supported.
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+/home/rachel/.urxvt/urxvtd-localh3art: socket
+{{< /admonition >}}
+
+---
+
+```bash
+[[ $QUEEN = [A-Za-z]*\ * ]] && echo "$QUEEN" # Inside [[ ]], no need to quote.
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+Lucy (Kaede)
+{{< /admonition >}}
+
+---
+
+{{< /style >}}
+
+## Strings
+
+### File Format Notation
+
+{{< style "text-align:justify" >}}
+
+[POSIX.1-2017](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap05.html#tagtcjh_2)
+
+---
+
+{{< /style >}}
+
+### Escape Sequences
+
+{{< style "text-align:justify" >}}
+
+| POSIX <br><sup><sub>(+extensions)</sub></sup> | bash <br><sup><sub>(and others)</sub></sup> | ? |
+|:---:|:---:|:---|
+| `\a` | `\a` | To hide warning, denoted with bell character. |
+| `\b` | `\b` | As backspace character. |
+| `\c` | `\c` | To suppress more output. Usually used at the end of argument. |
+| <sup><sub>(none)</sub></sup> | `\e` <br> `\E` | As [escape character](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797). Alternatively octal 8-bit (`\033`), 2 digits. |
+| `\f` | `\f` | As form feed character. |
+| `\n` | `\n` | As newline character. |
+| `\r` | `\r` | As carriage return character. |
+| `\t` | `\t` | As horizontal tab character. |
+| `\v` | `\v` | As vertical tab character. |
+| `\\` | `\\` | As backslash character. |
+| `\0nnn` | `\0nnn` | As octal 8-bit character (`nnn`), 0-3 digits. |
+| <sup><sub>(none)</sub></sup> | `\xHH` | As hexadecimal 8-bit character (`HH`), 1-2 digits. |
+| <sup><sub>(none)</sub></sup> | `\uHHHH` | As hexadecimal unicode character (`HHHH`), 1-4 digits. |
+| <sup><sub>(none)</sub></sup> | `\UHHHHHHHH` | As hexadecimal unicode character (`HHHHHHHH`), 1-8 digits. |
+
+---
+
+{{< /style >}}
+
+### Fancy `printf`
+
+{{< style "text-align:justify" >}}
+
+```shell
+# POSIX.1-2017: printf FILE_FORMAT_NOTATION ARG1 ARG2 ARGS
+```
+
+```shell
+printf '%.7s\n' 'My Last Farewell' # Cut 7 bytes string.
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+My Last
+{{< /admonition >}}
+
+---
+
+```shell
+printf '%X\n' "$((50*255/100))" # Calculate 50% alpha, decimal into hexadecimal.
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+7F
+{{< /admonition >}}
+
+---
+
+```shell
+printf '%.16f\n' "$((77/7))e-1" # Tricky 7.7/7 floating-point arithmetic.
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+1.1000000000000001
+{{< /admonition >}}
+
+---
+
+{{< /style >}}
+
+### Plain `echo`
+
+{{< style "text-align:justify" >}}
+
+```shell
+# POSIX.1-2017: echo STRINGS
+```
+
+```shell
+echo 'My Last Farewell' | cut -b1-7 # pipe to cut (from GNU coreutils).
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+My Last
+{{< /admonition >}}
+
+---
+
+```shell
+echo "ibase=10; obase=16; $((50*255/100))" | bc # pipe to (POSIX) bc.
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+7F
+{{< /admonition >}}
+
+```shell
+# zsh 5+: Arithmetic Evaluation
+```
+
+```shell
+echo "$(([##16]50*255/100))"
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+7F
+{{< /admonition >}}
+
+---
+
+```shell
+echo '7.7/7' | bc -l # pipe to (POSIX) bc.
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+1.10000000000000000000
+{{< /admonition >}}
+
+```shell
+# ksh93, zsh, yash: $((X.Y/Z))
+```
+
+```shell
+echo "$((7.7/7))"
+```
+
+{{< admonition success "/proc/self/fd/1" true >}}
+1.1000000000000001
+{{< /admonition >}}
+
+---
+
+{{< /style >}}
+
 <!--CUT-HERE-->
 
 {{< style "text-align:right" >}}
@@ -766,7 +1191,7 @@ up 5 hours, 39 minutes
 
 <!--CUT-HERE-->
 
-## Additional References
+## Refs
 
 {{< style "text-align:justify" >}}
 
