@@ -6,7 +6,7 @@ lastmod: 2022-03-14T22:36:11+07:00
 draft: false
 author: "Harry Kurn"
 authorLink: ""
-description: "Memperkokoh paradigma seorang administrator dalam menyusun algoritma, praktis komprehensif."
+description: "Memperkukuh paradigma seorang administrator dalam menyusun algoritma, praktis komprehensif."
 license: ""
 images: ["/id/shopts/featured.jpg"]
 
@@ -59,7 +59,7 @@ seo:
 
 Memahami spesifikasi POSIX maka otomatis menguasai berbagai (Unix) *shell*. Memahami bukanlah hanya diketahui,
 tetapi harus mempelajari lingkungan *userspace*. Mempelajari tidak sekedar *trial-error*, melainkan diaplikasikan,
-guna [memperkokoh](#preferrable-shell-syntaxes) paradigma dalam menyusun sebuah algoritma. Demikian,
+guna [memperkukuh](#preferrable-shell-syntaxes) paradigma dalam menyusun sebuah algoritma. Demikian,
 rangkuman praktis ini didedikasikan bagi para "pragmatis" terhadap segala urusan teknis.
 
 ---
