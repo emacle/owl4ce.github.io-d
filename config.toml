@@ -93,7 +93,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   title = "Crastinus Dies Nunquam Sciat"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = ""
+  description = "Knowing nothing, without purpose, even the words I have collected are doomed to wither away in the earth."
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["https://repository-images.githubusercontent.com/326129848/4008d892-27c6-4b54-b536-22c72f858d1a"]
@@ -132,7 +132,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = ""
+    custom = "<sup>The sky is too open for the likes of me, the passing of time is too fast for me.</sup>"
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = false
