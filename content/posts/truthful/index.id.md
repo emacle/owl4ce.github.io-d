@@ -152,12 +152,104 @@ sedangkan kamu tidak diberi pengetahuan kecuali hanya sedikit.”[^10]</sub>
 
 *Al-Qur'an* juga disebut *ar-Ruh*, diwahyukan melalui perantaraan Malaikat Jibril AS (*ar-Ruh al-Amin*) dengan
 firman Allah SWT.[^3] Fakta tentang keterbatasan akal (rasio) manusia pun telah difirmankan, "... sedangkan kamu
-tidak diberi pengetahuan kecuali hanya sedikit.". Manusia sekuler era modern juga mengakui, setidaknya, dari
-kalangan ilmuwan. Akan tetapi, mayoritas tetap mengingkarinya.[^11] Filsuf Jerman Immanuel Kant menyatakan bahwa
-ia "menolak pengetahuan" untuk memberi ruang bagi iman—apabila umat manusia mampu "membuktikan" eksistensi Tuhan
-YME dengan konkret, universal, dan mutlak maka manusia tidak perlu lagi beriman sebab telah memiliki Ilmu Ketuhanan.
+tidak diberi pengetahuan kecuali hanya sedikit.". Manusia sekuler era modern juga mengakui, setidaknya, dari kalangan
+ilmuwan. Akan tetapi, mayoritas tetap mengingkarinya.[^11] Filsuf Jerman Immanuel Kant menyatakan bahwa ia "menolak
+pengetahuan" untuk memberi ruang bagi iman—apabila umat manusia mampu "membuktikan" eksistensi Tuhan YME dengan
+konkret, universal, dan mutlak maka manusia tidak perlu lagi beriman sebab telah memiliki Sains Ketuhanan.
 
 [^11]: *Ibid*.,
-       21:30.
+       6:125;
+       7:57;
+       7:58;
+       9:36;
+       10:5;
+       13:3;
+       13:4;
+       13:17;
+       15:22;
+       16:4;
+       16:5;
+       16:10;
+       16:11;
+       16:12;
+       16:13;
+       16:14;
+       16:15;
+       16:66;
+       16:68;
+       16:69;
+       20:53;
+       21:30;
+       21:31;
+       21:32;
+       21:33;
+       22:5;
+       22:47;
+       22:63;
+       23:12;
+       23:13;
+       23:14;
+       23:18;
+       23:19;
+       23:20;
+       23:21;
+       24:40;
+       24:43;
+       24:44;
+       24:45;
+       25:45;
+       25:46;
+       25:48;
+       25:49;
+       25:50;
+       25:53;
+       25:54;
+       25:61;
+       25:62;
+       27:88;
+       29:41;
+       30:21;
+       30:22;
+       30:24;
+       30:48;
+       32:5;
+       32:27;
+       35:9;
+       35:11;
+       35:12;
+       35:13;
+       35:27;
+       35:28;
+       36:39;
+       36:40;
+       39:5;
+       39:21;
+       50:9;
+       51:7;
+       51:47;
+       51:49;
+       52:6;
+       53:45;
+       53:46;
+       56:70;
+       57:25;
+       67:30;
+       70:4;
+       75:4;
+       75:37;
+       75:38;
+       75:39;
+       78:6;
+       78:7;
+       78:8;
+       78:14;
+       78:15;
+       78:16;
+       86:3;
+       86:6;
+       86:7;
+       86:11;
+       86:12;
+       96:15.
 
 {{< /style >}}
