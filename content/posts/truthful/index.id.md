@@ -90,37 +90,43 @@ dalam bertindak mengambil keputusan, tetapi mereka hanya berhenti (ingkar) pada 
 Nilai-nilai luhur yang termaktub dalam Pancasila, yang merupakan cermin kepribadian bangsa, seakan "terlalu sempurna"
 semata gagasannya terkesan utopis dari para *founding father* bangsa. Paradigma dogmatis yang ditanamkan oleh golongan
 manusia yang berbangga diri (merasa berhak) berbicara tentang Tuhan YME masih mendominasi pola pikir manusia dalam
-upaya mengenal-Nya. Bangsa yang memahami esensi sila pertama secara hakiki (objektif), "Ketuhanan yang Maha Esa",
-otomatis membentuk karakter bangsa sesuai sila kedua hingga kelima.[^6] Hingga milenium kedua, paradigma dogmatis
+upaya mengenal-Nya. Bangsa yang memahami esensi sila pertama secara hakiki (objektif[^6]), "Ketuhanan yang Maha Esa",
+otomatis membentuk karakter bangsa sesuai sila kedua hingga kelima.[^7] Hingga milenium kedua, paradigma dogmatis
 yang digunakan untuk menyelidiki suatu kebenaran dalam perspektif keilmuan (*science*) ialah doktrin
 sekuler dari Barat, yang sering menimbulkan bias di antara kaum beragama.
 
 [^6]: al-Qur'an,
+      112:1;
+      112:2;
+      112:3;
+      112:4.
+
+[^7]: *Ibid*.,
       4:135.
 
 Disadari atau tidak, salah satu pembiasan logika paling fatal ialah menempatkan semua agama pada posisi dan fenomena
 yang sama rata. *Din al-Islam* (tauhid) yang secara fitrah (potensial) mengakui eksistensi Tuhan YME, sejak dijadikannya
 Nabi Adam AS sebagai khalifah pertama di muka Bumi hingga diutusnya Rasulullah Muhammad SAW, disamakategorikan dengan
-agama-agama samawi (langit) yang telah mengalami pendistorsian esensi tauhid sebab keterbatasan akal pada masa itu.[^7]
+agama-agama samawi (langit) yang telah mengalami pendistorsian esensi tauhid sebab keterbatasan akal pada masa itu.[^8]
 Manusia sekuler dan pluralis melihat Islam tidak lebih dari sebatas agama, setidaknya, dari kalangan orientalis
-melihat kebenaran Islam historis-teologis. Akan tetapi, mayoritas tetap mengingkarinya.[^8]
+melihat kebenaran Islam historis-teologis. Akan tetapi, mayoritas tetap mengingkarinya.[^9]
 
-[^7]: Teodisi,
+[^8]: Teodisi,
       "Islam Bukan Agama?",
       https://www.teodisi.com/2020/06/islam-bukan-agama.html
       (Selasa, 27 September 2022, 13.19)
 
-[^8]: al-Qur'an,
+[^9]: al-Qur'an,
       83:13.
 
 Pendekatan (1) historis-teologis adalah pendekatan dengan cara mengelompokkan dan menafsirkan teks-teks yang terkait
 dengan metafisik secara kronologis, termasuk peristiwa *Mi'raj* yang dialami Rasulullah Muhammad SAW, perjalanan lintas
 dimensi ruang-waktu yang ditempuh hanya dalam semalam dari *Masjid al-Aqsa* menuju *Sidrat al-Muntaha* yang tidak perlu
 dibuktikan empiris sebab keterbatasan akal (rasio) sejak zaman kerasulan Rasulullah hingga umat manusia pada zaman
-ini.[^9] Pendekatan (2) ilmiah (*scientific*) adalah pendekatan dengan cara mengkaji teks-teks yang terkait
+ini.[^10] Pendekatan (2) ilmiah (*scientific*) adalah pendekatan dengan cara mengkaji teks-teks yang terkait
 dengan fakta sunatullah (*kauniyah*) secara historis, hukum yang bersifat perintah maupun larangan.
 
-[^9]: Teodisi,
+[^10]: Teodisi,
       "Isra' Mi'raj Untuk Kedewasaan Berpikir",
       https://www.teodisi.com/2022/02/memperingati-isra-miraj.html
       (Selasa, 27 September 2022, 15.12)
@@ -143,21 +149,21 @@ kebenaran itu sendiri. Manusia inilah sumber pembiasan logika.
 {{< /style >}}
 
 <sub>Mereka bertanya kepadamu (Nabi Muhammad) tentang ruh. Katakanlah, “Ruh itu termasuk urusan Tuhanku,
-sedangkan kamu tidak diberi pengetahuan kecuali hanya sedikit.”[^10]</sub>
+sedangkan kamu tidak diberi pengetahuan kecuali hanya sedikit.”[^11]</sub>
 
-[^10]: al-Qur'an,
+[^11]: al-Qur'an,
       17:85.
 
 ---
 
-*Al-Qur'an* juga disebut *ar-Ruh*, diwahyukan melalui perantaraan Malaikat Jibril AS (*ar-Ruh al-Amin*) dengan
-firman Allah SWT.[^3] Fakta tentang keterbatasan akal (rasio) manusia pun telah difirmankan, "... sedangkan kamu
-tidak diberi pengetahuan kecuali hanya sedikit.". Manusia sekuler era modern juga mengakui, setidaknya, dari kalangan
-ilmuwan. Akan tetapi, mayoritas tetap mengingkarinya.[^11] Filsuf Jerman Immanuel Kant menyatakan bahwa ia "menolak
-pengetahuan" untuk memberi ruang bagi iman—apabila umat manusia mampu "membuktikan" eksistensi Tuhan YME dengan
-konkret, universal, dan mutlak maka manusia tidak perlu lagi beriman sebab telah memiliki Sains Ketuhanan.
+*Al-Qur'an* juga disebut *ar-Ruh*, diwahyukan melalui perantaraan Malaikat Jibril AS (*ar-Ruh al-Amin*) dengan firman
+Allah SWT.[^3] Fakta tentang keterbatasan akal (rasio) manusia pun telah difirmankan, "... sedangkan kamu tidak diberi
+pengetahuan kecuali hanya sedikit.".[^11] Manusia sekuler era modern juga mengakui, setidaknya, dari kalangan ilmuwan.
+Akan tetapi, mayoritas tetap mengingkarinya.[^12] Filsuf Jerman Immanuel Kant menyatakan bahwa ia "menolak pengetahuan"
+untuk memberi ruang bagi iman—apabila umat manusia mampu "membuktikan" eksistensi Tuhan YME dengan konkret,
+universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memiliki *Science of God*.[^13]
 
-[^11]: *Ibid*.,
+[^12]: *Ibid*.,
        6:125;
        7:57;
        7:58;
@@ -251,5 +257,8 @@ konkret, universal, dan mutlak maka manusia tidak perlu lagi beriman sebab telah
        86:11;
        86:12;
        96:15.
+
+[^13]: *Ibid*.,
+       42:51.
 
 {{< /style >}}
