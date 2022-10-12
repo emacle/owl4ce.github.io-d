@@ -127,9 +127,9 @@ ini.[^10] Pendekatan (2) ilmiah (*scientific*) adalah pendekatan dengan cara men
 dengan fakta sunatullah (*kauniyah*) secara historis, hukum yang bersifat perintah maupun larangan.
 
 [^10]: Teodisi,
-      "Isra' Mi'raj Untuk Kedewasaan Berpikir",
-      https://www.teodisi.com/2022/02/memperingati-isra-miraj.html
-      (Selasa, 27 September 2022, 15.12)
+       "Isra' Mi'raj Untuk Kedewasaan Berpikir",
+       https://www.teodisi.com/2022/02/memperingati-isra-miraj.html
+       (Selasa, 27 September 2022, 15.12)
 
 Sebagaimana yang diketahui, paradigma keilmuan Barat menyatakan bahwa segala sesuatu dapat disebut ilmiah (ontologis)
 apabila ruang lingkupnya berada dalam jangkauan akal (rasio) manusia, dan sesuatu dianggap benar apabila didasarkan 3
@@ -152,7 +152,7 @@ kebenaran itu sendiri. Manusia inilah sumber pembiasan logika.
 sedangkan kamu tidak diberi pengetahuan kecuali hanya sedikit.”[^11]</sub>
 
 [^11]: al-Qur'an,
-      17:85.
+       17:85.
 
 ---
 
