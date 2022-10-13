@@ -1054,17 +1054,17 @@ Lucy (Kaede)
 
 | POSIX <br><sup><sub>(+extensions)</sub></sup> | bash <br><sup><sub>(and others)</sub></sup> | ? |
 |:---:|:---:|:---|
-| `\a` | `\a` | To hide warning, denoted with bell character. |
-| `\b` | `\b` | As backspace character. |
-| `\c` | `\c` | To suppress more output. Usually used at the end of argument. |
+| `\a` | <sup><sub>(identical)</sub></sup> | To hide warning, denoted with bell character. |
+| `\b` | <sup><sub>(identical)</sub></sup> | As backspace character. |
+| `\c` | <sup><sub>(identical)</sub></sup> | To suppress more output. Usually used at the end of argument. |
 | <sup><sub>(none)</sub></sup> | `\e` <br> `\E` | As [escape character](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797). Alternatively octal 8-bit (`\033`), 2 digits. |
-| `\f` | `\f` | As form feed character. |
-| `\n` | `\n` | As newline character. |
-| `\r` | `\r` | As carriage return character. |
-| `\t` | `\t` | As horizontal tab character. |
-| `\v` | `\v` | As vertical tab character. |
-| `\\` | `\\` | As backslash character. |
-| `\0nnn` | `\0nnn` | As octal 8-bit character (`nnn`), 0-3 digits. |
+| `\f` | <sup><sub>(identical)</sub></sup> | As form feed character. |
+| `\n` | <sup><sub>(identical)</sub></sup> | As newline character. |
+| `\r` | <sup><sub>(identical)</sub></sup> | As carriage return character. |
+| `\t` | <sup><sub>(identical)</sub></sup> | As horizontal tab character. |
+| `\v` | <sup><sub>(identical)</sub></sup> | As vertical tab character. |
+| `\\` | <sup><sub>(identical)</sub></sup> | As backslash character. |
+| `\0nnn` | <sup><sub>(identical)</sub></sup> | As octal 8-bit character (`nnn`), 0-3 digits. |
 | <sup><sub>(none)</sub></sup> | `\xHH` | As hexadecimal 8-bit character (`HH`), 1-2 digits. |
 | <sup><sub>(none)</sub></sup> | `\uHHHH` | As hexadecimal unicode character (`HHHH`), 1-4 digits. |
 | <sup><sub>(none)</sub></sup> | `\UHHHHHHHH` | As hexadecimal unicode character (`HHHHHHHH`), 1-8 digits. |
