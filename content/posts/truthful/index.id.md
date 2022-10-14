@@ -120,7 +120,7 @@ melihat kebenaran Islam historis-teologis. Akan tetapi, mayoritas tetap mengingk
       83:13.
 
 Pendekatan (1) historis-teologis adalah pendekatan dengan cara mengelompokkan dan menafsirkan teks-teks yang terkait
-dengan metafisik secara kronologis, termasuk peristiwa *Mi'raj* yang dialami Rasulullah Muhammad SAW, perjalanan lintas
+dengan metafisika secara kronologis, termasuk peristiwa *Mi'raj* yang dialami Rasulullah Muhammad SAW, perjalanan lintas
 dimensi ruang-waktu yang ditempuh hanya dalam semalam dari *Masjid al-Aqsa* menuju *Sidrat al-Muntaha* yang tidak perlu
 dibuktikan empiris sebab keterbatasan akal (rasio) sejak zaman kerasulan Rasulullah hingga umat manusia pada zaman
 ini.[^10] Pendekatan (2) ilmiah (*scientific*) adalah pendekatan dengan cara mengkaji teks-teks yang terkait
@@ -138,7 +138,7 @@ yang dapat diulangbuktikan (induktif-deduktif) oleh siapa pun. Peristiwa *Mi'raj
 tidak pernah dipandang sebagai sesuatu yang ilmiah (*scientific*), melainkan sebatas dogma, seperti agama lain.
 Namun, dalam perspektif keilmuan *Din al-Islam*, peristiwa *Mi'raj* tetap menjadi sesuatu yang ilmiah dan *haq*
 sebab mengakui paradigma transenden. Iman terhadap kebenaran yang datang dari Allah SWT. Iman terhadap segala
-sesuatu yang metafisik merupakan kebenaran yang tidak perlu adanya bukti empiris semata belum-tidaknya
+sesuatu yang nonfisik merupakan kebenaran yang tidak perlu adanya bukti empiris semata belum-tidaknya
 terjangkau akal (rasio) manusia, apalagi sampai dijadikan dalih untuk membuktikan ketidakbenaran
 kebenaran itu sendiri. Manusia inilah sumber pembiasan logika.
 
