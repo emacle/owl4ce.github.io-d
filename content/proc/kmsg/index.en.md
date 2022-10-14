@@ -6,7 +6,7 @@ lastmod:
 draft: false
 author: "Harry Kurn"
 authorLink: ""
-description: "$ man 5 proc | less +/kmsg"
+description: ""
 license: ""
 images: ["https://github.com/owl4ce.png"]
 
@@ -77,11 +77,11 @@ B9BD C551 5AF4 9F42 CBC8 CF39 7D03 DB4D 862E A826
 
 ---
 
-<!--
 {{< music url="Q3JhcyBudW1xdWFtIHNjaXJlCg==/Q3JhcyBudW1xdWFtIHNjaXJlCg==" name="Cras numquam scire" artist="Yucca" cover="Q3JhcyBudW1xdWFtIHNjaXJlCg==/VGhlIE15c3RpYyBBcmNoaXZlcyBvZiBEYW50YWxpYW4K" lrc="Q3JhcyBudW1xdWFtIHNjaXJlCg==/WXVjY2EgLSBDcmFzIG51bXF1YW0gc2NpcmUgfCBFbiB8IFJlYXJyYW5nZWQgYnkgb3dsNGNlCg==" autoplay="true" >}}
--->
 
+<!--
 {{< music url="QXZlbmdlZCBTZXZlbmZvbGQgLSBEZWFyIEdvZAo=/QXZlbmdlZCBTZXZlbmZvbGQgLSBEZWFyIEdvZAo=" name="Dear God" artist="Avenged Sevenfold" cover="QXZlbmdlZCBTZXZlbmZvbGQgLSBEZWFyIEdvZAo=/QXZlbmdlZCBTZXZlbmZvbGQgLSBBdmVuZ2VkIFNldmVuZm9sZAo=" lrc="QXZlbmdlZCBTZXZlbmZvbGQgLSBEZWFyIEdvZAo=/QXZlbmdlZCBTZXZlbmZvbGQgLSBEZWFyIEdvZCB8IFJlYXJyYW5nZWQgYnkgb3dsNGNlCg==" autoplay="true" >}}
+-->
 
 {{< style "text-align:right" >}}
 <sub>:(fas fa-headset fa-fw): pseudo-432Hz</sub>
