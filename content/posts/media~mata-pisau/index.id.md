@@ -8,13 +8,13 @@ author: "Harry Kurn"
 authorLink: ""
 description: "Sang penyihir psikososial dengan berita, baik fakta yang ada maupun dipaksa ada. ... bermata ganda."
 license: ""
-images: ["/id/edge/featured.jpg"]
+images: ["/id/media~mata-pisau/featured.jpg"]
 
 tags: ["Social"]
 categories: ["Opinion"]
 
 featuredImage: ""
-featuredImagePreview: "/id/edge/featured.jpg"
+featuredImagePreview: "/id/media~mata-pisau/featured.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: ["js/shield.js"]
 seo:
-  images: ["/id/edge/featured.jpg"]
+  images: ["/id/media~mata-pisau/featured.jpg"]
   # ...
 ---
 

@@ -8,13 +8,13 @@ author: "Harry Kurn"
 authorLink: ""
 description: "Memperkukuh paradigma seorang administrator dalam menyusun algoritma, praktis komprehensif."
 license: ""
-images: ["/id/shopts/featured.jpg"]
+images: ["/id/opts~unix-shell/featured.jpg"]
 
 tags: ["Unix-like"]
 categories: ["Technical"]
 
 featuredImage: ""
-featuredImagePreview: "/id/shopts/featured.jpg"
+featuredImagePreview: "/id/opts~unix-shell/featured.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: ["js/shield.js"]
 seo:
-  images: ["/id/shopts/featured.jpg"]
+  images: ["/id/opts~unix-shell/featured.jpg"]
   # ...
 ---
 

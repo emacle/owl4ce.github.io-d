@@ -6,15 +6,15 @@ lastmod: 2022-09-25T02:20:52+07:00
 draft: false
 author: "Harry Kurn"
 authorLink: ""
-description: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+description: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit ..."
 license: ""
-images: ["/lipsum/featured.jpg"]
+images: ["/lorem-ipsum/featured.jpg"]
 
 tags: ["Lipsum"]
 categories: ["Dummy"]
 
 featuredImage: ""
-featuredImagePreview: "/lipsum/featured.jpg"
+featuredImagePreview: "/lorem-ipsum/featured.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: ["js/shield.js"]
 seo:
-  images: ["/lipsum/featured.jpg"]
+  images: ["/lorem-ipsum/featured.jpg"]
   # ...
 ---
 

@@ -8,13 +8,13 @@ author: "Harry Kurn"
 authorLink: ""
 description: "Dia yang tidak ragu [maka] tidak melihat, dan dia yang tidak melihat [maka] tidak [pernah] melihat, dan dia yang tidak [pernah] melihat tetap dalam kebutaan .... Keraguan adalah pintu awal menuju ..."
 license: ""
-images: ["/id/truthful/featured.jpg"]
+images: ["/id/kalbu~perspektif-logika/featured.jpg"]
 
 tags: ["Islam"]
 categories: ["Essay"]
 
 featuredImage: ""
-featuredImagePreview: "/id/truthful/featured.jpg"
+featuredImagePreview: "/id/kalbu~perspektif-logika/featured.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: ["js/shield.js"]
 seo:
-  images: ["/id/truthful/featured.jpg"]
+  images: ["/id/kalbu~perspektif-logika/featured.jpg"]
   # ...
 ---
 
