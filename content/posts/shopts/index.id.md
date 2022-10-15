@@ -58,7 +58,7 @@ seo:
 {{< style "text-align:justify" >}}
 
 Memahami spesifikasi POSIX maka otomatis menguasai berbagai (Unix) *shell*. Memahami bukanlah hanya diketahui,
-tetapi harus mempelajari lingkungan *userspace*. Mempelajari tidak sekedar *trial-error*, melainkan diaplikasikan,
+tetapi harus mempelajari lingkungan *userspace*. Mempelajari tidak sekadar *trial-error*, melainkan diaplikasikan,
 guna [memperkukuh](#preferrable-shell-syntaxes) paradigma dalam menyusun sebuah algoritma. Demikian,
 rangkuman praktis ini didedikasikan bagi para "pragmatis" terhadap segala urusan teknis.
 
