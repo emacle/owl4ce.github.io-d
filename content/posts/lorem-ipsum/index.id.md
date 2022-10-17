@@ -3,7 +3,7 @@ title: "Lorem Ipsum"
 subtitle: ""
 date: 2022-09-25T02:20:52+07:00
 lastmod: 2022-09-25T02:20:52+07:00
-draft: false
+draft: true
 author: "Harry Kurn"
 authorLink: ""
 description: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit ..."
