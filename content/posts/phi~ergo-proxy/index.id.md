@@ -23,7 +23,7 @@ lightgallery: false
 ruby: false
 fraction: false
 fontawesome: true
-linkToMarkdown: true
+linkToMarkdown: false
 rssFullText: false
 
 toc:
@@ -38,7 +38,7 @@ math:
 mapbox:
   # ...
 share:
-  enable: true
+  enable: false
   # ...
 comment:
   enable: false
@@ -233,12 +233,6 @@ Kota-kota kubah yang tersisa terus mengalami kegagalan. Bupati Donov Mayer hanya
 
 ---
 
-{{< /style >}}
-
-## Acknowledgements
-
-{{< style "text-align:justify" >}}
-
 This analysis would not be done without them, many thanks to:
 
 1. [https://ergoproxy.fandom.com/wiki/Ergo_Proxy_Wiki](https://ergoproxy.fandom.com/wiki/Ergo_Proxy_Wiki);
@@ -246,6 +240,5 @@ This analysis would not be done without them, many thanks to:
 
 and really appreciate [her](https://myanimelist.net/profile/cureClover)—excellent analysis.
 More emphasizing the core philosophical aspects of the story and a little detailing the psychological aspects.
-Thanks for taking so much time to read. **^^**
 
 {{< /style >}}

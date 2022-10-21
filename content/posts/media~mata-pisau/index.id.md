@@ -23,7 +23,7 @@ lightgallery: false
 ruby: false
 fraction: false
 fontawesome: true
-linkToMarkdown: true
+linkToMarkdown: false
 rssFullText: false
 
 toc:
@@ -38,7 +38,7 @@ math:
 mapbox:
   # ...
 share:
-  enable: true
+  enable: false
   # ...
 comment:
   enable: false
