@@ -10,7 +10,7 @@ description: "Dia yang tidak ragu [maka] tidak melihat, dan dia yang tidak melih
 license: ""
 images: ["/id/kalbu~perspektif-logika/featured.jpg"]
 
-tags: ["Islam"]
+tags: ["Din al-Islam"]
 categories: ["Essay"]
 
 featuredImage: ""
@@ -65,8 +65,8 @@ adalah "hewan" (fisiologis) yang paling rumit di realitas kosmos.
       95:4.
 
 Akal (otak manusia) akan berfungsi dengan maksimal apabila mendapat dukungan persepsi empiris indra pendengaran
-telinga dan penglihatan mata—tiga institusi terpenting yang dimiliki manusia.[^2] Tiga institusi (akal, pendengaran,
-dan penglihatan) tersebut menjadikan manusia "hidup" (spiritual[^3]) dua kali apabila difungsikan sebagaimana mestinya,
+telinga dan penglihatan mata—tiga institusi terpenting yang dimiliki manusia.[^2] Tiga institusi—akal, pendengaran,
+dan penglihatan—tersebut menjadikan manusia hidup (spiritual[^3]) dua kali apabila difungsikan sebagaimana mestinya,
 guna meningkatkan derajat (takwa) di hadapan Sang Pencipta.[^4] Manusia sekuler juga sadar bahwa mereka menggunakan akalnya
 dalam bertindak mengambil keputusan, tetapi mereka hanya berhenti (ingkar) pada moralitas dan etika (*kauniyah*).[^5]
 
@@ -80,7 +80,8 @@ dalam bertindak mengambil keputusan, tetapi mereka hanya berhenti (ingkar) pada 
 
 [^4]: *Ibid*.,
       3:133;
-      3:134.
+      3:134;
+      53:32.
 
 [^5]: IHS :: The Institute for Humanist Studies promotes humanism,
       "IHS :: What is humanism? Are you a humanist? (Humanist philosophy)",
@@ -91,18 +92,33 @@ Nilai-nilai luhur yang termaktub dalam Pancasila, yang merupakan cermin kepribad
 semata gagasannya terkesan utopis dari para *founding father* bangsa. Paradigma dogmatis yang ditanamkan oleh golongan
 manusia yang berbangga diri (merasa berhak) berbicara tentang Tuhan YME masih mendominasi pola pikir manusia dalam
 upaya mengenal-Nya. Bangsa yang memahami esensi sila pertama secara hakiki (objektif[^6]), "Ketuhanan yang Maha Esa",
-otomatis membentuk karakter bangsa sesuai sila kedua hingga kelima.[^7] Hingga milenium kedua, paradigma dogmatis
+otomatis membentuk karakter bangsa sesuai sila kedua hingga kelima.[^7] Hingga milenium ketiga, paradigma dogmatis
 yang digunakan untuk menyelidiki suatu kebenaran dalam perspektif keilmuan (*science*) ialah doktrin
 sekuler dari Barat, yang sering menimbulkan bias di antara kaum beragama.
 
 [^6]: al-Qur'an,
+      4:171;
+      5:75;
+      6:100;
+      6:101;
+      6:103;
+      9:30;
+      13:16;
+      17:111;
+      23:91;
+      25:2;
+      37:149;
+      37:150;
+      37:151;
+      37:152;
       112:1;
       112:2;
       112:3;
       112:4.
 
 [^7]: *Ibid*.,
-      4:135.
+      4:135;
+      5:8.
 
 Disadari atau tidak, salah satu pembiasan logika paling fatal ialah menempatkan semua agama pada posisi dan fenomena
 yang sama rata. *Din al-Islam* (tauhid) yang secara fitrah (potensial) mengakui eksistensi Tuhan YME, sejak dijadikannya
@@ -117,6 +133,14 @@ melihat kebenaran Islam historis-teologis. Akan tetapi, mayoritas tetap mengingk
       (Selasa, 27 September 2022, 13.19)
 
 [^9]: al-Qur'an,
+      6:25;
+      8:31;
+      16:24;
+      23:83;
+      25:5;
+      27:68;
+      46:17;
+      68:15;
       83:13.
 
 Pendekatan (1) historis-teologis adalah pendekatan dengan cara mengelompokkan dan menafsirkan teks-teks yang terkait
@@ -164,14 +188,28 @@ untuk memberi ruang bagi iman—apabila umat manusia mampu "membuktikan" eksiste
 universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memiliki *Science of God*.[^13]
 
 [^12]: *Ibid*.,
+       2:22;
+       2:164;
+       6:96;
+       6:97;
+       6:98;
+       6:99;
        6:125;
+       6:141;
        7:57;
        7:58;
        9:36;
        10:5;
+       10:61;
+       13:2;
        13:3;
        13:4;
+       13:12;
+       13:15;
        13:17;
+       15:19;
+       15:20;
+       15:21;
        15:22;
        16:4;
        16:5;
@@ -181,9 +219,12 @@ universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memilik
        16:13;
        16:14;
        16:15;
+       16:65;
        16:66;
+       16:67;
        16:68;
        16:69;
+       17:12;
        20:53;
        21:30;
        21:31;
@@ -199,6 +240,7 @@ universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memilik
        23:19;
        23:20;
        23:21;
+       24:39;
        24:40;
        24:43;
        24:44;
@@ -212,12 +254,15 @@ universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memilik
        25:54;
        25:61;
        25:62;
+       27:61;
        27:88;
        29:41;
        30:21;
        30:22;
        30:24;
        30:48;
+       31:10;
+       31:29;
        32:5;
        32:27;
        35:9;
@@ -226,10 +271,20 @@ universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memilik
        35:13;
        35:27;
        35:28;
+       36:36;
+       36:37;
+       36:38;
        36:39;
        36:40;
+       36:71;
+       36:72;
+       36:73;
+       36:77;
+       36:80;
        39:5;
        39:21;
+       42:11;
+       49:13;
        50:9;
        51:7;
        51:47;
@@ -237,6 +292,13 @@ universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memilik
        52:6;
        53:45;
        53:46;
+       54:49;
+       55:4;
+       55:5;
+       55:19;
+       55:20;
+       55:33;
+       55:41;
        56:70;
        57:25;
        67:30;
@@ -251,14 +313,24 @@ universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memilik
        78:14;
        78:15;
        78:16;
+       81:15;
+       81:16;
+       81:17;
+       81:18;
        86:3;
        86:6;
        86:7;
        86:11;
        86:12;
+       91:1;
+       91:2;
+       91:3;
+       91:4;
        96:15.
 
 [^13]: *Ibid*.,
+       6:9;
+       6:158;
        42:51.
 
 {{< /style >}}
