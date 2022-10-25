@@ -5,12 +5,12 @@ date: 2022-09-26T23:13:43+07:00
 lastmod: 2022-09-26T23:13:43+07:00
 draft: false
 author: "Harry Kurn"
-authorLink: ""
+authorLink: "/id/posts"
 description: "Dia yang tidak ragu [maka] tidak melihat, dan dia yang tidak melihat [maka] tidak [pernah] melihat, dan dia yang tidak [pernah] melihat tetap dalam kebutaan .... Keraguan adalah pintu awal menuju ..."
 license: ""
 images: ["/id/kalbu~perspektif-logika/featured.jpg"]
 
-tags: ["Din al-Islam"]
+tags: ["Hujjah", "Din al-Islam"]
 categories: ["Essay"]
 
 featuredImage: ""

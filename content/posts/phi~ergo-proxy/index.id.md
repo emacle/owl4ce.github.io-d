@@ -5,7 +5,7 @@ date: 2022-10-17T19:02:33+07:00
 lastmod: 2022-10-17T19:02:33+07:00
 draft: false
 author: "Harry Kurn"
-authorLink: ""
+authorLink: "/id/posts"
 description: "Semua orang yang mengembara dalam kegelapan mencari cahaya, tetapi ketika mereka mencapai cahaya [yang mereka cari], mereka [justru] memalingkan mata mereka dari silau yang menyilaukan."
 license: ""
 images: ["/id/phi~ergo-proxy/featured.jpg"]

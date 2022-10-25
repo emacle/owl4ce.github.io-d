@@ -5,12 +5,12 @@ date: 2022-03-14T22:36:11+07:00
 lastmod: 2022-03-14T22:36:11+07:00
 draft: false
 author: "Harry Kurn"
-authorLink: ""
+authorLink: "/id/posts"
 description: "Memperkukuh paradigma seorang administrator dalam menyusun algoritma, praktis komprehensif."
 license: ""
 images: ["/id/opts~unix-shell/featured.jpg"]
 
-tags: ["Unix-like"]
+tags: ["Shell", "Unix-like"]
 categories: ["Technical"]
 
 featuredImage: ""
