@@ -32,7 +32,7 @@ paginate = 7
 googleAnalytics = ""
 # copyright description used only for seo schema
 # 版权描述，仅仅用于 SEO
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -53,7 +53,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "owl4ce"
   email = "alternate-se7en@proton.me"
-  link = "/proc/kmsg"
+  link = "#"
 
 # Menu config
 # 菜单配置
@@ -106,7 +106,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     desktopMode = "fixed"
     # mobile header mode ["fixed", "normal", "auto"]
     # 移动端导航栏模式 ["fixed", "normal", "auto"]
-    mobileMode = "auto"
+    mobileMode = "fixed"
     # Header title config
     # 页面头部导航栏标题配置
     [params.header.title]
@@ -144,13 +144,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     author = false
     # site creation time
     # 网站创立年份
-    since = 2019
+    since = 2020
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
-    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0" target="_blank">CC BY-NC 4.0</a>'
+    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank">CC BY-NC-SA 4.0</a>'
 
   # Section (all posts) page config
   # Section (所有文章) 页面配置
@@ -764,7 +764,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Options to make hugo output files
 # 用于 Hugo 输出文档的设置
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
   page = ["HTML"]
   section = ["HTML"]
   taxonomy = ["HTML"]
@@ -778,7 +778,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
     [languages.en.menu]
       [[languages.en.menu.main]]
         weight = 1
@@ -794,7 +794,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fas fa-r fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://violet-ia.github.io/index.xml"
+        url = "/index.xml"
         title = "RSS"
       [[languages.en.menu.main]]
         weight = 3
@@ -856,7 +856,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     languageCode = "id"
     languageName = "Bahasa Indonesia"
     hasCJKLanguage = false
-    copyright = "Karya ini dilisensikan di bawah Creative Commons Attribution-NonCommercial 4.0 International License."
+    copyright = "Karya ini dilisensikan di bawah Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
     [languages.id.menu]
       [[languages.id.menu.main]]
         weight = 1
@@ -872,7 +872,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fas fa-r fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://violet-ia.github.io/id/index.xml"
+        url = "/index.xml"
         title = "RSS"
       [[languages.id.menu.main]]
         weight = 3
