@@ -1,5 +1,5 @@
 ---
-title: "Absurdisme Ergo Proxy"
+title: "Absurdisme \"raison d'être\" Ergo Proxy"
 subtitle: ""
 date: 2022-10-17T19:02:33+07:00
 lastmod: 2022-10-17T19:02:33+07:00
@@ -10,7 +10,7 @@ description: "Semua orang yang mengembara dalam kegelapan mencari cahaya, tetapi
 license: ""
 images: ["/id/phi~ergo-proxy/featured.jpg"]
 
-tags: ["Philosophy", "Psychology"]
+tags: ["Philosophy", "Psychology", "Interpretation"]
 categories: ["Analysis"]
 
 featuredImage: ""

@@ -1,5 +1,5 @@
 ---
-title: "Media: Mata Pisau"
+title: "Mata Pisau bernama Media"
 subtitle: ""
 date: 2022-10-01T21:39:07+07:00
 lastmod: 2022-10-01T21:39:07+07:00
@@ -10,7 +10,7 @@ description: "Sang penyihir psikososial dengan berita, baik fakta yang ada maupu
 license: ""
 images: ["/id/media~mata-pisau/featured.jpg"]
 
-tags: ["Psychology", "Social"]
+tags: ["Psychology", "Social", "Critique"]
 categories: ["Opinion"]
 
 featuredImage: ""

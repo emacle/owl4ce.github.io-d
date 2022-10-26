@@ -1,5 +1,5 @@
 ---
-title: "Kalbu: Perspektif Logika"
+title: "Perspektif Logika itu Kalbu"
 subtitle: ""
 date: 2022-09-26T23:13:43+07:00
 lastmod: 2022-09-26T23:13:43+07:00
@@ -10,7 +10,7 @@ description: "Dia yang tidak ragu [maka] tidak melihat, dan dia yang tidak melih
 license: ""
 images: ["/id/kalbu~perspektif-logika/featured.jpg"]
 
-tags: ["Hujjah", "Din al-Islam"]
+tags: ["Hujjah", "Din al-Islam", "Critique"]
 categories: ["Essay"]
 
 featuredImage: ""

@@ -1,5 +1,5 @@
 ---
-title: "Optimisasi Mikro dan Portabilitas Unix-shell"
+title: "Optimisasi dan Portabilitas Unix Shell"
 subtitle: ""
 date: 2022-03-14T22:36:11+07:00
 lastmod: 2022-03-14T22:36:11+07:00
@@ -10,7 +10,7 @@ description: "Memperkukuh paradigma seorang administrator dalam menyusun algorit
 license: ""
 images: ["/id/opts~unix-shell/featured.jpg"]
 
-tags: ["Shell", "Unix-like"]
+tags: ["Optimization", "Shell", "Unix-like"]
 categories: ["Technical"]
 
 featuredImage: ""
