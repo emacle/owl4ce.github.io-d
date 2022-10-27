@@ -6,7 +6,7 @@ lastmod: 2022-03-14T22:36:11+07:00
 draft: false
 author: "Harry Kurn"
 authorLink: "/id/posts"
-description: "Memperkukuh paradigma seorang administrator dalam menyusun algoritma, praktis komprehensif."
+description: " "
 license: ""
 images: ["/id/opts~unix-shell/featured.jpg"]
 

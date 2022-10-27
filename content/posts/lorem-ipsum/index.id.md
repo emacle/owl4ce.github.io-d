@@ -6,7 +6,7 @@ lastmod: 2022-09-25T02:20:52+07:00
 draft: true
 author: "Harry Kurn"
 authorLink: "/id/posts"
-description: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit ..."
+description: " "
 license: ""
 images: ["/id/lorem-ipsum/featured.jpg"]
 
