@@ -1,15 +1,25 @@
 User-agent: *
 
 Disallow: /categories/
+Disallow: /en/categories/
 Disallow: /id/categories/
 Disallow: /css/
 Disallow: /js/
 Disallow: /lib/
+Disallow: /page/
+Disallow: /en/page/
+Disallow: /id/page/
+Disallow: /posts/
+Disallow: /en/posts/
+Disallow: /id/posts/
 Disallow: /proc/
+Disallow: /en/proc/
 Disallow: /id/proc/
 Disallow: /svg/
 Disallow: /tags/
+Disallow: /en/tags/
 Disallow: /id/tags/
+Disallow: /*.jpg$
 
 User-agent: MJ12bot
 Disallow: /
