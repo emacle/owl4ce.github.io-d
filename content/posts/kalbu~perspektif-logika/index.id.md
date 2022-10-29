@@ -158,11 +158,11 @@ dengan fakta sunatullah (*kauniyah*) secara historis, hukum yang bersifat perint
 Sebagaimana yang diketahui, paradigma keilmuan Barat menyatakan bahwa segala sesuatu dapat disebut ilmiah (ontologis)
 apabila ruang lingkupnya berada dalam jangkauan akal (rasio) manusia, dan sesuatu dianggap benar apabila didasarkan 3
 hal: koherensi, korespondensi, dan pragmatisme. Paradigma dalam positivisme hanya mengakui satu kebenaran, empiris
-yang dapat diulangbuktikan (induktif-deduktif) oleh siapa pun. Peristiwa *Mi'raj* dalam perspektif keilmuan Barat
+yang dapat diulangbuktikan (induktif/deduktif) oleh siapa pun. Peristiwa *Mi'raj* dalam perspektif keilmuan Barat
 tidak pernah dipandang sebagai sesuatu yang ilmiah (*scientific*), melainkan sebatas dogma, seperti agama lain.
 Namun, dalam perspektif keilmuan *Din al-Islam*, peristiwa *Mi'raj* tetap menjadi sesuatu yang ilmiah dan *haq*
 sebab mengakui paradigma transenden. Iman terhadap kebenaran yang datang dari Allah SWT. Iman terhadap segala
-sesuatu yang nonfisik merupakan kebenaran yang tidak perlu adanya bukti empiris semata belum-tidaknya
+sesuatu yang nonfisik merupakan kebenaran yang tidak perlu adanya bukti empiris semata belum/tidaknya
 terjangkau akal (rasio) manusia, apalagi sampai dijadikan dalih untuk membuktikan ketidakbenaran
 kebenaran itu sendiri. Manusia inilah sumber pembiasan logika.
 
