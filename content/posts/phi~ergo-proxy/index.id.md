@@ -1,5 +1,5 @@
 ---
-title: "Absurdisme \"raison d'être\" Ergo Proxy"
+title: "Absurdisme Ergo Proxy"
 subtitle: ""
 date: 2022-10-17T19:02:33+07:00
 lastmod: 2022-10-17T19:02:33+07:00
@@ -57,10 +57,10 @@ seo:
 
 {{< style "text-align:justify" >}}
 
-Ergo Proxy adalah salah satu dari serial *anime* klasik yang super kompleks dalam menyajikan cerita, ia berbeda dari
-lainnya. Mengapa tidak, ia menggunakan banyak referensi psikologis dan filosofis yang kental. Karena cara penyajian
-ceritanya yang halus, terkadang sulit untuk dimengerti tentang apa yang sebenarnya terjadi. Begitu memahami
-plotnya, pastilah menyadari betapa menakjubkan seri ini yang membuat penontonnya berpikir.
+Ergo Proxy merupakan salah satu dari berbagai serial *anime* yang super kompleks dalam menyajikan cerita,
+ia berbeda dari lainnya. Mengapa tidak, ia menggunakan banyak referensi psikologis dan filosofis yang kental.
+Karena cara penyajian ceritanya yang halus, terkadang sulit untuk dimengerti tentang apa yang sebenarnya terjadi.
+Begitu memahami plotnya yang diungkap pada episode ke-15, pasti menyadari betapa menakjubkan: klasik.
 Meskipun demikian, sangat disayangkan "underrated".
 
 ---
@@ -90,7 +90,7 @@ merupakan rahim artifisial. Replika manusia ini hidup di dalam kubah-kubah dari 
 diberi kebebasan kreatif tentang membuat masyarakat Dome mereka hidup, ini membantu "menciptakan" keragaman di antara
 budaya dan genetik. Mulai dari Amerika pasca-perang 1950-an yang idealistis lalu hiburan Disneyland ("Smileland" Dome),
 hingga negara/kota filosofis Yunani ("Romdeau" Dome) pun diciptakan. Dari replika manusia itu, mereka membuat
-semacam asisten berbasis mesin yang disebut "AutoReiv". Kombinasi keduanya membuat lebih banyak
+semacam *android* (berbasis mesin) yang disebut "AutoReiv". Kombinasi keduanya membuat lebih banyak
 AutoReiv lagi di dalam Dome (masing-masing Proxy) untuk berbagai tujuan.
 
 Kolonisasi dari kubah-kubah itu dimaksudkan oleh manusia asli untuk membantu mengembalikan siklus ekosistem lagi,
@@ -101,16 +101,20 @@ bentuk kecerdasan layaknya kehidupan manusia asli tetap ada—replika manusia te
 manusia telah benar-benar punah, yang tersisa hanyalah buatan dari para replika manusia yang memiliki
 jiwa kesadarannya sendiri—AutoReiv menjadi "hidup" karena mereka terinfeksi virus.
 
-Pino ialah satu-satunya "manusia" yang bercirikan anak-anak (berusia ~6 tahun) yang cantik dengan rasa ingin
-tahunya yang tinggi. Mengapa tidak, semakin lama AutoReiv bertahan dari virus "Cogito", semakin pula mereka mirip
+Pino ialah satu-satunya "manusia" yang bercirikan anak-anak yang cantik dengan rasa ingin tahunya yang tinggi.
+Mengapa tidak, semakin lama bertahan dari virus "Cogito" (bahasa Latin "Aku berpikir"), semakin pula AutoReiv mirip
 manusia. Mereka menjadi sadar diri (ber-ego) dan menunjukkan setiap kelemahan dan kekuatan emosi manusia, tetapi mereka
 unik dan berbeda dari manusia itu sendiri. Ini menjelaskan perilaku dan reaksi yang berbeda karena mesin telah berkembang
 menjadi manusia. Kemungkinan, virus Cogito didistribusikan/dikendalikan oleh Proxy sendiri. Ini logis ketika AutoReiv
 dari semua jenis menunjukkan perilaku yang aneh seperti postur berdoa dan menyerang manusia di hadapan Proxy—Monad
-dan Ergo. Setelah pertemuan dekat Vincent Law (MC) dengan Monad Proxy di Romdeau Shopping Mall, Pino tiba-tiba
-muncul dengan pose berdoa yang sama dengan AutoReiv lainnya yang terinfeksi di sepanjang seri. Posisi berdoa
-kemungkinan besar terkait dengan keinginan tunggal manusia untuk menciptakan atau menemukan
-kepercayaan kepada pencipta yang tertinggi.
+dan Ergo. Setelah pertemuan dekat Vincent Law (alter ego Ergo) dengan Monad Proxy di Romdeau Shopping Mall,
+Pino lalu muncul dengan pose berdoa yang sama dengan AutoReiv lainnya yang terinfeksi virus. Posisi
+berdoa kemungkinan besar terkait dengan keinginan tunggal manusia untuk menciptakan
+atau menemukan kepercayaan kepada pencipta yang tertinggi.
+
+{{< admonition warning "Lihat adegan (brutal) Raul Creed kehilangan \"raison d'être\" sebab keluarganya terbantai" false >}}
+{{< youtube J0_dRIrDGqg >}}
+{{< /admonition >}}
 
 Esensialisme "Proxy", ras manusia super hasil rekayasa genetika yang diciptakan oleh manusia asli sebagai agen
 dari pencipta mereka, "seseorang yang diberi wewenang bertindak untuk orang lain". Proxy sendiri baru menyadari
@@ -150,13 +154,13 @@ tanpa rekan nyata sesamanya. Oleh sebab itu, muncul berbagai masalah psikologis:
   pada ciptaannya—efek domino. Populasi manusia yang semakin berkurang akibat diintimidasi oleh AutoReiv
   ketika dirinya memperoleh jiwa kesadaran. Pengalaman dari AutoReiv sendirilah yang menentukan mereka
   dalam bertindak—pengalaman/ingatan bergantung pada tubuh. Ini ditonjolkan dalam perilaku
-  AutoReiv militer terhadap AutoReiv Pino—manusia biasa memperlakukan layaknya anak-anak.
+  AutoReiv militer yang berbeda dengan Pino—manusia memperlakukan ia layaknya anak-anak.
 - __*Escapist*__  
   Proxy melarikan diri dari realitas mereka dengan meninggalkan/melupakan Dome yang justru menciptakan efek
   domino pada populasi Dome mereka—tidak ada Proxy maka rahim artifisial tidak akan berfungsi, alhasil tidak
   ada lagi manusia yang lahir. Masyarakat yang tersisa mulai mempertanyakan *raison d'être* mereka dengan jalan
-  yang serupa—pergi meninggalkan Dome. Mereka mempertanyakan eksistensi mereka di dalam kubah-kubah, merasa
-  seperti dikurung. Ini ditonjolkan dalam "kontrak sosial" di Romdeau Dome bahwa manusia harus ada/eksis
+  serupa—mempertanyakan eksistensi mereka di dalam kubah-kubah, merasa seperti tawanan. Ini ditonjolkan dalam
+  Raul Creed yang mengungkapkan "kontrak sosial" utilitarianisme Romdeau Dome bahwa manusia harus ada
   di dalamnya, baik melalui WombSys maupun emigrasi—hidup keras dengan kebebasan penuh di luar
   yang liar atau hidup nyaman dengan menyerahkan sedikit kebebasan di dalam kota kubah.
 
@@ -188,7 +192,7 @@ kuat pula. Penyebabnya ialah sel Amrita diprogram untuk bermutasi rentan terhada
 
 Manusia asli telah sengaja "menciptakan" Proxy menjadi makhluk yang tidak sempurna yang berarti "ciptaan" mereka
 juga tidak sempurna. Replika manusia yang tidak dapat bereproduksi. Mereka juga tidak mengetahui dari mana
-virus Cogito muncul—bagian dari "Boomerang Project". Tujuan utama manusia asli adalah "Boomerang Project",
+virus Cogito muncul—bagian dari "Boomerang Project". Tujuan utama manusia asli ialah "Boomerang Project",
 "Proxy Project" dan virus "Cogito" hanyalah rencana darurat. Manusia asli tidak ingin kubahnya penuh
 dengan replika manusia ketika mereka kembali karena tidak cukup ruang bagi mereka. Mereka juga
 tidak ingin ada Proxy yang akan menyebabkan masalah bagi mereka. Jadi, "kodrat" replika
@@ -227,9 +231,9 @@ Vincent Law, dan Pino saat mereka melakukan perjalanan untuk menemukan kebenaran
 serta diri mereka sendiri. Bumi hanya memburuk, wabah yang disebut virus "Cogito" menyebar di antara populasi AutoReiv.
 Kota-kota kubah yang tersisa terus mengalami kegagalan. Bupati Donov Mayer hanyalah penguasa palsu Romdeau Dome.
 
----
-
+{{< admonition info "Pulse of the Awakening" false >}}
 {{< youtube MWI97Kg8ur8 >}}
+{{< /admonition >}}
 
 ---
 
