@@ -76,7 +76,7 @@ Manusia seperti inilah yang merugi, tanpa sadar membawa orang menuju kemiskinan;
 kesehatan mental yang semakin menjadi-jadi. Anak-anak hingga remaja yang "membabi buta" saling adu aksi,
 yang berujung pada kematian semata manipulasi rumor berita; film aksi; dan *game* yang provokatif.
 
-Lemahnya pengawasan orang yang bertanggung jawab atas anak-anak mereka, yang masih belum mengerti moral baik-buruk
+Lemahnya pengawasan orang yang bertanggung jawab atas anak-anak mereka, yang masih belum mengerti moral baik/buruk
 dan kurangnya "hati nurani", sebuah edukasi yang tertanam tanpa teori.[^2] Lupakan soal teori, pikirkan solusi,
 dan segera beraksi. Satu-satunya yang terbayang imajinasi ialah "Mengubah Keadaan menjadi Ketiadaan", sebuah
 solusi liar sesama mata pisau yang terbayang oleh golongan manusia yang juga kurang "hati nurani",
