@@ -58,9 +58,18 @@ seo:
 {{< style "text-align:justify" >}}
 
 Memahami spesifikasi POSIX maka otomatis menguasai berbagai (Unix) *shell*. Memahami bukanlah hanya diketahui,
-tetapi harus mempelajari lingkungan *userspace*. Mempelajari tidak sekadar *trial-error*, melainkan diaplikasikan,
-guna [<u>memperkukuh</u>](#preferrable-shell-syntaxes) paradigma dalam menyusun sebuah algoritma. Demikian,
-rangkuman praktis ini didedikasikan bagi para "pragmatis" terhadap segala urusan teknis.
+tetapi juga mempelajari lingkungan [*userspace* :(fas fa-arrow-up-right-from-square fa-fw):][shebang]. Mempelajari
+tidak sekadar *trial-error*, melainkan diaplikasikan, guna [<u>memperkukuh</u>](#preferrable-shell-syntaxes)
+paradigma dalam menyusun sebuah algoritma. Demikian, rangkuman praktis ini didedikasikan
+bagi para "pragmatis" terhadap segala urusan teknis.
+
+[shebang]: https://www.in-ulm.de/~mascheck/various/shebang "The #! magic, details about the shebang/hash-bang mechanism on various Unix flavours"
+
+---
+
+{{< typeit code=shell >}}
+#!/usr/bin/env sh
+{{< /typeit >}}
 
 ---
 
@@ -1176,20 +1185,6 @@ echo "$((7.7/7))"
 ---
 
 {{< /style >}}
-
-<!--CUT-HERE-->
-
-{{< style "text-align:right" >}}
-
-{{< typeit tag=h3 >}}
-*To be continued ...*
-{{< /typeit >}}
-
----
-
-{{< /style >}}
-
-<!--CUT-HERE-->
 
 ## Refs
 
