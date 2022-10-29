@@ -239,10 +239,13 @@ Kota-kota kubah yang tersisa terus mengalami kegagalan. Bupati Donov Mayer hanya
 
 This analysis would not be done without them, many thanks to:
 
-1. [https://ergoproxy.fandom.com/wiki/Ergo_Proxy_Wiki](https://ergoproxy.fandom.com/wiki/Ergo_Proxy_Wiki);
-2. [https://cureclover.livejournal.com/759](https://cureclover.livejournal.com/759.html);
+1. [Ergo Proxy Wiki :(fas fa-arrow-up-right-from-square fa-fw):][epwf];
+2. [Ergo Proxy anime explained! :(fas fa-arrow-up-right-from-square fa-fw):][epae];
 
-and really appreciate [her](https://myanimelist.net/profile/cureClover)—excellent analysis.
+[epwf]: https://ergoproxy.fandom.com/wiki/Ergo_Proxy_Wiki "Ergo Proxy Wiki | Fandom"
+[epae]: https://cureclover.livejournal.com/759.html "Ergo Proxy anime explained! (guide for story, plot and episodes)"
+
+and really appreciated [her](https://myanimelist.net/profile/cureClover)—an excellent analysis.
 More emphasizing the core philosophical aspects of the story and a little detailing the psychological aspects.
 
 {{< /style >}}
