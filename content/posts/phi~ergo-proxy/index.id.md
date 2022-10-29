@@ -79,7 +79,7 @@ menyiratkan bahwa manusia yang pergi suatu saat akan kembali lagi (ke Bumi) jika
 
 Manusia yang pergi ke luar angkasa memulai "Proxy Project" dengan "menciptakan" ~300 "Proxy" untuk memimpin dan
 menjaga Bumi. Proxy memiliki jumlah energi yang ultra dengan kekuatan yang dahsyat. Mereka juga abadi karena memiliki
-sel "Amrita" (bahasa Sanskerta "yang abadi") yang merupakan komposisi tubuhnya. Meskipun diprogram abadi, gelombang
+sel "Amrita" (bahasa Sanskerta "Yang abadi") yang merupakan komposisi tubuhnya. Meskipun diprogram abadi, gelombang
 energi tinggi spesifik dan sinar ultraviolet (UV) dapat menghancurkan sel-sel Amrita-nya. Proxy sendiri dapat
 menghasilkan gelombangnya, sehingga memungkinkan mereka untuk saling membunuh. Mereka memang abadi, tetapi
 sinar UV matahari dapat membunuhnya. Bagaimanapun juga dunia telah terlanjur gelap, dan karenanya
