@@ -59,7 +59,7 @@ seo:
 
 Memahami spesifikasi POSIX maka otomatis menguasai berbagai (Unix) *shell*. Memahami bukanlah hanya diketahui,
 tetapi harus mempelajari lingkungan *userspace*. Mempelajari tidak sekadar *trial-error*, melainkan diaplikasikan,
-guna [memperkukuh](#preferrable-shell-syntaxes) paradigma dalam menyusun sebuah algoritma. Demikian,
+guna [<u>memperkukuh</u>](#preferrable-shell-syntaxes) paradigma dalam menyusun sebuah algoritma. Demikian,
 rangkuman praktis ini didedikasikan bagi para "pragmatis" terhadap segala urusan teknis.
 
 ---
