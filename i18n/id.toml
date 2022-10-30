@@ -41,7 +41,7 @@ other = "Lainnya"
 other = "Pilih Bahasa"
 
 [switchTheme]
-other = "Ganti Tema"
+other = "Beralih Tema"
 # === partials/header.html ===
 
 # === partials/footer.html ===
@@ -105,10 +105,10 @@ other = "Bagikan ke"
 other = "Daftar Isi"
 
 [publishedOnDate]
-other = "diterbitkan pada {{ .Date }}"
+other = "menerbitkan pada {{ .Date }},"
 
 [includedInCategories]
-other = "dalam kategori {{ .Categories }}"
+other = "menulis {{ .Categories }}"
 
 [wordCount]
 one = "Satu kata"
