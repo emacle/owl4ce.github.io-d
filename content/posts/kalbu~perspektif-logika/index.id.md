@@ -45,7 +45,7 @@ comment:
   # ...
 library:
   css: []
-  js: ["js/shield.js"]
+  js: ["js/LPMQ.js", "js/shield.js"]
 seo:
   images: ["/id/kalbu~perspektif-logika/featured.jpg"]
   # ...
@@ -168,8 +168,8 @@ kebenaran itu sendiri. Manusia inilah sumber pembiasan logika.
 
 ---
 
-{{< style "text-align:right" >}}
-وَيَسْـَٔلُوْنَكَ عَنِ الرُّوْحِۗ قُلِ الرُّوْحُ مِنْ اَمْرِ رَبِّيْ وَمَآ اُوْتِيْتُمْ مِّنَ الْعِلْمِ اِلَّا قَلِيْلًا
+{{< style "font-family: LPMQ; font-size: 1.332rem; line-height: 48.1px; margin-top: 3.7px; text-align: initial; direction: rtl" >}}
+وَيَسْـَٔلُوْنَكَ عَنِ الرُّوْحِۗ قُلِ الرُّوْحُ مِنْ اَمْرِ رَبِّيْ وَمَآ اُوْتِيْتُمْ مِّنَ الْعِلْمِ اِلَّا قَلِيْلًا ٨٥
 {{< /style >}}
 
 <sub>Mereka bertanya kepadamu (Nabi Muhammad) tentang ruh. Katakanlah, “Ruh itu termasuk urusan Tuhanku,
