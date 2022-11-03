@@ -58,7 +58,7 @@ seo:
 {{< style "text-align:justify" >}}
 
 Manusia diajarkan melalui kalam (pena) tentang apa yang tidak diketahuinya (alam) untuk melihat
-Kemahamuliaan Allah SWT, Tuhan semesta alam.[^1] Masyarakat sekuler juga sadar bahwa mereka
+ke-Mahamulia-an Allah SWT, Tuhan semesta alam.[^1] Masyarakat sekuler juga sadar bahwa mereka
 maju sebab mengobservasi alam, mengubah perspektif dunia dari kolot menuju modern—rasional.
 
 [^1]: al-Qur'an,
