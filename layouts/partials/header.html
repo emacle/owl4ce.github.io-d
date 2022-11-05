@@ -43,10 +43,10 @@
                 {{- if .Site.Params.search.enable -}}
                     <span class="menu-item search" id="search-desktop">
                         <input type="text" placeholder="{{ .Site.Params.search.placeholder | default (T `searchPlaceholder`) }}" id="search-input-desktop">
-                        <a href="javascript:void(0);" rel="nofollow" class="search-button search-toggle" id="search-toggle-desktop" title="{{ T `search` }}">
+                        <a href="javascript:void(0);" rel="nofollow noopener" class="search-button search-toggle" id="search-toggle-desktop" title="{{ T `search` }}">
                             <i class="fas fa-search fa-fw" aria-hidden="true"></i>
                         </a>
-                        <a href="javascript:void(0);" rel="nofollow" class="search-button search-clear" id="search-clear-desktop" title="{{ T `clear` }}">
+                        <a href="javascript:void(0);" rel="nofollow noopener" class="search-button search-clear" id="search-clear-desktop" title="{{ T `clear` }}">
                             <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
                         </a>
                         <span class="search-button search-loading" id="search-loading-desktop">
@@ -54,11 +54,11 @@
                         </span>
                     </span>
                 {{- end -}}
-                <a href="javascript:void(0);" rel="nofollow" class="menu-item theme-switch" title="{{ T "switchTheme" }}">
+                <a href="javascript:void(0);" rel="nofollow noopener" class="menu-item theme-switch" title="{{ T "switchTheme" }}">
                     <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
                 </a>
                 {{- if .Site.IsMultiLingual -}}
-                <a href="javascript:void(0);" rel="nofollow" class="menu-item language" title="{{ T "selectLanguage" }}">
+                <a href="javascript:void(0);" rel="nofollow noopener" class="menu-item language" title="{{ T "selectLanguage" }}">
                     <i class="fa fa-globe" aria-hidden="true"></i>                      
                     <select class="language-select" id="language-select-desktop" onchange="location = this.value;">
                         {{- if eq .Kind "404" -}}
@@ -121,17 +121,17 @@
                 <div class="search-wrapper">
                     <div class="search mobile" id="search-mobile">
                         <input type="text" placeholder="{{ .Site.Params.search.placeholder | default (T `searchPlaceholder`) }}" id="search-input-mobile">
-                        <a href="javascript:void(0);" rel="nofollow" class="search-button search-toggle" id="search-toggle-mobile" title="{{ T `search` }}">
+                        <a href="javascript:void(0);" rel="nofollow noopener" class="search-button search-toggle" id="search-toggle-mobile" title="{{ T `search` }}">
                             <i class="fas fa-search fa-fw" aria-hidden="true"></i>
                         </a>
-                        <a href="javascript:void(0);" rel="nofollow" class="search-button search-clear" id="search-clear-mobile" title="{{ T `clear` }}">
+                        <a href="javascript:void(0);" rel="nofollow noopener" class="search-button search-clear" id="search-clear-mobile" title="{{ T `clear` }}">
                             <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
                         </a>
                         <span class="search-button search-loading" id="search-loading-mobile">
                             <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
                         </span>
                     </div>
-                    <a href="javascript:void(0);" rel="nofollow" class="search-cancel" id="search-cancel-mobile">
+                    <a href="javascript:void(0);" rel="nofollow noopener" class="search-cancel" id="search-cancel-mobile">
                         {{ T `cancel` }}
                     </a>
                 </div>
@@ -146,12 +146,12 @@
                     {{- .Pre | safeHTML }}{{ .Name }}{{ .Post | safeHTML -}}
                 </a>
             {{- end -}}
-            <a href="javascript:void(0);" rel="nofollow" class="menu-item theme-switch" title="{{ T "switchTheme" }}">
+            <a href="javascript:void(0);" rel="nofollow noopener" class="menu-item theme-switch" title="{{ T "switchTheme" }}">
                 <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
             </a>
             {{- if .Site.IsMultiLingual -}}
             
-                <a href="javascript:void(0);" rel="nofollow" class="menu-item" title="{{ T "selectLanguage" }}">
+                <a href="javascript:void(0);" rel="nofollow noopener" class="menu-item" title="{{ T "selectLanguage" }}">
                     <i class="fa fa-globe fa-fw" aria-hidden="true"></i>
                     <select class="language-select" onchange="location = this.value;">
                         {{- if eq .Kind "404" -}}
