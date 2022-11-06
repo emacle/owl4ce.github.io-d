@@ -19,7 +19,7 @@ Disallow: /svg/
 Disallow: /tags/
 Disallow: /en/tags/
 Disallow: /id/tags/
-Disallow: /*.jpg$
+Disallow: /*.webp$
 
 User-agent: MJ12bot
 Disallow: /
