@@ -8,13 +8,13 @@ author: "Harry Kurn"
 authorLink: "/id/posts"
 description: " "
 license: ""
-images: ["/id/media~mata-pisau/featured.jpg"]
+images: ["/id/media~mata-pisau/f"]
 
 tags: ["Psychology", "Social", "Critique"]
 categories: ["Opinion"]
 
 featuredImage: ""
-featuredImagePreview: "/id/media~mata-pisau/featured.jpg"
+featuredImagePreview: "/id/media~mata-pisau/f"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: ["js/shield.js"]
 seo:
-  images: ["/id/media~mata-pisau/featured.jpg"]
+  images: ["/id/media~mata-pisau/f"]
   # ...
 ---
 

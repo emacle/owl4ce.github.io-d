@@ -8,13 +8,13 @@ author: "Harry Kurn"
 authorLink: "/id/posts"
 description: " "
 license: ""
-images: ["/id/kalam~semesta-alam/featured.jpg"]
+images: ["/id/kalam~semesta-alam/f"]
 
 tags: ["Hujjah", "Din al-Islam", "Critique"]
 categories: ["Essay"]
 
 featuredImage: ""
-featuredImagePreview: "/id/kalam~semesta-alam/featured.jpg"
+featuredImagePreview: "/id/kalam~semesta-alam/f"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: ["js/LPMQ.js", "js/shield.js"]
 seo:
-  images: ["/id/kalam~semesta-alam/featured.jpg"]
+  images: ["/id/kalam~semesta-alam/f"]
   # ...
 ---
 

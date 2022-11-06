@@ -8,13 +8,13 @@ author: "Harry Kurn"
 authorLink: "/id/posts"
 description: " "
 license: ""
-images: ["/id/opts~unix-shell/featured.jpg"]
+images: ["/id/opts~unix-shell/f"]
 
 tags: ["Optimization", "Shell", "Unix-like"]
 categories: ["Technical"]
 
 featuredImage: ""
-featuredImagePreview: "/id/opts~unix-shell/featured.jpg"
+featuredImagePreview: "/id/opts~unix-shell/f"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: ["js/shield.js"]
 seo:
-  images: ["/id/opts~unix-shell/featured.jpg"]
+  images: ["/id/opts~unix-shell/f"]
   # ...
 ---
 
