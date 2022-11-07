@@ -782,12 +782,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [languages.en.menu]
       [[languages.en.menu.main]]
         weight = 1
-        identifier = "posts"
+        identifier = "interrupts"
         pre = "<i class='fas fa-p fa-fw'></i>"
         post = ""
         name = ""
-        url = "/posts"
-        title = "Posts"
+        url = "/proc/interrupts"
+        title = "Interrupts"
       [[languages.en.menu.main]]
         weight = 2
         identifier = "rss"
@@ -860,12 +860,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [languages.id.menu]
       [[languages.id.menu.main]]
         weight = 1
-        identifier = "posts"
+        identifier = "interrupts"
         pre = "<i class='fas fa-p fa-fw'></i>"
         post = ""
         name = ""
-        url = "/posts"
-        title = "Pos"
+        url = "/proc/interrupts"
+        title = "Interupsi"
       [[languages.id.menu.main]]
         weight = 2
         identifier = "rss"
