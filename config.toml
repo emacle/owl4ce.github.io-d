@@ -115,7 +115,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       logo = ""
       # title name
       # 标题名称
-      name = ""
+      name = "C.D.N.S."
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='fas fa-bookmark fa-fw'></i>"
@@ -783,35 +783,19 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [[languages.en.menu.main]]
         weight = 1
         identifier = "interrupts"
-        pre = "<i class='fas fa-p fa-fw'></i>"
+        pre = "<i class='fas fa-microchip fa-fw'></i>"
         post = ""
         name = ""
         url = "/proc/interrupts"
-        title = "Interrupts"
+        title = "Site Policy"
       [[languages.en.menu.main]]
         weight = 2
         identifier = "rss"
-        pre = "<i class='fas fa-r fa-fw'></i>"
+        pre = "<i class='fas fa-square-rss fa-fw'></i>"
         post = ""
         name = ""
         url = "/index.xml"
-        title = "RSS"
-      [[languages.en.menu.main]]
-        weight = 3
-        identifier = "github"
-        pre = "<i class='fas fa-g fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://git.io/JfLHJ"
-        title = "GitHub"
-      [[languages.en.menu.main]]
-        weight = 4
-        identifier = "mal"
-        pre = "<i class='fas fa-m fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://myanimelist.net/animelist/owl4ce?status=2&order=4&order2=0"
-        title = "MyAnimeList"
+        title = "RSS Feed"
     [languages.en.params]
       [languages.en.params.search]
         enable = false
@@ -861,35 +845,19 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [[languages.id.menu.main]]
         weight = 1
         identifier = "interrupts"
-        pre = "<i class='fas fa-p fa-fw'></i>"
+        pre = "<i class='fas fa-microchip fa-fw'></i>"
         post = ""
         name = ""
         url = "/proc/interrupts"
-        title = "Interupsi"
+        title = "Kebijakan Situs"
       [[languages.id.menu.main]]
         weight = 2
         identifier = "rss"
-        pre = "<i class='fas fa-r fa-fw'></i>"
+        pre = "<i class='fas fa-square-rss fa-fw'></i>"
         post = ""
         name = ""
         url = "/index.xml"
-        title = "RSS"
-      [[languages.id.menu.main]]
-        weight = 3
-        identifier = "github"
-        pre = "<i class='fas fa-g fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://git.io/JfLHJ"
-        title = "GitHub"
-      [[languages.id.menu.main]]
-        weight = 4
-        identifier = "mal"
-        pre = "<i class='fas fa-m fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://myanimelist.net/animelist/owl4ce?status=2&order=4&order2=0"
-        title = "MyAnimeList"
+        title = "Umpan RSS"
     [languages.id.params]
       [languages.id.params.search]
         enable = false
