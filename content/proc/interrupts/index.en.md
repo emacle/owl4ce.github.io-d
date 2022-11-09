@@ -77,7 +77,7 @@ applied science and as the main communicator.
 
 {{< style "text-align:justify" >}}
 
-The title of this book is adapted from Latin. **Crastinus** (IPA: `/ˈkraːs.ti.nus/`) etymologically
+The title of this book is adopted from Latin. **Crastinus** (IPA: `/ˈkraːs.ti.nus/`) etymologically
 "Crās" and suffix (masculine) "-tinus", means "<u>Tomorrow's</u>". **Dies** (IPA: `/ˈdi.eːs/`) etymologically "Diēs",
 means "<u>Day</u>". **Nunquam** (IPA: `/ˈnum.kʷam/`) etymologically "Nē" and "unquam", means "<u>Not</u>"
 and "<u>Ever</u>". **Sciat** (from 3rd person) etymologically "Sciō" (IPA: `/ˈski.oː/`), means "<u>Knows</u>".
@@ -92,7 +92,7 @@ increasingly ignorant of something that "will not ever complete" to find out (to
 
 ## Site Information
 
-### **:(fas fa-rocket fa-fw):** <sub>90+ Performance</sub>
+### **:(fas fa-rocket fa-fw):** <sub>99+ Performance</sub>
 
 {{< style "text-align:justify" >}}
 
@@ -122,11 +122,11 @@ Compile a handful of the issues, and ignore them.
        "Google's Lighthouse Accessibility Tests Are Helpful, But Not Perfect"
 {{< /admonition >}}
 
-{{< admonition example "Coding-side Optimization" true >}}
-1. Convert WebP-optimized (static) images with Lazy Load (dynamically) at runtime
+{{< admonition example "Front-end Optimization" true >}}
+1. Process WebP-optimized (static) images with Lazy Load (dynamically) at runtime
 2. Well-optimized and minified website element codes as much as possible
 3. Conditionally load specific libraries for each page only when needed
-4. Less use of 3rd-party libraries (trough CDN without preconnect)
+4. Less use of 3rd-party libraries (through CDN without preconnect)
 {{< /admonition >}}
 
 ---

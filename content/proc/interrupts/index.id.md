@@ -77,7 +77,7 @@ ilmu pengetahuan terapan dan sebagai komunikator utama.
 
 {{< style "text-align:justify" >}}
 
-Judul pustaka ini diadaptasi dari bahasa Latin. **Crastinus** (IPA: `/ˈkraːs.ti.nus/`) secara etimologis
+Judul pustaka ini diadopsi dari bahasa Latin. **Crastinus** (IPA: `/ˈkraːs.ti.nus/`) secara etimologis
 "Crās" dan‎ sufiks (maskulin) "-tinus", berarti "<u>Esok</u>". **Dies** (IPA: `/ˈdi.eːs/`) secara etimologis "Diēs",
 berarti "<u>Hari</u>". **Nunquam** (IPA: `/ˈnum.kʷam/`) secara etimologis "Nē" dan "unquam", berarti "<u>Tak</u>"
 dan "<u>Pernah</u>". **Sciat** (pihak ketiga) secara etimologis "Sciō" (IPA: `/ˈski.oː/`), berarti "<u>Tahu</u>".
@@ -92,7 +92,7 @@ tidak mengetahui akan sesuatu yang "tidak akan pernah tuntas" untuk dicari tahu.
 
 ## Informasi Situs
 
-### **:(fas fa-rocket fa-fw):** <sub>90+ Performa</sub>
+### **:(fas fa-rocket fa-fw):** <sub>99+ Performa</sub>
 
 {{< style "text-align:justify" >}}
 
@@ -122,11 +122,11 @@ Kompilasikan segelintir isu-isunya, dan abaikan.
        "Google's Lighthouse Accessibility Tests Are Helpful, But Not Perfect"
 {{< /admonition >}}
 
-{{< admonition example "Coding-side Optimization" true >}}
-1. Convert WebP-optimized (static) images with Lazy Load (dynamically) at runtime
+{{< admonition example "Front-end Optimization" true >}}
+1. Process WebP-optimized (static) images with Lazy Load (dynamically) at runtime
 2. Well-optimized and minified website element codes as much as possible
 3. Conditionally load specific libraries for each page only when needed
-4. Less use of 3rd-party libraries (trough CDN without preconnect)
+4. Less use of 3rd-party libraries (through CDN without preconnect)
 {{< /admonition >}}
 
 ---
@@ -166,7 +166,7 @@ Apabila memiliki pertanyaan (atau kritik dan saran) yang relevan,
 [[e-mail][e-mail]] pemilik web atau [[matrix][matrix]].
 
 [e-mail]: ../../index.xml "Tulis E-Mail kepada Webmaster"
-[matrix]: https://matrix.to/#/@owl4ce:matrix.org "Diskusi!"
+[matrix]: https://matrix.to/#/@owl4ce:matrix.org "Diskusikan!"
 
 ---
 
