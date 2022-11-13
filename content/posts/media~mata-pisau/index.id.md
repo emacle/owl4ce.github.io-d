@@ -71,7 +71,7 @@ guna membantu meningkatkan rasa kemanusiaan.
 
 Namun, orang biasanya menemukan "potongan" informasi yang berbeda melalui sumber langsung atau tidak langsung,
 lebih mudah terprovokasi sebab malasnya memverifikasi sepotong informasi. Inilah yang perlu disadari manusia dewasa
-ini. Mereka seharusnya lebih berhati-hati, meluangkan waktu untuk memverifikasi, bukan sekedar menyampaikan lagi.
+ini. Mereka seharusnya lebih berhati-hati, meluangkan waktu untuk memverifikasi, bukan sekadar menyampaikan lagi.
 Manusia seperti inilah yang merugi, tanpa sadar membawa orang menuju kemiskinan; kejahatan; ketelanjangan; kekerasan;
 kesehatan mental yang semakin menjadi-jadi. Anak-anak hingga remaja yang "membabi buta" saling adu aksi,
 yang berujung pada kematian semata manipulasi rumor berita; film aksi; dan *game* yang provokatif.
