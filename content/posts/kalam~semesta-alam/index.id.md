@@ -299,7 +299,7 @@ terhadap agama, dengan menganggapnya sebagai produk sejarah manusia masa lalu.
 Di sisi lain, manusia pluralis menganggap bahwa semua agama sama benarnya sebab mengajarkan kebaikan,
 mereka tidak sadar bahwa kebaikan di mata manusia bersifat subjektif—cenderung tidak rasional dan didominasi
 oleh nafsu manusia belaka.[^9] Manusia yang memahami esensi *Din al-Islam* (tauhid) secara hakiki (objektif[^10])
-tanpa iri-dengki, menyadari bahwa agama-agama samawi (langit) merupakan produk pendistorsian *Din*-Nya.[^11] Manusia
+tanpa iri/dengki, menyadari bahwa agama-agama samawi (langit) merupakan produk pendistorsian *Din*-Nya.[^11] Manusia
 pragmatis, yang berpikir sempit selagi praktis, menganggap bahwa agama tidak membawa manfaat praktis terhadap
 perkembangan dunia. Begitu dibutakan oleh nafsu duniawi, mereka saling memaksakan paham-paham (ideologi)
 kreasinya dan berkompetisi, guna "membangun kehancuran" peradaban dunia yang fana ini.[^12] Manusia inilah
