@@ -8,13 +8,13 @@ author: "Harry Kurn"
 authorLink: ""
 description: ""
 license: ""
-images: ["https://github.com/owl4ce.png"]
+images: 
 
 tags: 
 categories: 
 
 featuredImage: ""
-featuredImagePreview: "https://github.com/owl4ce.png"
+featuredImagePreview: ""
 
 hiddenFromHomePage: true
 hiddenFromSearch: true
@@ -47,7 +47,7 @@ library:
   css: 
   js: ["js/shield.js"]
 seo:
-  images: ["https://github.com/owl4ce.png"]
+  images: 
   # ...
 ---
 
