@@ -8,10 +8,10 @@ author: ""
 authorLink: ""
 description: " "
 license: ""
-images: []
+images: [""]
 
-tags: []
-categories: []
+tags: ["", "", ""]
+categories: [""]
 
 featuredImage: ""
 featuredImagePreview: ""
@@ -47,7 +47,7 @@ library:
   css: []
   js: ["js/shield.js"]
 seo:
-  images: []
+  images: [""]
   # ...
 ---
 
