@@ -5,16 +5,16 @@ date: 2022-10-17T19:02:33+07:00
 lastmod: 2022-10-17T19:02:33+07:00
 draft: false
 author: "Harry Kurn"
-authorLink: "/id/posts"
+authorLink: "/id/posts/"
 description: " "
 license: ""
-images: ["/id/phi~ergo-proxy/f"]
+images: ["https://ik.imagekit.io/owl4ce/id/phi~ergo-proxy/f"]
 
 tags: ["Philosophy", "Psychology", "Interpretation"]
 categories: ["Analysis"]
 
 featuredImage: ""
-featuredImagePreview: "/id/phi~ergo-proxy/f"
+featuredImagePreview: "https://ik.imagekit.io/owl4ce/id/phi~ergo-proxy/f"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: ["js/shield.js"]
 seo:
-  images: ["/id/phi~ergo-proxy/f"]
+  images: ["https://ik.imagekit.io/owl4ce/id/phi~ergo-proxy/f"]
   # ...
 ---
 

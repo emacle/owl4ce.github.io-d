@@ -5,16 +5,16 @@ date: 2022-10-01T21:39:07+07:00
 lastmod: 2022-10-01T21:39:07+07:00
 draft: false
 author: "Harry Kurn"
-authorLink: "/id/posts"
+authorLink: "/id/posts/"
 description: " "
 license: ""
-images: ["/id/media~mata-pisau/f"]
+images: ["https://ik.imagekit.io/owl4ce/id/media~mata-pisau/f"]
 
 tags: ["Psychology", "Social", "Critique"]
 categories: ["Opinion"]
 
 featuredImage: ""
-featuredImagePreview: "/id/media~mata-pisau/f"
+featuredImagePreview: "https://ik.imagekit.io/owl4ce/id/media~mata-pisau/f"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: ["js/shield.js"]
 seo:
-  images: ["/id/media~mata-pisau/f"]
+  images: ["https://ik.imagekit.io/owl4ce/id/media~mata-pisau/f"]
   # ...
 ---
 

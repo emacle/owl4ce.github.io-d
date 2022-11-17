@@ -5,16 +5,16 @@ date: 2022-09-26T23:13:43+07:00
 lastmod: 2022-09-26T23:13:43+07:00
 draft: false
 author: "Harry Kurn"
-authorLink: "/id/posts"
+authorLink: "/id/posts/"
 description: " "
 license: ""
-images: ["/id/kalbu~perspektif-logika/f"]
+images: ["https://ik.imagekit.io/owl4ce/id/kalbu~perspektif-logika/f"]
 
 tags: ["Hujjah", "Din al-Islam", "Critique"]
 categories: ["Essay"]
 
 featuredImage: ""
-featuredImagePreview: "/id/kalbu~perspektif-logika/f"
+featuredImagePreview: "https://ik.imagekit.io/owl4ce/id/kalbu~perspektif-logika/f"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: ["js/LPMQ.js", "js/shield.js"]
 seo:
-  images: ["/id/kalbu~perspektif-logika/f"]
+  images: ["https://ik.imagekit.io/owl4ce/id/kalbu~perspektif-logika/f"]
   # ...
 ---
 
