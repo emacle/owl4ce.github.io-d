@@ -45,7 +45,7 @@ comment:
   # ...
 library:
   css: []
-  js: ["js/LPMQ.js", "js/shield.js"]
+  js: ["https://cdn.jsdelivr.net/gh/owl4ce/owl4ce.github.io@gh-pages/js/LPMQ.min.js"]
 seo:
   images: ["https://ik.imagekit.io/owl4ce/id/kalam~semesta-alam/f"]
   # ...
@@ -369,7 +369,8 @@ yang mencoba mengubah/merusak hukum alam sunatullah, kodrat yang ditetapkan Tuha
 اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَۙ ٦ صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ ٧
 {{< /style >}}
 
-<sub>Bimbinglah kami ke jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat.[^13]</sub>
+<sub>Bimbinglah kami ke jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat,
+bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat.[^13]</sub>
 
 [^13]: *Ibid*.,
        1:6;

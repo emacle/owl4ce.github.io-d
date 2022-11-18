@@ -45,7 +45,7 @@ comment:
   # ...
 library:
   css: []
-  js: ["js/LPMQ.js", "js/shield.js"]
+  js: ["https://cdn.jsdelivr.net/gh/owl4ce/owl4ce.github.io@gh-pages/js/LPMQ.min.js"]
 seo:
   images: ["https://ik.imagekit.io/owl4ce/id/kalbu~perspektif-logika/f"]
   # ...

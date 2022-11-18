@@ -45,7 +45,7 @@ comment:
   # ...
 library:
   css: []
-  js: ["js/shield.js"]
+  js: []
 seo:
   images: ["https://ik.imagekit.io/owl4ce/id/media~mata-pisau/f"]
   # ...
