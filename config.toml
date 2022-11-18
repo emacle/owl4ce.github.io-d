@@ -582,7 +582,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         # located in "assets/" 位于 "assets/"
         # Or 或者
         # someJavascript = "https://cdn.example.com/some.js"
-        someJavascript = "js/shield.js"
+        # someJavascript = "js/shield.min.js"
     # Page SEO config
     # 页面 SEO 配置
     [params.page.seo]
