@@ -6,7 +6,7 @@ lastmod: 2022-10-30T20:13:45+07:00
 draft: false
 author: "Harry Kurn"
 authorLink: "/id/posts/"
-description: " "
+description: ""
 license: ""
 images: ["https://ik.imagekit.io/owl4ce/id/kalam~semesta-alam/f"]
 
@@ -45,7 +45,7 @@ comment:
   # ...
 library:
   css: []
-  js: ["https://cdn.jsdelivr.net/gh/owl4ce/owl4ce.github.io@gh-pages/js/LPMQ.min.js"]
+  js: ["https://cdn.jsdelivr.net/gh/owl4ce/owl4ce.github.io@5636cf50ee33c846f96975897e945074dd353b68/assets/js/LPMQ.min.js"]
 seo:
   images: ["https://ik.imagekit.io/owl4ce/id/kalam~semesta-alam/f"]
   # ...

@@ -6,7 +6,7 @@ lastmod: 2022-10-01T21:39:07+07:00
 draft: false
 author: "Harry Kurn"
 authorLink: "/id/posts/"
-description: " "
+description: ""
 license: ""
 images: ["https://ik.imagekit.io/owl4ce/id/media~mata-pisau/f"]
 

@@ -6,7 +6,7 @@ lastmod: 2022-03-14T22:36:11+07:00
 draft: false
 author: "Harry Kurn"
 authorLink: "/id/posts/"
-description: " "
+description: ""
 license: ""
 images: ["https://ik.imagekit.io/owl4ce/id/opts~unix-shell/f"]
 
