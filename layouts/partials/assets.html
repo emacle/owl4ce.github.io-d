@@ -32,7 +32,7 @@
 
 {{- /* lazysizes */ -}}
 {{- $source := $cdn.lazysizesJS | default "lib/lazysizes/lazysizes.min.js" -}}
-{{- dict "Source" $source "Fingerprint" $fingerprint "Async" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
+{{- dict "Source" $source "Fingerprint" $fingerprint "Defer" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
 
 {{- /* twemoji */ -}}
 {{- if $params.twemoji -}}
@@ -173,7 +173,7 @@
 {{- end -}}
 
 {{- range $params.library.css -}}
-    {{- dict "Source" . "Fingerprint" $fingerprint "Preload" true | dict "Scratch" $.Scratch "Data" | partial "scratch/style.html" -}}
+    {{- dict "Source" . "Fingerprint" $fingerprint "Async" true | dict "Scratch" $.Scratch "Data" | partial "scratch/style.html" -}}
 {{- end -}}
 
 {{- range $params.library.js -}}
@@ -194,7 +194,8 @@
 {{- dict "Source" "js/theme.js" "Minify" true "Fingerprint" $fingerprint "Async" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
 
 {{- with (.Scratch.Get "this").scriptArr -}}
-    {{- delimit . "\n" | dict "Content" | dict "Scratch" $.Scratch "Data" | partial "scratch/script.html" -}}
+    {{- $content := delimit . "\n" -}}
+    {{- dict "Content" $content "Async" true | dict "Scratch" $.Scratch "Data" | partial "scratch/script.html" -}}
 {{- end -}}
 
 {{- range (.Scratch.Get "this").style -}}
