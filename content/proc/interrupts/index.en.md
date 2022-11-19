@@ -187,13 +187,3 @@ B9BD C551 5AF4 9F42 CBC8 CF39 7D03 DB4D 862E A826
 ---
 
 {{< /style >}}
-
-{{< style "text-align:center" >}}
-
-{{< typeit tag=h1 >}}
-Thank You!
-{{< /typeit >}}
-
----
-
-{{< /style >}}
