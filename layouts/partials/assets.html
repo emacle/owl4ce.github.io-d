@@ -37,20 +37,20 @@
 {{- /* twemoji */ -}}
 {{- if $params.twemoji -}}
     {{- $source := $cdn.twemojiJS | default "lib/twemoji/twemoji.min.js" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Defer" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
     {{- $config = dict "twemoji" true | merge $config -}}
 {{- end -}}
 
 {{- /* lightgallery */ -}}
 {{- if $params.lightgallery -}}
     {{- $source := $cdn.lightgalleryCSS | default "lib/lightgallery/css/lightgallery-bundle.min.css" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Async" true | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
     {{- $source := $cdn.lightgalleryJS | default "lib/lightgallery/lightgallery.min.js" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Defer" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
     {{- $source := $cdn.lightgalleryThumbnailJS | default "lib/lightgallery/plugins/thumbnail/lg-thumbnail.min.js" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Defer" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
     {{- $source := $cdn.lightgalleryZoomJS | default "lib/lightgallery/plugins/zoom/lg-zoom.min.js" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Defer" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
     {{- $config = dict "lightgallery" true | merge $config -}}
 {{- end -}}
 
@@ -60,7 +60,7 @@
 {{- /* clipboard.js */ -}}
 {{- if ne $code.copy false -}}
     {{- $source := $cdn.clipboardJS | default "lib/clipboard/clipboard.min.js" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Defer" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
     {{- $config = T "copyToClipboard" | dict "copyTitle" | dict "code" | merge $config -}}
 {{- end -}}
 
@@ -74,7 +74,7 @@
 {{- with (.Scratch.Get "this").typeitMap -}}
     {{- $typeit := $.Site.Params.typeit -}}
     {{- $source := $cdn.typeitJS | default "lib/typeit/index.umd.js" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint | dict "Scratch" $.Scratch "Data" | partial "scratch/script.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Defer" true | dict "Scratch" $.Scratch "Data" | partial "scratch/script.html" -}}
     {{- $config = dict "speed" $typeit.speed "cursorSpeed" $typeit.cursorSpeed "cursorChar" $typeit.cursorChar "duration" $typeit.duration "data" . | dict "typeit" | merge $config -}}
 {{- end -}}
 
@@ -149,15 +149,15 @@
 {{- if (.Scratch.Get "this").music -}}
     {{- /* APlayer */ -}}
     {{- $source := $cdn.aplayerCSS | default "lib/aplayer/APlayer.min.css" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Async" true | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
     {{- $options := dict "targetPath" "lib/aplayer/dark.min.css" "enableSourceMap" true -}}
-    {{- dict "Source" "lib/aplayer/dark.scss" "ToCSS" $options "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
+    {{- dict "Source" "lib/aplayer/dark.scss" "ToCSS" $options "Fingerprint" $fingerprint "Async" true | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
     {{- $source := $cdn.aplayerJS | default "lib/aplayer/APlayer.min.js" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Defer" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
 
     {{- /* MetingJS */ -}}
     {{- $source := $cdn.metingJS | default "lib/meting/Meting.min.js" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Defer" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
 {{- end -}}
 
 {{- /* Cookie Consent */ -}}
@@ -177,7 +177,7 @@
 {{- end -}}
 
 {{- range $params.library.js -}}
-    {{- dict "Source" . "Fingerprint" $fingerprint "Async" true | dict "Scratch" $.Scratch "Data" | partial "scratch/script.html" -}}
+    {{- dict "Source" . "Fingerprint" $fingerprint "Defer" true | dict "Scratch" $.Scratch "Data" | partial "scratch/script.html" -}}
 {{- end -}}
 
 {{- with (.Scratch.Get "this").styleArr -}}
@@ -194,8 +194,7 @@
 {{- dict "Source" "js/theme.js" "Minify" true "Fingerprint" $fingerprint "Async" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
 
 {{- with (.Scratch.Get "this").scriptArr -}}
-    {{- $content := delimit . "\n" -}}
-    {{- dict "Content" $content "Async" true | dict "Scratch" $.Scratch "Data" | partial "scratch/script.html" -}}
+    {{- delimit . "\n" | dict "Content" | dict "Scratch" $.Scratch "Data" | partial "scratch/script.html" -}}
 {{- end -}}
 
 {{- range (.Scratch.Get "this").style -}}
