@@ -126,7 +126,7 @@ Kompilasikan segelintir isu-isunya, dan abaikan.
 1. Process WebP-optimized (static) images with Lazy Load (dynamically) at runtime
 2. Well-optimized and minified website element codes as much as possible
 3. Conditionally load specific libraries for each page only when needed
-4. Less use of 3rd-party libraries (through CDN without preconnect)
+4. Less use of 3rd-party libraries (through CDN with a preconnect)
 {{< /admonition >}}
 
 ---
