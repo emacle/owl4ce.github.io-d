@@ -12,7 +12,7 @@
     {{- with $image -}}
         <div class="featured-image-preview">
             <a href="{{ $.RelPermalink }}">
-                {{- dict "Src" . "Title" $.Description "Resources" $.Resources | partial "plugin/img.html" -}}
+                {{- dict "Src" . "Title" $.Title "Resources" $.Resources | partial "plugin/img.html" -}}
             </a>
         </div>
     {{- end -}}
@@ -46,15 +46,6 @@
             &nbsp;<span class="post-category">
                 {{- dict "Categories" . | T "includedInCategories" | safeHTML -}}
             </span>
-        {{- end -}}
-    </div>
-
-    {{- /* Summary content */ -}}
-    <div class="content">
-        {{- with .Summary -}}
-            {{- dict "Content" . "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
-        {{- else -}}
-            {{- .Description | safeHTML -}}
         {{- end -}}
     </div>
 

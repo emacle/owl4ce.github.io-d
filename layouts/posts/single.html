@@ -59,6 +59,8 @@
                     <span id="{{ .RelPermalink }}" class="leancloud_visitors" data-flag-title="{{ .Title }}">
                         <i class="far fa-eye fa-fw" aria-hidden="true"></i>&nbsp;<span class=leancloud-visitors-count></span>&nbsp;{{ T "views" }}
                     </span>&nbsp;
+                {{- else -}}
+                    <i class="far fa-eye fa-fw" aria-hidden="true"></i>&nbsp;&infin;&nbsp;{{ T "views" }}&nbsp;
                 {{- end -}}
             </div>
         </div>
