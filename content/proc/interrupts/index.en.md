@@ -180,7 +180,7 @@ If (readers) have relevant questions (or criticisms and suggestions),
 curl -sL https://git.io/JKsMD | gpg --import
 ```
 
-{{< admonition type=info title="Fingerprint" open=false >}}
+{{< admonition info "Fingerprint" false >}}
 B9BD C551 5AF4 9F42 CBC8 CF39 7D03 DB4D 862E A826
 {{< /admonition >}}
 
