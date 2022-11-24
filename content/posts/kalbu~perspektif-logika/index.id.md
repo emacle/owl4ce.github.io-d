@@ -168,7 +168,7 @@ kebenaran itu sendiri. Manusia inilah sumber pembiasan logika.
 
 ---
 
-{{< style "font-family: LPMQ; font-size: 1.332rem; line-height: 48.1px; margin-top: 3.7px; text-align: initial; direction: rtl" >}}
+{{< style "font-family:LPMQ;font-size:1.332rem;line-height:48.1px;margin-top:3.7px;text-align:initial;direction:rtl" >}}
 وَيَسْـَٔلُوْنَكَ عَنِ الرُّوْحِۗ قُلِ الرُّوْحُ مِنْ اَمْرِ رَبِّيْ وَمَآ اُوْتِيْتُمْ مِّنَ الْعِلْمِ اِلَّا قَلِيْلًا ٨٥
 {{< /style >}}
 

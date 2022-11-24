@@ -365,7 +365,7 @@ yang mencoba mengubah/merusak hukum alam sunatullah, kodrat yang ditetapkan Tuha
 
 ---
 
-{{< style "font-family: LPMQ; font-size: 1.332rem; line-height: 48.1px; margin-top: 3.7px; text-align: initial; direction: rtl" >}}
+{{< style "font-family:LPMQ;font-size:1.332rem;line-height:48.1px;margin-top:3.7px;text-align:initial;direction:rtl" >}}
 اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَۙ ٦ صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ ٧
 {{< /style >}}
 
