@@ -45,13 +45,24 @@ comment:
   # ...
 library:
   css: []
-  js: ["https://cdn.jsdelivr.net/gh/owl4ce/owl4ce.github.io@5636cf50ee33c846f96975897e945074dd353b68/assets/js/LPMQ.min.js"]
+  js: []
 seo:
   images: ["https://ik.imagekit.io/owl4ce/id/kalam~semesta-alam/f"]
   # ...
 ---
 
 <!--more-->
+
+{{< script >}}
+const LPMQ = document.createElement("style");
+LPMQ.appendChild(document.createTextNode("\
+@font-face{\
+font-family:LPMQ;\
+src:url(https://cdn.jsdelivr.net/gh/owl4ce/owl4ce.github.io@gh-pages/lib/webfonts/LPMQ.ttf);\
+font-display:swap;\
+}\
+")), document.head.appendChild(LPMQ);
+{{< /script >}}
 
 ---
 
