@@ -44,7 +44,7 @@
 {{- /* lightgallery */ -}}
 {{- if $params.lightgallery -}}
     {{- $source := $cdn.lightgalleryCSS | default "lib/lightgallery/css/lightgallery-bundle.min.css" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint "Async" true | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Lazy" true | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
     {{- $source := $cdn.lightgalleryJS | default "lib/lightgallery/lightgallery.min.js" -}}
     {{- dict "Source" $source "Fingerprint" $fingerprint "Defer" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
     {{- $source := $cdn.lightgalleryThumbnailJS | default "lib/lightgallery/plugins/thumbnail/lg-thumbnail.min.js" -}}
@@ -149,9 +149,9 @@
 {{- if (.Scratch.Get "this").music -}}
     {{- /* APlayer */ -}}
     {{- $source := $cdn.aplayerCSS | default "lib/aplayer/APlayer.min.css" -}}
-    {{- dict "Source" $source "Fingerprint" $fingerprint "Async" true | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
+    {{- dict "Source" $source "Fingerprint" $fingerprint "Lazy" true | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
     {{- $options := dict "targetPath" "lib/aplayer/dark.min.css" "enableSourceMap" true -}}
-    {{- dict "Source" "lib/aplayer/dark.scss" "ToCSS" $options "Fingerprint" $fingerprint "Async" true | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
+    {{- dict "Source" "lib/aplayer/dark.scss" "ToCSS" $options "Fingerprint" $fingerprint "Lazy" true | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
     {{- $source := $cdn.aplayerJS | default "lib/aplayer/APlayer.min.js" -}}
     {{- dict "Source" $source "Fingerprint" $fingerprint "Defer" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
 
@@ -173,7 +173,7 @@
 {{- end -}}
 
 {{- range $params.library.css -}}
-    {{- dict "Source" . "Fingerprint" $fingerprint "Async" true | dict "Scratch" $.Scratch "Data" | partial "scratch/style.html" -}}
+    {{- dict "Source" . "Fingerprint" $fingerprint "Lazy" true | dict "Scratch" $.Scratch "Data" | partial "scratch/style.html" -}}
 {{- end -}}
 
 {{- range $params.library.js -}}
