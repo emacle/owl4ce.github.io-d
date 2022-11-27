@@ -10,7 +10,7 @@ description: ""
 license: ""
 images: ["https://ik.imagekit.io/owl4ce/id/opts~unix-shell/f"]
 
-tags: ["Optimization", "Shell", "Unix-like"]
+tags: ["Optimization", "POSIX", "Shell", "Unix-like"]
 categories: ["Technical"]
 
 featuredImage: ""
