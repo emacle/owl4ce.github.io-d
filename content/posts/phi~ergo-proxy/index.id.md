@@ -1,5 +1,5 @@
 ---
-title: "Absurdisme Ergo Proxy"
+title: "Absurditas Ergo Proxy"
 subtitle: ""
 date: 2022-10-17T19:02:33+07:00
 lastmod: 2022-10-17T19:02:33+07:00
