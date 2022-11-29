@@ -20,11 +20,11 @@
                     {{- $languages = append $language.Lang $languages -}}
                     {{- $languageNext = strings.TrimPrefix "/" $.Site.LanguagePrefix -}}
                     {{- if eq $languageNext $language.Lang -}}
-                        if(window.location.search) {const o = new URLSearchParams(window.location.search); window.history.replaceState('', '', window.location.origin + decodeURIComponent(o.get('r')))};
+                        if(window.location.search) {const o = new URLSearchParams(window.location.search); window.history.replaceState('', '', window.location.origin + decodeURIComponent(o.get('r')))}
                     {{- end -}}
                 {{- end -}}
                 {{- if not $languageNext -}}
-                    const firstPath = window.location.pathname.split('/')[1]; if({{ $languages }}.includes(firstPath)) if(window.location.search) {const o = new URLSearchParams(window.location.search); window.history.replaceState('', '', window.location.origin + decodeURIComponent(o.get('r')))} else window.location.href = window.location.origin + '/' + firstPath + '/404.html?r=' + encodeURIComponent(window.location.pathname);
+                    const firstPath = window.location.pathname.split('/')[1]; if({{ $languages }}.includes(firstPath)) if(window.location.search) {const o = new URLSearchParams(window.location.search); window.history.replaceState('', '', window.location.origin + decodeURIComponent(o.get('r')))} else window.location.href = window.location.origin + '/' + firstPath + '/404.html?r=' + encodeURIComponent(window.location.pathname)
                 {{- end -}}
             </script>
         {{- end -}}
@@ -32,7 +32,9 @@
     <body data-header-desktop="{{ .Site.Params.header.desktopMode }}" data-header-mobile="{{ .Site.Params.header.mobileMode }}">
         {{- /* Check theme isDark before body rendering */ -}}
         {{- $theme := .Site.Params.defaulttheme -}}
-        <script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('{{ $theme }}' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : '{{ $theme }}' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+        <script type="text/javascript">
+            (window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('{{ $theme }}' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : '{{ $theme }}' === 'dark')) && document.body.setAttribute('theme', 'dark')
+        </script>
 
         <div id="mask"></div>
 
@@ -59,7 +61,9 @@
             </a>
         </div>
 
-        <script type="text/javascript">function ctrlShiftKey(e, t) {return e.ctrlKey && e.shiftKey && e.keyCode === t.charCodeAt(0)} ['contextmenu', 'selectstart'].forEach(e => {document.addEventListener(e, e => e.preventDefault())}), document.onkeydown = e => {if(123 === event.keyCode || ctrlShiftKey(e, 'I') || ctrlShiftKey(e, 'J') || ctrlShiftKey(e, 'C') || e.ctrlKey && 85 === e.keyCode)return!1};</script>
+        <script type="text/javascript">
+            function ctrlShiftKey(e, t) {return e.ctrlKey && e.shiftKey && e.keyCode === t.charCodeAt(0)} ['contextmenu', 'selectstart'].forEach(e => {document.addEventListener(e, e => e.preventDefault())}), document.onkeydown = e => {if(123 === event.keyCode || ctrlShiftKey(e, 'I') || ctrlShiftKey(e, 'J') || ctrlShiftKey(e, 'C') || e.ctrlKey && 85 === e.keyCode)return!1}
+        </script>
 
         {{- /* Load JavaScript scripts and CSS */ -}}
         {{- partial "assets.html" . -}}
