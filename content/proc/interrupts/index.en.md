@@ -67,7 +67,8 @@ as the 3rd pledge of Youth Pledge. Certain sections are also written in English 
 specific purpose: alignment with the internationalization of English in
 applied science and as the main communicator.
 
-[CDNS]: /humans.txt "Crastinus Dies Nunquam Sciat"
+[CDNS]: /humans.txt
+        "Crastinus Dies Nunquam Sciat"
 
 ---
 
@@ -97,29 +98,32 @@ increasingly ignorant of something that "will not ever complete" to find out (to
 {{< style "text-align:justify" >}}
 
 This site can be benchmarked and debug on [PageSpeed Insights
-:(fas fa-arrow-up-right-from-square fa-fw):][ps-i] (or web-browser's Lighthouse),
-[GTmetrix :(fas fa-arrow-up-right-from-square fa-fw):][gt-m], or [KeyCDN Website
-Speed Test :(fas fa-arrow-up-right-from-square fa-fw):][kC-s].
+:(fas fa-arrow-up-right-from-square fa-fw):][PSI-] (or web-browser's Lighthouse),
+[GTmetrix :(fas fa-arrow-up-right-from-square fa-fw):][GTm-], or [KeyCDN Website
+Speed Test :(fas fa-arrow-up-right-from-square fa-fw):][KWST].
 Compile a handful of the issues, and ignore them.
 
-[ps-i]: https://pagespeed.web.dev/report?url=https%3A%2F%2Fowl4ce.github.io%2Fid%2F "PageSpeed Insights"
-[gt-m]: https://gtmetrix.com "GTmetrix"
-[kC-s]: https://tools.keycdn.com/speed "KeyCDN Website Speed Test"
+[PSI-]: https://pagespeed.web.dev/report?url=https%3A%2F%2Fowl4ce.github.io%2Fid%2F
+        "PageSpeed Insights"
+[GTm-]: https://gtmetrix.com
+        "GTmetrix"
+[KWST]: https://tools.keycdn.com/speed
+        "KeyCDN Website Speed Test"
 
 {{< admonition abstract "Question and Answer" false >}}
-- [Cache Control for GitHub Pages :(fas fa-arrow-up-right-from-square fa-fw):][ccf]
-- [Just How Fast Are GitHub Pages? :(fas fa-arrow-up-right-from-square fa-fw):][jhf]
-- [Lighthouse score of 100: not always for the better :(fas fa-arrow-up-right-from-square fa-fw):][lso]
-- [Google's Lighthouse Accessibility Tests Are Helpful, But Not Perfect :(fas fa-arrow-up-right-from-square fa-fw):][gla]
+- [Cache Control for GitHub Pages :(fas fa-arrow-up-right-from-square fa-fw):][CCfGP----]
+- [Just How Fast Are GitHub Pages? :(fas fa-arrow-up-right-from-square fa-fw):][JHFAGP---]
+- [Lighthouse score of 100: not always for the better :(fas fa-arrow-up-right-from-square fa-fw):][Lso1naftb]
+- [Google's Lighthouse Accessibility Tests Are Helpful, But Not Perfect :(fas fa-arrow-up-right-from-square fa-fw):][GLATAHBNP]
 
-[ccf]: https://retirednotout.uk/blog/2021/05/cache-control-for-github-pages
-       "Cache Control for GitHub Pages"
-[jhf]: https://www.jeremymorgan.com/blog/programming/how-fast-are-github-pages
-       "Just How Fast Are GitHub Pages?"
-[lso]: https://nooshu.com/blog/2019/08/18/lighthouse-score-100-not-always-for-the-better
-       "Lighthouse score of 100: not always for the better"
-[gla]: https://www.boia.org/blog/googles-lighthouse-accessibility-tests-are-helpful-but-not-perfect
-       "Google's Lighthouse Accessibility Tests Are Helpful, But Not Perfect"
+[CCfGP----]: https://retirednotout.uk/blog/2021/05/cache-control-for-github-pages
+             "Cache Control for GitHub Pages"
+[JHFAGP---]: https://www.jeremymorgan.com/blog/programming/how-fast-are-github-pages
+             "Just How Fast Are GitHub Pages?"
+[Lso1naftb]: https://nooshu.com/blog/2019/08/18/lighthouse-score-100-not-always-for-the-better
+             "Lighthouse score of 100: not always for the better"
+[GLATAHBNP]: https://www.boia.org/blog/googles-lighthouse-accessibility-tests-are-helpful-but-not-perfect
+             "Google's Lighthouse Accessibility Tests Are Helpful, But Not Perfect"
 {{< /admonition >}}
 
 {{< admonition example "Front-end Optimization" true >}}
@@ -139,10 +143,10 @@ Compile a handful of the issues, and ignore them.
 
 This site is configured not to collect (gather) and store any information or any visitor's personal data
 with any techniques, except for **visitor's IP address policy** by the website hosting
-[GitHub Pages :(fas fa-arrow-up-right-from-square fa-fw):][gh-p].
+[GitHub Pages :(fas fa-arrow-up-right-from-square fa-fw):][GP].
 
-[gh-p]: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection
-        "GitHub Pages Data Collection"
+[GP]: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection
+      "GitHub Pages Data Collection"
 
 {{< admonition danger "Seven Implemented Things to Avoid" true >}}
 1. Avoid 3rd-party services unless assets' CDN
@@ -165,8 +169,10 @@ with any techniques, except for **visitor's IP address policy** by the website h
 If (readers) have relevant questions (or criticisms and suggestions),
 [[e-mail][e-mail]] webmaster or [[matrix][matrix]].
 
-[e-mail]: ../../index.xml "Write E-Mail to Webmaster"
-[matrix]: https://matrix.to/#/@owl4ce:matrix.org "Discuss!"
+[e-mail]: ../../index.xml
+          "Write E-Mail to Webmaster"
+[matrix]: https://matrix.to/#/@owl4ce:matrix.org
+          "Discuss!"
 
 ---
 
