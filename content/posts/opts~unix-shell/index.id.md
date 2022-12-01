@@ -517,8 +517,6 @@ C
 
 #### Create/overwrite
 
-{{< style "text-align:justify" >}}
-
 ```shell
 # POSIX.1-2017: > /path/to/file
 ```
@@ -529,11 +527,7 @@ echo 'the first line' > /tmp/file
 
 ---
 
-{{< /style >}}
-
 #### Create/append to
-
-{{< style "text-align:justify" >}}
 
 ```shell
 # POSIX.1-2017: >> /path/to/file
@@ -544,8 +538,6 @@ echo 'appended line' >> /tmp/file
 ```
 
 ---
-
-{{< /style >}}
 
 #### Disable clobbering
 
@@ -575,8 +567,6 @@ dash: ?: cannot create /tmp/file: File exists
 
 #### Bypass noclobber
 
-{{< style "text-align:justify" >}}
-
 ```shell
 # POSIX.1-2017: >| /path/to/file
 ```
@@ -586,8 +576,6 @@ echo '... overwrite data.' >| /tmp/file
 ```
 
 ---
-
-{{< /style >}}
 
 ### Reading Input ft. POSIX `read`
 
