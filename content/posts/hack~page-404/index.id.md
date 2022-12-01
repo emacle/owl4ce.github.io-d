@@ -10,7 +10,7 @@ description: ""
 license: ""
 images: ["https://ik.imagekit.io/owl4ce/id/hack~page-404/f"]
 
-tags: ["Hacking", "Go", "JavaScript", "Web-browser"]
+tags: ["Hacking", "Hugo", "JavaScript", "Web-browser"]
 categories: ["Technical"]
 
 featuredImage: ""
