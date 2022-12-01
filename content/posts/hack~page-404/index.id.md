@@ -343,7 +343,7 @@ mengimplementasikan kodenya pada [*base template*][hgbt]-nya.
 ```
 
 JavaScript hanya perlu di-*generate* pada (dan untuk) <u>404.html</u> dalam setiap direktori bahasa yang didukung.
-Konstruksi [`if and`][hgia] memeriksa iterasi saat me-*generate* halaman jika interasinya untuk halaman 404, dengan
+Konstruksi [`if and`][hgia] memeriksa iterasi saat me-*generate* halaman jika iterasinya untuk halaman 404, dengan
 membandingan variabel internal halaman hugo [`.Kind`][hgpv] dengan *string* <u>404</u> menggunakan [`eq`][hgeq],
 dan juga jika variabel internal situs hugo [`.Site.IsMultiLingual`][hgsv] bukan *null*. Kemudian, definisikan
 variabel `$languages` sebagai *array* menggunakan [`slice`][hgsl], variabel `$languageNext` sebagai *string*,
@@ -356,8 +356,8 @@ yang merupakan *string* ke variabel internal situs hugo [`$.Site.LanguagePrefix`
 dalam iterasi `range`—dengan memangkas prefiks "/" menggunakan [`strings.TrimPrefix`][hgtp], guna memeriksa
 ketersediaan jalur subdirektori bahasa yang bukan bahasa utama (*main*). Bahasa Inggris (`en`) merupakan
 bahasa utama (*main*) yang digunakan, sehingga diperlukanlah pemeriksaan interpretasi tersebut. Konstruksi
-`if` memeriksa kebenaran variabel `$languageNext` jika sama dengan variabel [`$language.Lang`][hgsv] menggunakan
-[`eq`][hgeq] maka integrasikan [kode JavaScript](#secondary-404-page-id) untuk <u>404.html</u> dalam
+`if` memeriksa kebenaran variabel `$languageNext` jika sama dengan variabel [`$language.Lang`][hgsv]
+menggunakan `eq` maka integrasikan [kode JavaScript](#secondary-404-page-id) untuk <u>404.html</u> dalam
 setiap subdirektori bahasa yang didukung, sebaliknya, jika variabel `$languageNext` tetap *null*—juga karena
 prefiks "/" dipangkas—yang berarti dalam iterasi pe-*generate*-an halaman 404 utama maka integrasikan
 [kode JavaScript](#main-404-page-en) untuk <u>/404.html</u>. Bahasa Indonesia (`id`)
