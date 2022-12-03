@@ -59,8 +59,8 @@ seo:
 
 {{< style "text-align:justify" >}}
 
-The [**C**.**D**.**N**.**S**.][CDNS] book was built by {{< person url="#webmaster" name=""
-nick="owl4ce" text="Webmaster" picture="https://github.com/owl4ce.png" >}} on the basis of the simplicity of
+The [**C**.**D**.**N**.**S**.][CDNS] book was built by {{< person url="#webmaster" name="" nick="owl4ce"
+text="Webmaster" picture="https://avatars.githubusercontent.com/u/53987136" >}} on the basis of the simplicity of
 elements ([the site](#site-information)), the elegance of interface (the book), and the robustness (?) of presentations
 (the writing). Written semi-formally (standard) in Bahasa Indonesia as the language of Unitary Republic of Indonesia,
 as the 3rd pledge of Youth Pledge. Certain sections are also written in English partially for a

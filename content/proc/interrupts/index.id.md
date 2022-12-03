@@ -59,8 +59,8 @@ seo:
 
 {{< style "text-align:justify" >}}
 
-Pustaka [**C**.**D**.**N**.**S**.][CDNS] dibangun oleh {{< person url="#pemilik-web" name=""
-nick="owl4ce" text="Pemilik Web" picture="https://github.com/owl4ce.png" >}} atas dasar kesederhanaan
+Pustaka [**C**.**D**.**N**.**S**.][CDNS] dibangun oleh {{< person url="#pemilik-web" name="" nick="owl4ce"
+text="Pemilik Web" picture="https://avatars.githubusercontent.com/u/53987136" >}} atas dasar kesederhanaan
 elemen ([situs](#informasi-situs)), keanggunan antarmuka (buku), dan kekukuhan (?) penyajian (tulisan).
 Ditulis secara semiformal (baku) dalam bahasa Indonesia sebagai bahasa persatuan NKRI, sebagaimana
 ikrar ke-3 Sumpah Pemuda. Bagian tertentu juga ditulis dalam bahasa Inggris secara parsial atas
