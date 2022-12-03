@@ -204,19 +204,10 @@ diandaikan <u>/ne/</u> maka [<u>https://owl4ce.github.io/ne/404.html?r=%2Fne%2Fh
 [JS-eUC]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent
           "encodeURIComponent() - JavaScript | MDN"
 
-{{< admonition bug "/dev/fb0" false >}}
-![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-11-29-235201_1366x768_scrot.webp
-"Mengakses jalur URL yang tidak ada dalam subdirektori <u>/ne/</u>, `hugo server` (<i>high
-performance webserver</i>) mengarahkannya ke <u>/404.html</u>, alih-alih <u>/ne/404.html</u>.")
-
 ---
 
-![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-11-29-235250_1366x768_scrot.webp
-"URL telah diubah dari kolom karena pembalikan pengandaian yang mengakses <u>/ne/404.html?r=</u>,
-<u>/id/404.html</u> diakses untuk membedakan bahasa halaman.")
-{{< /admonition >}}
-
-Beralih halaman 404 dalam subdirektori bahasa. Balikkan pengandaian, posisi <u>ne</u> kembali semula <u>id</u>.
+![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-12-04-010710_1366x768_scrot
+"<sub>Subdirektori <u>/ne/</u> hanya untuk demo.</sub>")
 
 ---
 
@@ -233,8 +224,9 @@ if (window.location.search) {
 }
 ```
 
-Konstruksi `if (condition)` berhasil (*true*) memeriksa ketersediaan *query string* `?` jalur URL halaman 404
-bahasa relevan dari `window.location.search`. Uraikan *query string* `?` sebagai variabel—untuk di-*decode*—menggunakan
+Beralih halaman 404 dalam subdirektori bahasa. Balikkan pengandaian, posisi <u>ne</u> kembali semula <u>id</u>.
+Konstruksi `if (condition)` berhasil (*true*) memeriksa ketersediaan *query string* `?` jalur URL halaman 404 bahasa
+relevan dari `window.location.search`. Uraikan *query string* `?` sebagai variabel—untuk di-*decode*—menggunakan
 [`new URLSearchParams()`][JS-USP]. Kemudian, tetapkan (*set*) [`window.history.replaceState(stateObj, unused, url)`][
 JS-whr] ke parameter <u>r</u> yang merupakan jalur URL (*pathname*) penuh dengan men-*decode*-nya menggunakan
 [`decodeURIComponent()`][JS-dUC]. Ini akan mengganti URL sesaat mengakses halaman 404 dalam subdirektori
@@ -248,13 +240,15 @@ kembali semula sama dengan saat mengakses halaman 404 utama.
 [JS-dUC]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURIComponent
           "decodeURIComponent() - JavaScript | MDN"
 
-{{< admonition bug "/dev/fb0" false >}}
-![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-11-29-235304_1366x768_scrot.webp
-"<i>Sim Salabim!</i>")
-{{< /admonition >}}
+---
 
-Bukan sulap bukan sihir, beramunisikan kode JavaScript pun URL peramban web *client* dimanipulasi. Jadi,
-seakan-akan <u>/404.html</u> ialah *transceiver*, dan <u>/id/404.html</u> hanyalah *receiver* bagi *query string*.
+![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-12-04-011736_1366x768_scrot
+" ")
+
+![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-12-04-011741_1366x768_scrot
+"<i>Sim Salabim!</i>")
+
+Bukan sulap bukan sihir, beramunisikan kode JavaScript pun URL peramban web *client* dimanipulasi.
 
 ---
 
@@ -308,7 +302,7 @@ mengimplementasikan kodenya pada [*base template*][hgbt]-nya.
 
 {{< style "text-align:justify" >}}
 
-{{< admonition tip "layouts/_default/baseof.html" false >}}
+{{< admonition tip "layouts/_default/baseof.html" true >}}
 ```html
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
@@ -328,16 +322,18 @@ mengimplementasikan kodenya pada [*base template*][hgbt]-nya.
     {{- $languages := slice -}}
     {{- $languageNext := "" -}}
     <script type="text/javascript">
-        {{- range $language := .Site.Languages -}}
-            {{- $languages = append $language.Lang $languages -}}
-            {{- $languageNext = strings.TrimPrefix "/" $.Site.LanguagePrefix -}}
-            {{- if eq $languageNext $language.Lang -}}
-                if(window.location.search) {const o = new URLSearchParams(window.location.search); window.history.replaceState('', '', window.location.origin + decodeURIComponent(o.get('r')))}
+        (function() {
+            {{- range $language := .Site.Languages -}}
+                {{- $languages = append $language.Lang $languages -}}
+                {{- $languageNext = strings.TrimPrefix "/" $.Site.LanguagePrefix -}}
+                {{- if eq $languageNext $language.Lang -}}
+                    if(window.location.search) {const o = new URLSearchParams(window.location.search); window.history.replaceState('', '', window.location.origin + decodeURIComponent(o.get('r')))}
+                {{- end -}}
             {{- end -}}
-        {{- end -}}
-        {{- if not $languageNext -}}
-            const firstPath = window.location.pathname.split('/')[1]; if({{ $languages }}.includes(firstPath)) if(window.location.search) {const o = new URLSearchParams(window.location.search); window.history.replaceState('', '', window.location.origin + decodeURIComponent(o.get('r')))} else window.location.href = window.location.origin + '/' + firstPath + '/404.html?r=' + encodeURIComponent(window.location.pathname)
-        {{- end -}}
+            {{- if not $languageNext -}}
+                const firstPath = window.location.pathname.split('/')[1]; if({{ $languages }}.includes(firstPath)) if(window.location.search) {const o = new URLSearchParams(window.location.search); window.history.replaceState('', '', window.location.origin + decodeURIComponent(o.get('r')))} else window.location.href = window.location.origin + '/' + firstPath + '/404.html?r=' + encodeURIComponent(window.location.pathname)
+            {{- end -}}
+        })();
     </script>
 {{- end -}}
 ```
