@@ -128,16 +128,6 @@ tidak semua halaman tersedia dengan multibahasa untuk setiap halaman tersebut.
 
 {{< /style >}}
 
-{{< style "text-align:center" >}}
-
-{{< typeit tag=h1 >}}
-...
-{{< /typeit >}}
-
----
-
-{{< /style >}}
-
 ## Solving Technique
 
 {{< style "text-align:justify" >}}
