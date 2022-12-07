@@ -4,7 +4,6 @@ Disallow: /css/
 Disallow: /js/
 Disallow: /lib/
 Disallow: /svg/
-Disallow: /*.webp$
 
 User-agent: MJ12bot
 Disallow: /
