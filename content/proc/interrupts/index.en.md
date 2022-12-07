@@ -59,8 +59,8 @@ seo:
 
 {{< style "text-align:justify" >}}
 
-The [**C**.**D**.**N**.**S**.][CDNS] book was built by {{< person url="#webmaster" name="" nick="owl4ce"
-text="Webmaster" picture="https://avatars.githubusercontent.com/u/53987136" >}} on the basis of the simplicity of
+The [**C**.**D**.**N**.**S**.][CDNS] book was built by {{< person url="#leave-a-message" name="" nick="owl4ce"
+text="Webmaster" picture="https://avatars.githubusercontent.com/u/53987136?s=20" >}} on the basis of the simplicity of
 elements ([the site](#site-information)), the elegance of interface (the book), and the robustness (?) of presentations
 (the writing). Written semi-formally (standard) in Bahasa Indonesia as the language of Unitary Republic of Indonesia,
 as the 3rd pledge of Youth Pledge. Certain sections are also written in English partially for a
@@ -74,7 +74,7 @@ applied science and as the main communicator.
 
 {{< /style >}}
 
-### **:(fas fa-dove fa-fw):** <sub>Definition and Philosophy</sub>
+### **:(fas fa-dove fa-fw):** <sub><sup>Definition and Philosophy</sup></sub>
 
 {{< style "text-align:justify" >}}
 
@@ -93,7 +93,7 @@ increasingly ignorant of something that "will not ever complete" to find out (to
 
 ## Site Information
 
-### **:(fas fa-rocket fa-fw):** <sub>99+ Performance</sub>
+### **:(fas fa-rocket fa-fw):** <sub><sup>99+ Performance</sup></sub>
 
 {{< style "text-align:justify" >}}
 
@@ -109,6 +109,8 @@ Compile a handful of the issues, and ignore them.
         "GTmetrix"
 [KWST]: https://tools.keycdn.com/speed
         "KeyCDN Website Speed Test"
+
+<!--
 
 {{< admonition abstract "Question and Answer" false >}}
 - [Cache Control for GitHub Pages :(fas fa-arrow-up-right-from-square fa-fw):][CCfGP----]
@@ -126,6 +128,8 @@ Compile a handful of the issues, and ignore them.
              "Google's Lighthouse Accessibility Tests Are Helpful, But Not Perfect"
 {{< /admonition >}}
 
+-->
+
 {{< admonition example "Front-end Optimization" true >}}
 1. Process WebP-optimized (static) images with Lazy Load (dynamically) at runtime
 2. Well-optimized and minified website element codes as much as possible
@@ -137,7 +141,7 @@ Compile a handful of the issues, and ignore them.
 
 {{< /style >}}
 
-### **:(fas fa-shield-heart fa-fw):** <sub>99% Privacy</sub>
+### **:(fas fa-shield-heart fa-fw):** <sub><sup>99% Privacy</sup></sub>
 
 {{< style "text-align:justify" >}}
 
@@ -148,11 +152,11 @@ with any techniques, except for **visitor's IP address policy** by the website h
 [GP]: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection
       "GitHub Pages Data Collection"
 
-{{< admonition danger "Seven Implemented Things to Avoid" true >}}
+{{< admonition danger "Seven Implemented Things to Avoid" false >}}
 1. Avoid 3rd-party services unless assets' CDN
 2. Avoid personally proprietary FQDN
 3. Avoid setting site Cookies
-4. Avoid any Analytics
+4. Avoid site Analytics
 5. Avoid Trackers
 6. Avoid Ads
 7. Avoid ?
@@ -162,7 +166,7 @@ with any techniques, except for **visitor's IP address policy** by the website h
 
 {{< /style >}}
 
-## Webmaster
+## Leave a Message
 
 {{< style "text-align:justify" >}}
 
@@ -170,7 +174,7 @@ If (readers) have relevant questions (or criticisms and suggestions),
 [[e-mail][e-mail]] webmaster or [[matrix][matrix]].
 
 [e-mail]: ../../index.xml
-          "Write E-Mail to Webmaster"
+          "Find and Write E-Mail to Webmaster"
 [matrix]: https://matrix.to/#/@owl4ce:matrix.org
           "Discuss!"
 
@@ -178,7 +182,7 @@ If (readers) have relevant questions (or criticisms and suggestions),
 
 {{< /style >}}
 
-### **:(fas fa-key fa-fw):** <sub>PGP Key</sub>
+### **:(fas fa-fingerprint fa-fw):** <sub><sup>PGP Key</sup></sub>
 
 {{< style "text-align:justify" >}}
 

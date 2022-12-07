@@ -59,8 +59,8 @@ seo:
 
 {{< style "text-align:justify" >}}
 
-Pustaka [**C**.**D**.**N**.**S**.][CDNS] dibangun oleh {{< person url="#pemilik-web" name="" nick="owl4ce"
-text="Pemilik Web" picture="https://avatars.githubusercontent.com/u/53987136" >}} atas dasar kesederhanaan
+Pustaka [**C**.**D**.**N**.**S**.][CDNS] dibangun oleh {{< person url="#tinggalkan-pesan" name="" nick="owl4ce"
+text="Pemilik Web" picture="https://avatars.githubusercontent.com/u/53987136?s=20" >}} atas dasar kesederhanaan
 elemen ([situs](#informasi-situs)), keanggunan antarmuka (buku), dan kekukuhan (?) penyajian (tulisan).
 Ditulis secara semiformal (baku) dalam bahasa Indonesia sebagai bahasa persatuan NKRI, sebagaimana
 ikrar ke-3 Sumpah Pemuda. Bagian tertentu juga ditulis dalam bahasa Inggris secara parsial atas
@@ -74,7 +74,7 @@ ilmu pengetahuan terapan dan sebagai komunikator utama.
 
 {{< /style >}}
 
-### **:(fas fa-dove fa-fw):** <sub>Definisi dan Filosofi</sub>
+### **:(fas fa-dove fa-fw):** <sub><sup>Definisi dan Filosofi</sup></sub>
 
 {{< style "text-align:justify" >}}
 
@@ -93,7 +93,7 @@ tidak mengetahui akan sesuatu yang "tidak akan pernah tuntas" untuk dicari tahu.
 
 ## Informasi Situs
 
-### **:(fas fa-rocket fa-fw):** <sub>99+ Performa</sub>
+### **:(fas fa-rocket fa-fw):** <sub><sup>99+ Performa</sup></sub>
 
 {{< style "text-align:justify" >}}
 
@@ -109,6 +109,8 @@ Kompilasikan segelintir isu-isunya, dan abaikan.
         "GTmetrix"
 [KWST]: https://tools.keycdn.com/speed
         "KeyCDN Website Speed Test"
+
+<!--
 
 {{< admonition abstract "Question and Answer" false >}}
 - [Cache Control for GitHub Pages :(fas fa-arrow-up-right-from-square fa-fw):][CCfGP----]
@@ -126,6 +128,8 @@ Kompilasikan segelintir isu-isunya, dan abaikan.
              "Google's Lighthouse Accessibility Tests Are Helpful, But Not Perfect"
 {{< /admonition >}}
 
+-->
+
 {{< admonition example "Front-end Optimization" true >}}
 1. Process WebP-optimized (static) images with Lazy Load (dynamically) at runtime
 2. Well-optimized and minified website element codes as much as possible
@@ -137,7 +141,7 @@ Kompilasikan segelintir isu-isunya, dan abaikan.
 
 {{< /style >}}
 
-### **:(fas fa-shield-heart fa-fw):** <sub>99% Privasi</sub>
+### **:(fas fa-shield-heart fa-fw):** <sub><sup>99% Privasi</sup></sub>
 
 {{< style "text-align:justify" >}}
 
@@ -148,11 +152,11 @@ dengan teknik apa pun, kecuali **kebijakan alamat IP pengunjung** oleh rumah web
 [GP]: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection
       "GitHub Pages Data Collection"
 
-{{< admonition danger "Seven Implemented Things to Avoid" true >}}
+{{< admonition danger "Seven Implemented Things to Avoid" false >}}
 1. Avoid 3rd-party services unless assets' CDN
 2. Avoid personally proprietary FQDN
 3. Avoid setting site Cookies
-4. Avoid any Analytics
+4. Avoid site Analytics
 5. Avoid Trackers
 6. Avoid Ads
 7. Avoid ?
@@ -162,7 +166,7 @@ dengan teknik apa pun, kecuali **kebijakan alamat IP pengunjung** oleh rumah web
 
 {{< /style >}}
 
-## Pemilik Web
+## Tinggalkan Pesan
 
 {{< style "text-align:justify" >}}
 
@@ -170,7 +174,7 @@ Apabila memiliki pertanyaan (atau kritik dan saran) yang relevan,
 [[e-mail][e-mail]] pemilik web atau [[matrix][matrix]].
 
 [e-mail]: ../../index.xml
-          "Tulis E-Mail kepada Webmaster"
+          "Temukan dan Tulis E-Mail kepada Pemilik Web"
 [matrix]: https://matrix.to/#/@owl4ce:matrix.org
           "Diskusikan!"
 
@@ -178,7 +182,7 @@ Apabila memiliki pertanyaan (atau kritik dan saran) yang relevan,
 
 {{< /style >}}
 
-### **:(fas fa-key fa-fw):** <sub>Kunci PGP</sub>
+### **:(fas fa-fingerprint fa-fw):** <sub><sup>Kunci PGP</sup></sub>
 
 {{< style "text-align:justify" >}}
 
