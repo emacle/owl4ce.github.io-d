@@ -1,5 +1,5 @@
 ---
-title: "Mata Pisau bernama Media"
+title: "Mata Pisau Media"
 subtitle: ""
 date: 2022-10-01T21:39:07+07:00
 lastmod: 2022-10-01T21:39:07+07:00
@@ -78,7 +78,7 @@ yang berujung pada kematian semata manipulasi rumor berita; film aksi; dan *game
 
 Lemahnya pengawasan orang yang bertanggung jawab atas anak-anak mereka, yang masih belum mengerti moral baik/buruk
 dan kurangnya "hati nurani", sebuah edukasi yang tertanam tanpa teori.[^2] Lupakan soal teori, pikirkan solusi,
-dan segera beraksi. Satu-satunya yang terbayang imajinasi ialah "Mengubah Keadaan menjadi Ketiadaan", sebuah
+dan segera beraksi. Satu-satunya yang terbayang imajinasi ialah "mengubah keadaan menjadi ketiadaan", sebuah
 solusi liar sesama mata pisau yang terbayang oleh golongan manusia yang juga kurang "hati nurani",
 yang tidak memahami hak prerogatif Tuhan YME.
 
