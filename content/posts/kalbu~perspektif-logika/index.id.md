@@ -133,8 +133,8 @@ sekuler dari Barat, yang sering menimbulkan bias di antara kaum ber-agama.
 
 Disadari atau tidak, salah satu pembiasan logika paling fatal ialah menempatkan semua agama pada posisi dan fenomena
 yang sama rata. *Din al-Islam* (tauhid) yang secara fitrah (potensial) mengakui eksistensi Tuhan YME, sejak dijadikannya
-Nabi Adam AS sebagai khalifah pertama di muka Bumi hingga diutusnya Rasulullah Muhammad SAW, disamakategorikan dengan
-agama-agama samawi (langit) yang telah mengalami pendistorsian esensi tauhid sebab keterbatasan akal pada masa itu.[^8]
+Nabi Adam AS sebagai khalifah pertama di muka Bumi hingga diutusnya Rasulullah Muhammad SAW, disamaratakategorikan dengan
+akidah umat agama samawi yang telah mengalami pendistorsian esensi tauhid sebab keterbatasan akal pada masa itu.[^8]
 Manusia sekuler dan pluralis melihat Islam tidak lebih dari sebatas agama, setidaknya, dari kalangan orientalis
 melihat kebenaran Islam historis-teologis. Akan tetapi, mayoritas tetap mengingkarinya.[^9]
 
