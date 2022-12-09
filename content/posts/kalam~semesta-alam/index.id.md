@@ -252,7 +252,7 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
 Persepsi sepintas soal agama, yang merupakan jalan hidup manusia, seakan "dongeng fiktif" belaka semata
 memuat sesuatu yang bersifat metafisika.[^6] Persepsi salah kaprah nan fatal yang dilontarkan oleh golongan
 manusia bodoh lagi buta, yang tidak memahami petunjuk ilahi (*divine command*), masih mendominasi pola pikir
-manusia dalam mengobservasi *Din*-Nya. Sebagian darinya sengaja memelintir esensi kitab-kitab suci-Nya
+manusia dalam mengobservasi *din*-Nya. Sebagian darinya sengaja memelintir esensi kitab-kitab suci-Nya
 semata "cinta kehancuran" umat manusia—pengikut *dajjal*. Demikian pula, manusia liberal
 (dalam bermoral) yang menjunjung tinggi nafsu sebagai tu(h)annya.[^7]
 
@@ -276,7 +276,7 @@ Menurutnya, agama hanya berlaku pada momen tertentu dan di tempat ibadah saja, s
 manusia—agama dilarang mengatur manusia, sebaliknya, manusialah yang mengatur agama. Sebagian besar darinya
 tergila-gila akan rasionalitas modern yang empiris saja, sehingga menolak segala sesuatu yang nonfisik. Manusia
 ini tunduk kepada Allah SWT sebab mematuhi hukum alam, tetapi ketika diperintah untuk tunduk patuh secara
-penuh (*kaffah*), mereka justru menolak *Din*-Nya. Akibatnya, kaum-kaum yang dilaknat (azab)
+penuh (*kaffah*), mereka justru menolak *din*-Nya. Akibatnya, kaum-kaum yang dilaknat (azab)
 Allah SWT lahir kembali, bahkan pada milenium ketiga.[^8]
 
 [^8]: al-Qur'an,
@@ -303,14 +303,14 @@ Allah SWT lahir kembali, bahkan pada milenium ketiga.[^8]
 
 Etika liar hasil imajinasi sebab ketidakpuasan pribadi kaum Nabi Luth AS, yang tidak bermoral (nihil),
 mulai bangkit lagi. Manusia yang berilmu pengetahuan (rasionalis) tidak mampu menyentuh moral (akhlak),
-mereka justru menuruti nafsu "pelangi" dengan nafsu "ekonomi", menganggap gangguan jiwa sebagai pemberian
+mereka justru menuruti nafsu "pelangi" dengan nafsu "ekonomi", menganggap gangguan *nafs* sebagai pemberian
 ilahi. Fenomena kebodohan moral (*jahiliyyah*) ini tidak lain disebabkan oleh cara pandang
 terhadap agama, dengan menganggapnya sebagai produk sejarah manusia masa lalu.
 
 Di sisi lain, manusia pluralis menganggap bahwa semua agama sama benarnya sebab mengajarkan kebaikan,
 mereka tidak sadar bahwa kebaikan di mata manusia bersifat subjektif—cenderung tidak rasional dan didominasi
 oleh nafsu manusia belaka.[^9] Manusia yang memahami esensi *Din al-Islam* (tauhid) secara hakiki (objektif[^10])
-tanpa iri/dengki, menyadari bahwa agama-agama samawi (langit) merupakan produk pendistorsian *Din*-Nya.[^11] Manusia
+tanpa iri/dengki, menyadari bahwa agama-agama samawi (langit) merupakan produk pendistorsian *din*-Nya.[^11] Manusia
 pragmatis, yang berpikir sempit selagi praktis, menganggap bahwa agama tidak membawa manfaat praktis terhadap
 perkembangan dunia. Begitu dibutakan oleh nafsu duniawi, mereka saling memaksakan paham-paham (ideologi)
 kreasinya dan berkompetisi, guna "membangun kehancuran" peradaban dunia yang fana ini.[^12] Manusia inilah
@@ -389,12 +389,12 @@ bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat
 
 ---
 
-*Din al-Islam* (*al-Qur'an*) ialah jalan yang lurus (*Shirat al-Mustaqim*), menuju Tuhan semesta alam.[^14]
+*Din al-Islam* (*al-Qur'an*) ialah jalan yang lurus (*Shirath al-Mustaqim*), menuju Tuhan semesta alam.[^14]
 Jalan hidup yang lurus bagi siapa saja selagi tunduk patuh lagi bersyukur juga tidak kufur (muslim), "... jalan
 orang-orang yang telah Engkau beri nikmat, bukan mereka yang dimurkai dan bukan orang-orang yang sesat.".[^13]
 Bintang, tumbuhan, dan hewan (fisiologis) tunduk patuh (sujud) kepada Allah SWT, Tuhan semesta alam.[^15]
 Makhluk Tuhan semesta alam selain manusia, jin, dan malaikat otomatis tunduk patuh (sujud) terhadap
-*Din*-Nya—benda mati tidak memiliki kehendak pribadi/ego. Bukankah tidak logis (rasional)
+*din*-Nya—benda mati tidak memiliki kehendak pribadi/ego. Bukankah tidak logis (rasional)
 apabila manusia menyembah selain Allah SWT, Tuhan semesta alam.
 
 [^14]: *Ibid*.,

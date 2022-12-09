@@ -105,7 +105,7 @@ manusia yang berbangga diri (merasa berhak) berbicara tentang Tuhan YME masih me
 upaya mengenal-Nya. Bangsa yang memahami esensi sila pertama secara hakiki (objektif[^6]), "Ketuhanan yang Maha Esa",
 otomatis membentuk karakter bangsa sesuai sila kedua hingga kelima.[^7] Hingga milenium ketiga, paradigma dogmatis
 yang digunakan untuk menyelidiki suatu kebenaran dalam perspektif keilmuan (*science*) ialah doktrin
-sekuler dari Barat, yang sering menimbulkan bias di antara kaum beragama.
+sekuler dari Barat, yang sering menimbulkan bias di antara kaum ber-agama.
 
 [^6]: al-Qur'an,
       4:171;
@@ -191,7 +191,7 @@ sedangkan kamu tidak diberi pengetahuan kecuali hanya sedikit.”[^11]</sub>
 
 ---
 
-*Al-Qur'an* juga disebut *ar-Ruh*, diwahyukan melalui perantaraan Malaikat Jibril AS (*ar-Ruh al-Amin*) dengan firman
+*Al-Qur'an* juga disebut *ar-Ruh*, diwahyukan melalui perantaraan Malaikat Jibril AS (*Ruh al-Qudus*) dengan firman
 Allah SWT.[^3] Fakta tentang keterbatasan akal (rasio) manusia pun telah difirmankan, "... sedangkan kamu tidak diberi
 pengetahuan kecuali hanya sedikit.".[^11] Manusia sekuler era modern juga mengakui, setidaknya, dari kalangan ilmuwan.
 Akan tetapi, mayoritas tetap mengingkarinya.[^12] Filsuf Jerman Immanuel Kant menyatakan bahwa ia "menolak pengetahuan"
