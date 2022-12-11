@@ -110,26 +110,6 @@ Kompilasikan segelintir isu-isunya, dan abaikan.
 [KWST]: https://tools.keycdn.com/speed
         "KeyCDN Website Speed Test"
 
-<!--
-
-{{< admonition abstract "Question and Answer" false >}}
-- [Cache Control for GitHub Pages :(fas fa-arrow-up-right-from-square fa-fw):][CCfGP----]
-- [Just How Fast Are GitHub Pages? :(fas fa-arrow-up-right-from-square fa-fw):][JHFAGP---]
-- [Lighthouse score of 100: not always for the better :(fas fa-arrow-up-right-from-square fa-fw):][Lso1naftb]
-- [Google's Lighthouse Accessibility Tests Are Helpful, But Not Perfect :(fas fa-arrow-up-right-from-square fa-fw):][GLATAHBNP]
-
-[CCfGP----]: https://retirednotout.uk/blog/2021/05/cache-control-for-github-pages
-             "Cache Control for GitHub Pages"
-[JHFAGP---]: https://www.jeremymorgan.com/blog/programming/how-fast-are-github-pages
-             "Just How Fast Are GitHub Pages?"
-[Lso1naftb]: https://nooshu.com/blog/2019/08/18/lighthouse-score-100-not-always-for-the-better
-             "Lighthouse score of 100: not always for the better"
-[GLATAHBNP]: https://www.boia.org/blog/googles-lighthouse-accessibility-tests-are-helpful-but-not-perfect
-             "Google's Lighthouse Accessibility Tests Are Helpful, But Not Perfect"
-{{< /admonition >}}
-
--->
-
 {{< admonition example "Front-end Optimization" true >}}
 1. Process WebP-optimized (static) images with Lazy Load (dynamically) at runtime
 2. Well-optimized and minified website element codes as much as possible
