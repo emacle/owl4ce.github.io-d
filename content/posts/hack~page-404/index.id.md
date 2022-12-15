@@ -196,7 +196,7 @@ diandaikan <u>/ne/</u> maka [<u>https://owl4ce.github.io/ne/404.html?r=%2Fne%2Fh
 
 ---
 
-![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-12-04-010710_1366x768_scrot
+![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-12-16-023443_1366x768_scrot
 "<sub>Subdirektori <u>/ne/</u> hanya untuk demo.</sub>")
 
 ---
@@ -232,10 +232,10 @@ kembali semula sama dengan saat mengakses halaman 404 utama.
 
 ---
 
-![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-12-04-011736_1366x768_scrot
+![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-12-16-023742_1366x768_scrot
 " ")
 
-![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-12-04-011741_1366x768_scrot
+![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-12-16-023748_1366x768_scrot
 "<i>Sim Salabim!</i>")
 
 Bukan sulap bukan sihir, beramunisikan kode JavaScript pun URL peramban web *client* dimanipulasi.
