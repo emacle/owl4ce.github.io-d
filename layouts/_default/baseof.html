@@ -51,12 +51,12 @@
 
         <div id="fixed-buttons">
             {{- /* top button */ -}}
-            <a href="#" rel="nofollow noopener" role="button" id="back-to-top" class="fixed-button" title="{{ T `backToTop` }}">
+            <a href="javascript:void(0);" rel="nofollow noopener" role="button" id="back-to-top" class="fixed-button" title="{{ T `backToTop` }}" onclick="window.scrollTo({top:0,behavior:'smooth'});">
                 <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
             </a>
 
             {{- /* comment button */ -}}
-            <a href="#" rel="nofollow noopener" role="button" id="view-comments" class="fixed-button" title="{{ T `viewComments` }}">
+            <a href="javascript:void(0);" rel="nofollow noopener" role="button" id="view-comments" class="fixed-button" title="{{ T `viewComments` }}">
                 <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
             </a>
         </div>
