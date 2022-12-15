@@ -151,10 +151,12 @@ dengan teknik apa pun, kecuali **kebijakan alamat IP pengunjung** oleh rumah web
 {{< style "text-align:justify" >}}
 
 Apabila memiliki pertanyaan (atau kritik dan saran) yang relevan,
-[[e-mail][e-mail]] pemilik web atau [[matrix][matrix]].
+[<a href="mailto&#58;%&#54;1&#108;t%6&#53;%72nate%2&#68;&#115;e%&#51;7e&#37;6E&#64;proton&#46;&#109;e"
+    title="Tulis E-Mail kepada Pemilik Web"
+    target="_blank"
+    rel="external noopener noreferrer">e-mail</a>]
+pemilik web atau [[matrix][matrix]].
 
-[e-mail]: ../../index.xml
-          "Temukan dan Tulis E-Mail kepada Pemilik Web"
 [matrix]: https://matrix.to/#/@owl4ce:matrix.org
           "Diskusikan!"
 

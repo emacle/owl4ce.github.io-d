@@ -151,10 +151,12 @@ with any techniques, except for **visitor's IP address policy** by the website h
 {{< style "text-align:justify" >}}
 
 If (readers) have relevant questions (or criticisms and suggestions),
-[[e-mail][e-mail]] webmaster or [[matrix][matrix]].
+[<a href="mailto&#58;%&#54;1&#108;t%6&#53;%72nate%2&#68;&#115;e%&#51;7e&#37;6E&#64;proton&#46;&#109;e"
+    title="Write E-Mail to Webmaster"
+    target="_blank"
+    rel="external noopener noreferrer">e-mail</a>]
+webmaster or [[matrix][matrix]].
 
-[e-mail]: ../../index.xml
-          "Find and Write E-Mail to Webmaster"
 [matrix]: https://matrix.to/#/@owl4ce:matrix.org
           "Discuss!"
 
