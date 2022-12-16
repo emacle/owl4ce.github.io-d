@@ -1,5 +1,5 @@
 ---
-title: "Mata Pisau Media"
+title: "Mata Pisau (Multi)Media"
 subtitle: ""
 date: 2022-10-01T21:39:07+07:00
 lastmod: 2022-10-01T21:39:07+07:00
@@ -10,7 +10,7 @@ description: ""
 license: ""
 images: ["https://ik.imagekit.io/owl4ce/id/media~mata-pisau/f"]
 
-tags: ["Psychology", "Social", "Critique"]
+tags: ["Psychology", "Social", "Advice"]
 categories: ["Opinion"]
 
 featuredImage: ""
@@ -73,8 +73,8 @@ Namun, orang biasanya menemukan "potongan" informasi yang berbeda melalui sumber
 lebih mudah terprovokasi sebab malasnya memverifikasi sepotong informasi. Inilah yang perlu disadari manusia dewasa
 ini. Mereka seharusnya lebih berhati-hati, meluangkan waktu untuk memverifikasi, bukan sekadar menyampaikan lagi.
 Manusia seperti inilah yang merugi, tanpa sadar membawa orang menuju kemiskinan; kejahatan; ketelanjangan; kekerasan;
-kesehatan mental yang semakin menjadi-jadi. Anak-anak hingga remaja yang "membabi buta" saling adu aksi,
-yang berujung pada kematian semata manipulasi rumor berita; film aksi; dan *game* yang provokatif.
+kesehatan mental yang semakin menjadi-jadi. Pemuda/pemudi hingga yang dewasa, yang menyia-nyiakan akal sehatnya,
+membabi buta beradu aksi semata manipulasi rumor berita serta terhipnosis multimedia.
 
 Lemahnya pengawasan orang yang bertanggung jawab atas anak-anak mereka, yang masih belum mengerti moral baik/buruk
 dan kurangnya "hati nurani", sebuah edukasi yang tertanam tanpa teori.[^2] Lupakan soal teori, pikirkan solusi,

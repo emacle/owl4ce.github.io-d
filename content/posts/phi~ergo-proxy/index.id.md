@@ -65,7 +65,7 @@ Meskipun demikian, sangat disayangkan "underrated".
 
 ---
 
-Serial ini terjadi pada masa depan di Bumi pasca-apokaliptik, dengan fokus pada akibat bencana ekologi skala global.
+Serial ini terjadi pada masa depan di Bumi pascaapokaliptik, dengan fokus pada akibat bencana ekologi skala global.
 Penyebab jelas dari "parodi" ini ialah perubahan iklim yang cepat dan ekstrem, disebabkan oleh serangkaian ledakan
 cadangan metana hidrat—harta karun energi bersih—yang terjadi selama paruh kedua abad ke-21. Ledakan dadakannya
 memusnahkan 85% populasi manusia. Merupakan saat-saat terburuk bagi manusia yang tetap tinggal
@@ -88,7 +88,7 @@ juga langit biru dicap sebagai peninggalan masa lalu. Ini tentu bukan masalah ba
 Setiap Proxy ditugaskan untuk membangun "Dome" (kubah) dengan "menciptakan" replika manusia dari "WombSys" yang
 merupakan rahim artifisial. Replika manusia ini hidup di dalam kubah-kubah dari pendirian masing-masing Proxy. Proxy
 diberi kebebasan kreatif tentang membuat masyarakat Dome mereka hidup, ini membantu "menciptakan" keragaman di antara
-budaya dan genetik. Mulai dari Amerika pasca-perang 1950-an yang idealistis lalu hiburan Disneyland ("Smileland" Dome),
+budaya dan genetik. Mulai dari Amerika pascaperang 1950-an yang idealistis lalu hiburan Disneyland ("Smileland" Dome),
 hingga negara/kota filosofis Yunani ("Romdeau" Dome) pun diciptakan. Dari replika manusia itu, mereka membuat
 semacam *android* (berbasis mesin) yang disebut "AutoReiv". Kombinasi keduanya membuat lebih banyak
 AutoReiv lagi di dalam Dome (masing-masing Proxy) untuk berbagai tujuan.
