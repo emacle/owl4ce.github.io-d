@@ -81,11 +81,11 @@ applied science and as the main communicator.
 The title of this book is adopted from Latin. **Crastinus** (IPA: `/ˈkraːs.ti.nus/`) etymologically
 "Crās" and suffix (masculine) "-tinus", means "<u>Tomorrow's</u>". **Dies** (IPA: `/ˈdi.eːs/`) etymologically "Diēs",
 means "<u>Day</u>". **Nunquam** (IPA: `/ˈnum.kʷam/`) etymologically "Nē" and "unquam", means "<u>Not</u>"
-and "<u>Ever</u>". **Sciat** (from 3rd person) etymologically "Sciō" (IPA: `/ˈski.oː/`), means "<u>Knows</u>".
+and "<u>Ever</u>". **Sciat** (from 3rd person) etymologically "Sciō" (IPA: `/ˈski.oː/`), means "<u>Known</u>".
 
-Tomorrow's Day Never Knows. The more humans find out about something, the more they don't knows
+Tomorrow's Day Never Known. The more humans find out about something, the more they don't know
 anything about it—when humans (just) start to know about something, themself (just) realize that they are
-increasingly ignorant of something that "will not ever complete" to find out (to knows).
+increasingly ignorant of something that "will never be completed" to find out (known).
 
 ---
 
@@ -110,7 +110,7 @@ Compile a handful of the issues, and ignore them.
 [KWST]: https://tools.keycdn.com/speed
         "KeyCDN Website Speed Test"
 
-{{< admonition example "Front-end Optimization" true >}}
+{{< admonition example "Front-end Optimization" false >}}
 1. Process WebP-optimized (static) images with Lazy Load (dynamically) at runtime
 2. Well-optimized and minified website element codes as much as possible
 3. Conditionally load specific libraries for each page only when needed
@@ -132,14 +132,14 @@ with any techniques, except for **visitor's IP address policy** by the website h
 [GP]: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection
       "GitHub Pages Data Collection"
 
-{{< admonition danger "Seven Implemented Things to Avoid" false >}}
+{{< admonition danger "Seven Horrible  ̶I̶n̶s̶e̶c̶u̶r̶e̶ Things" false >}}
 1. Avoid 3rd-party services unless assets' CDN
 2. Avoid personally proprietary FQDN
 3. Avoid setting site Cookies
 4. Avoid site Analytics
 5. Avoid Trackers
 6. Avoid Ads
-7. Avoid ?
+7. Avoid `?`
 {{< /admonition >}}
 
 ---

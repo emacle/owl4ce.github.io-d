@@ -110,7 +110,7 @@ Kompilasikan segelintir isu-isunya, dan abaikan.
 [KWST]: https://tools.keycdn.com/speed
         "KeyCDN Website Speed Test"
 
-{{< admonition example "Front-end Optimization" true >}}
+{{< admonition example "Front-end Optimization" false >}}
 1. Process WebP-optimized (static) images with Lazy Load (dynamically) at runtime
 2. Well-optimized and minified website element codes as much as possible
 3. Conditionally load specific libraries for each page only when needed
@@ -132,14 +132,14 @@ dengan teknik apa pun, kecuali **kebijakan alamat IP pengunjung** oleh rumah web
 [GP]: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection
       "GitHub Pages Data Collection"
 
-{{< admonition danger "Seven Implemented Things to Avoid" false >}}
+{{< admonition danger "Seven Horrible  ̶I̶n̶s̶e̶c̶u̶r̶e̶ Things" false >}}
 1. Avoid 3rd-party services unless assets' CDN
 2. Avoid personally proprietary FQDN
 3. Avoid setting site Cookies
 4. Avoid site Analytics
 5. Avoid Trackers
 6. Avoid Ads
-7. Avoid ?
+7. Avoid `?`
 {{< /admonition >}}
 
 ---
