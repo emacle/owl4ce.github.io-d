@@ -79,7 +79,7 @@ Akal (otak manusia) akan berfungsi dengan maksimal apabila mendapat dukungan per
 telinga dan penglihatan mata—tiga institusi terpenting yang dimiliki manusia.[^2] Tiga institusi—akal, pendengaran,
 dan penglihatan—tersebut menjadikan manusia hidup (spiritual[^3]) dua kali apabila difungsikan sebagaimana mestinya,
 guna meningkatkan derajat (takwa) di hadapan Sang Pencipta.[^4] Manusia sekuler juga sadar bahwa mereka menggunakan akalnya
-dalam bertindak mengambil keputusan, tetapi mereka hanya berhenti (ingkar) pada moralitas dan etika (*kauniyah*).[^5]
+dalam bertindak mengambil keputusan, tetapi mereka hanya berhenti (ingkar) pada moralitas atau etika (*kauniyah*).[^5]
 
 [^2]: Teodisi,
       "Istilah Otak dalam Al-Quran : Fu'ada",
@@ -154,7 +154,7 @@ melihat kebenaran Islam historis-teologis. Akan tetapi, mayoritas tetap mengingk
       68:15;
       83:13.
 
-Pendekatan (1) historis-teologis adalah pendekatan dengan cara mengelompokkan dan menafsirkan teks-teks yang terkait
+Pendekatan (1) historis-teologis adalah pendekatan dengan cara mengelompokkan lalu menafsirkan teks-teks yang terkait
 dengan metafisika secara kronologis, termasuk peristiwa *Mi'raj* yang dialami Rasulullah Muhammad SAW, perjalanan lintas
 dimensi ruang-waktu yang ditempuh hanya dalam semalam dari *Masjid al-Aqsa* menuju *Sidrat al-Muntaha* yang tidak perlu
 dibuktikan empiris sebab keterbatasan akal (rasio) sejak zaman kerasulan Rasulullah hingga umat manusia pada zaman

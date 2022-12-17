@@ -304,8 +304,8 @@ Allah SWT lahir kembali, bahkan pada milenium ketiga.[^8]
 Etika liar hasil imajinasi sebab ketidakpuasan pribadi kaum Nabi Luth AS, yang tidak bermoral (nihil),
 mulai bangkit lagi. Manusia yang berilmu pengetahuan (rasionalis) tidak mampu menyentuh moral (akhlak),
 mereka justru menuruti nafsu "pelangi" dengan nafsu "ekonomi", menganggap gangguan *nafs* sebagai pemberian
-ilahi. Fenomena kebodohan moral (*jahiliyyah*) ini tidak lain disebabkan oleh cara pandang
-terhadap agama, dengan menganggapnya sebagai produk sejarah manusia masa lalu.
+ilahi. Fenomena kebodohan moral (*jahiliyyah*) ini tidak lain disebabkan oleh relativitas
+dalam beretika, termasuk menganggap agama sebagai produk pikiran manusia masa lalu.
 
 Di sisi lain, manusia pluralis menganggap bahwa semua agama sama benarnya sebab mengajarkan kebaikan,
 mereka tidak sadar bahwa kebaikan di mata manusia bersifat subjektif—cenderung tidak rasional dan didominasi
