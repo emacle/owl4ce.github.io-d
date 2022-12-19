@@ -42,7 +42,7 @@ enableRobotsTXT = true
 enableGitInfo = true
 # whether to use emoji code
 # 是否使用 emoji 代码
-enableEmoji = true
+enableEmoji = false
 
 # ignore some build errors
 # 忽略一些构建错误
@@ -132,7 +132,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = "<sup>The sky is too open for the likes of me, the passing of time is too fast for me.</sup>"
+    custom = ""
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = false
@@ -254,7 +254,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       subtitle = ""
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
-      typeit = true
+      typeit = false
       # whether to show social links
       # 是否显示社交账号
       social = false
@@ -817,7 +817,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           avatarURL = "https://avatars.githubusercontent.com/u/53987136"
           title = "owl4ce"
           subtitle = ""
-          typeit = true
+          typeit = false
           social = false
           disclaimer = ""
       [languages.en.params.social]
@@ -879,7 +879,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           avatarURL = "https://avatars.githubusercontent.com/u/53987136"
           title = "owl4ce"
           subtitle = ""
-          typeit = true
+          typeit = false
           social = false
           disclaimer = ""
       [languages.id.params.social]
