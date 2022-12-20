@@ -1,3 +1,3 @@
 ---
-title: "Posts | Quality over Quantity"
+title: "Posts - Quality over Quantity"
 ---

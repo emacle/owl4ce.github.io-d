@@ -1,3 +1,3 @@
 ---
-title: "Pos | Kualitas di atas Kuantitas"
+title: "Pos - Kualitas di atas Kuantitas"
 ---
