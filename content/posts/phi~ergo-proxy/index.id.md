@@ -71,6 +71,12 @@ cadangan metana hidrat—harta karun energi bersih—yang terjadi selama paruh k
 memusnahkan 85% populasi manusia. Merupakan saat-saat terburuk bagi manusia yang tetap tinggal
 di Bumi dengan selimut awan hitam.
 
+<br>
+{{< style "text-align:center" >}}
+🙢🙡
+{{< /style >}}
+<br>
+
 Populasi yang tersisa membuat bahtera evakuasi planet "Boomerang Star" (pesawat ruang angkasa) yang merupakan "alat
 terakhir yang dibangun oleh umat manusia di (orbit geostasioner) Bumi". Dibangun dengan tujuan menghindari bencana
 ekologi planet yang akan datang. Namun, (ironisnya) ia dibangun dengan sangat terburu-buru, sehingga tidak semua
@@ -112,7 +118,7 @@ Pino lalu muncul dengan pose berdoa yang sama dengan AutoReiv lainnya yang terin
 berdoa kemungkinan besar terkait dengan keinginan tunggal manusia untuk menciptakan
 atau menemukan kepercayaan kepada pencipta yang tertinggi.
 
-{{< admonition warning "Lihat adegan (brutal) Raul Creed kehilangan \"raison d'être\" sebab keluarganya terbantai" false >}}
+{{< admonition danger "Adegan saat Raul Creed mulai kehilangan \"raison d'être\" (sebab keluarganya terbantai)." false >}}
 {{< youtube J0_dRIrDGqg >}}
 {{< /admonition >}}
 
@@ -128,6 +134,11 @@ faktor-faktor tersebut, populasi manusia terus merosot dengan hilangnya populasi
 bertahap—Proxy mereka menyerah pada kesedihan, kemarahan, dan kegilaan
 tiada henti. Merekalah pencipta yang kesepian.
 
+{{< admonition quote "Sebelum \"menjemput\" Senex di sana, Kazkis Hauer pernah berkata kepada Vincent/Ergo" true >}}
+Semuanya yang mengembara dalam kegelapan mencari cahaya, tetapi ketika mereka mencapai cahaya
+[yang mereka cari], mereka [justru] memalingkan mata(nya) dari silau yang menyilaukan.
+{{< /admonition >}}
+
 Proxy tidak pernah menyadari bahwa pencipta mereka telah "menakdirkan" ini dengan sengaja—bagian dari "Boomerang
 Project". Manusia asli yang menciptakannya tidak berencana untuk hidup berkembang biak di Dome begitu mereka kembali
 dari luar angkasa. Ini menjelaskan tahap akhir dari "Proxy Project" yang tersirat bahwa Proxy ialah hambatan terbesar
@@ -140,7 +151,7 @@ manusia telah menciptakan konflik yang absurdis sebab:
 
 {{< /style >}}
 
-## **Mind-Body Problems**
+## **Mind-Body Problem**
 
 {{< style "text-align:justify" >}}
 
@@ -149,7 +160,7 @@ hingga ribuan tahun, mereka mulai merasa kesepian karena setiap Proxy hidup send
 tanpa rekan nyata sesamanya. Oleh sebab itu, muncul berbagai masalah psikologis:
 - __*Aggressiveness*__  
   Proxy menjadi terlalu agresif ketika mulai kehilangan "makna hidup" mereka—*raison d'être*. Mereka mulai
-  menciptakan absurd dengan jalan merusak diri, bahkan membunuh yang justru mengakibatkan populasi Dome mereka
+  menciptakan Absurd dengan jalan merusak diri, bahkan membunuh yang justru mengakibatkan populasi Dome mereka
   berada dalam masalah. Ini ditonjolkan dalam konflik antara Proxy One dan Ergo Proxy. Masalah serupa juga terjadi
   pada ciptaannya—efek domino. Populasi manusia yang semakin berkurang akibat diintimidasi oleh AutoReiv
   ketika dirinya memperoleh jiwa kesadaran. Pengalaman dari AutoReiv sendirilah yang menentukan mereka
@@ -166,21 +177,21 @@ tanpa rekan nyata sesamanya. Oleh sebab itu, muncul berbagai masalah psikologis:
 
 {{< /style >}}
 
-## **Physiological Problems**
+## **Physiological Problem**
 
 {{< style "text-align:justify" >}}
 
 Proxy memang diprogram untuk melestarikan kehidupan, tetapi ketika "Pulse of the Awakening" mulai
 dipancarkan oleh Boomerang Star yang mendekati Bumi, mereka menjadi rentan secara fisik yang semakin
 kuat pula. Penyebabnya ialah sel Amrita diprogram untuk bermutasi rentan terhadap:
-- **Kekuatannya Proxy**  
+- __*Proxies' Powers*__  
   Proxy rentan terhadap gelombang energinya sendiri yang dipancarkan oleh Proxy kuat lainnya. Mereka
   cenderung (naluriah) untuk saling membunuh ketika Proxy lain mendekati Dome yang merupakan wilayah kekuasaannya.
   Ini ditunjukkan dengan Will B. Good Proxy yang memimpin Smileland Dome muncul dalam mimpi Pino sebagai peringatan
   dari kemalangan yang akan menimpa mereka apabila Vincent datang ke kota kubah—dia tampak ramah dan enggan untuk
   bertarung karena cemas akan kematian. Jauh sebelum itu, naluri ini sejak awal memang telah ditunjukkan,
   tetapi sulitlah untuk dimengerti mengapa mereka harus bertarung satu sama lain.
-- **Sinar Ultraviolet**  
+- __*Ultraviolet Rays*__  
   Proxy rentan terhadap sinar ultraviolet (UV) yang dipancarkan oleh matahari. Sel Amrita yang membuat
   mereka abadi justru terbakar akibat paparan sinar UV ketika Bumi mulai pulih. Ini ditunjukkan dengan akhir
   dari Proxy One. Matahari tentu bukan satu-satunya sumber energi yang memancarkan sinar UV, karena peluru
@@ -226,28 +237,31 @@ merusak diri sendiri dan akan mati satu per satu. Rahim artifisial tidak berfung
 manusia berkurang dan pada akhirnya mati. Proxy yang tersisa akan segera mati di bawah sinar
 matahari. Tidak ada Proxy dan replika manusia lagi. Masalah selesai dengan sempurna.
 
+<br>
+{{< style "text-align:center" >}}
+🙣🙠
+{{< /style >}}
+<br>
+
 Setelah "Pulse of the Awakening" diaktifkan. Lima ribu tahun kemudian pada tahun 7207, ceritanya mengikuti Re-l Mayer,
 Vincent Law, dan Pino saat mereka melakukan perjalanan untuk menemukan kebenaran yang telah lama hilang tentang dunia
 serta diri mereka sendiri. Bumi hanya memburuk, wabah yang disebut virus "Cogito" menyebar di antara populasi AutoReiv.
 Kota-kota kubah yang tersisa terus mengalami kegagalan. Bupati Donov Mayer hanyalah penguasa palsu Romdeau Dome.
 
-{{< admonition info "Pulse of the Awakening" false >}}
+{{< admonition abstract "Pulse of the Awakening" false >}}
 {{< youtube MWI97Kg8ur8 >}}
 {{< /admonition >}}
 
 ---
 
-This analysis would not be done without them, many thanks to:
+This analysis would not be done without them, many thanks to
 
 1. [Ergo Proxy Wiki :(fas fa-arrow-up-right-from-square fa-fw):][EPW-];
-2. [Ergo Proxy anime explained! :(fas fa-arrow-up-right-from-square fa-fw):][EPae];
+2. [Ergo Proxy anime explained! :(fas fa-arrow-up-right-from-square fa-fw):][EPae].
 
 [EPW-]: https://ergoproxy.fandom.com/wiki/Ergo_Proxy_Wiki
         "Ergo Proxy Wiki | Fandom"
 [EPae]: https://cureclover.livejournal.com/759.html
         "Ergo Proxy anime explained! (guide for story, plot and episodes)"
-
-and really appreciated [her](https://myanimelist.net/profile/cureClover)—an excellent analysis.
-More emphasizing the core philosophical aspects of the story and a little detailing the psychological aspects.
 
 {{< /style >}}
