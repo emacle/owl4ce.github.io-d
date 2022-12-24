@@ -183,7 +183,7 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       39:21;
       42:11;
       49:13;
-      50:9;
+      50:16;
       51:7;
       51:47;
       51:49;
