@@ -68,13 +68,13 @@ applied science and as the main communicator.
 ---
 
 The title of this book is adopted from Latin. **Crastinus** (IPA: `/ˈkraːs.ti.nus/`) etymologically
-"Crās" and suffix (masculine) "-tinus", means "<u>Tomorrow's</u>". **Dies** (IPA: `/ˈdi.eːs/`) etymologically "Diēs",
+"Crās" and suffix (masculine) "-tinus", means "<u>Tomorrow</u>". **Dies** (IPA: `/ˈdi.eːs/`) etymologically "Diēs",
 means "<u>Day</u>". **Nunquam** (IPA: `/ˈnum.kʷam/`) etymologically "Nē" and "unquam", means "<u>Not</u>"
 and "<u>Ever</u>". **Sciat** (from 3rd person) etymologically "Sciō" (IPA: `/ˈski.oː/`), means "<u>Known</u>".
 
-Tomorrow's Day Never Known. The more humans find out about something, the more they don't know
+Tomorrow is Never Known. The more humans find out about something, the more they do not know
 anything about it—when humans (just) start to know about something, themself (just) realize that they are
-increasingly ignorant of something that "will never be completed" to find out (known).
+increasingly ignorance of something that "will never be completed" to find out (be known).
 
 ---
 
