@@ -238,7 +238,10 @@ kembali semula sama dengan saat mengakses halaman 404 utama.
 ![ ](https://ik.imagekit.io/owl4ce/id/hack~page-404/2022-12-16-023748_1366x768_scrot
 "<i>Sim Salabim!</i>")
 
-Bukan sulap bukan sihir, beramunisikan kode JavaScript pun URL peramban web *client* dimanipulasi.
+Bukan sulap bukan sihir, beramunisikan kode JavaScript pun URL peramban web *client* [dimanipulasi][soceng].
+
+[soceng]: https://en.wikipedia.org/wiki/Social_engineering_(security)
+          "Social engineering (security) - Wikipedia"
 
 ---
 
@@ -248,12 +251,12 @@ Bukan sulap bukan sihir, beramunisikan kode JavaScript pun URL peramban web *cli
 
 {{< style "text-align:justify" >}}
 
-Tahukah mengapa <u>/404.html</u> bukan hanya *transmitter*, tetapi seakan-akan juga termasuk *receiver*.
-Alih-alih subdirektori layaknya bahasa sekunder (*secondary*) bahasa Indonesia, bahasa utama (*main*) bahasa
-Inggris diakses langsung dari *root* (/). Keduanya merupakan bahasa yang didukung, sehingga apabila mengakses
-<u>/en/404.html</u> yang tidak ada lalu diarahkan ke <u>/404.html</u> maka akan kembali mengarahkan ke halaman
-404 dalam subdirektori <u>/en/</u> yang tidak ada—seakan-akan efek *proximity*. Teknik penyelesaian
-perilaku cermin yang dikutuk ialah dengan mengintegrasikan kedua konstruksi.
+Tahukah mengapa <u>/404.html</u> bukan hanya [*transmitter*](#main-404-page-en), tetapi seakan-akan juga termasuk
+[*receiver*](#secondary-404-page-id). Alih-alih subdirektori layaknya bahasa sekunder (*secondary*) bahasa Indonesia,
+bahasa utama (*main*) bahasa Inggris diakses langsung dari *root* (/). Keduanya merupakan bahasa yang didukung,
+sehingga apabila mengakses <u>/en/404.html</u> yang tidak ada lalu diarahkan ke <u>/404.html</u> maka akan kembali
+mengarahkan ke halaman 404 dalam subdirektori <u>/en/</u> yang tidak ada—seakan-akan efek *proximity*. Teknik
+penyelesaian perilaku cermin yang dikutuk ialah dengan mengintegrasikan kedua konstruksi.
 
 ```js
 if (["en", "id"].includes(firstPath))
@@ -346,7 +349,7 @@ bahasa utama (*main*) yang digunakan, sehingga diperlukanlah pemeriksaan interpr
 menggunakan `eq` maka integrasikan [kode JavaScript](#secondary-404-page-id) untuk <u>404.html</u> dalam
 setiap subdirektori bahasa yang didukung, sebaliknya, jika variabel `$languageNext` tetap *null*—juga karena
 prefiks "/" dipangkas—yang berarti dalam iterasi pe-*generate*-an halaman 404 utama maka integrasikan
-[kode JavaScript](#main-404-page-en) untuk <u>/404.html</u>. Bahasa Indonesia (`id`)
+[kode JavaScript](#that-recursive-loop-en) untuk <u>/404.html</u>. Bahasa Indonesia (`id`)
 merupakan bahasa sekunder (*secondary*)—meski terbalik.
 
 [hgia]: https://gohugo.io/templates/introduction/#example-6-and--or
