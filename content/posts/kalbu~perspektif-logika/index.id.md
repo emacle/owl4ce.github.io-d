@@ -183,7 +183,7 @@ kebenaran itu sendiri. Manusia inilah sumber pembiasan logika.
 وَيَسْـَٔلُوْنَكَ عَنِ الرُّوْحِۗ قُلِ الرُّوْحُ مِنْ اَمْرِ رَبِّيْ وَمَآ اُوْتِيْتُمْ مِّنَ الْعِلْمِ اِلَّا قَلِيْلًا ٨٥
 {{< /style >}}
 
-<sub>Mereka bertanya kepadamu (Nabi Muhammad) tentang ruh. Katakanlah, “Ruh itu termasuk urusan Tuhanku,
+<sub>Mereka bertanya kepadamu (Nabi Muhammad) tentang ruh. Katakanlah, “Ruh itu termasuk urusan Rabb-ku,
 sedangkan kamu tidak diberi pengetahuan kecuali hanya sedikit.”[^11]</sub>
 
 [^11]: al-Qur'an,

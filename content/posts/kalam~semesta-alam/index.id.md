@@ -393,7 +393,7 @@ bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat
 Jalan hidup yang lurus bagi siapa saja selagi tunduk patuh lagi bersyukur juga tidak kufur (muslim), "... jalan
 orang-orang yang telah Engkau beri nikmat, bukan mereka yang dimurkai dan bukan orang-orang yang sesat.".[^13]
 Bintang, tumbuhan, dan hewan (fisiologis) tunduk patuh (sujud) kepada Allah SWT, Tuhan semesta alam.[^15]
-Makhluk Tuhan semesta alam selain manusia, jin, dan malaikat otomatis tunduk patuh (sujud) terhadap
+Makhluk *Khaliq* semesta alam selain manusia, jin, dan malaikat otomatis tunduk patuh (sujud) terhadap
 *din*-Nya—benda mati tidak memiliki kehendak pribadi/ego. Bukankah tidak logis (rasional)
 apabila manusia menyembah selain Allah SWT, Tuhan semesta alam.
 

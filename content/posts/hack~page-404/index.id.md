@@ -333,7 +333,7 @@ mengimplementasikan kodenya pada [*base template*][hgbt]-nya.
 
 JavaScript hanya perlu di-*generate* pada (dan untuk) <u>404.html</u> dalam setiap direktori bahasa yang didukung.
 Konstruksi [`if and`][hgia] memeriksa iterasi saat me-*generate* halaman jika iterasinya untuk halaman 404, dengan
-membandingan variabel internal halaman hugo [`.Kind`][hgpv] dengan *string* <u>404</u> menggunakan [`eq`][hgeq],
+membandingkan variabel internal halaman hugo [`.Kind`][hgpv] dengan *string* <u>404</u> menggunakan [`eq`][hgeq],
 dan juga jika variabel internal situs hugo [`.Site.IsMultiLingual`][hgsv] bukan *null*. Kemudian, definisikan
 variabel `$languages` sebagai *array* menggunakan [`slice`][hgsl], variabel `$languageNext` sebagai *string*,
 dan definisikan serta tetapkan (*set*) variabel `$language` ke *array* [`.Site.Languages`][hgsv] dengan

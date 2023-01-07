@@ -316,7 +316,7 @@ dua
 ---
 
 ```shell
-CURRENT_SONG='Polyphia - Ego Death (feat. Steve Vai)'
+CURRENT_SONG='Ego Death (feat. Steve Vai)'
 ```
 
 ```shell
@@ -327,12 +327,12 @@ CURRENT_SONG='Polyphia - Ego Death (feat. Steve Vai)'
 ```
 
 ```bash
-printf '%s\n' "${CURRENT_SONG/\(feat. *)/(feat. Guitar Lord)}" "${CURRENT_SONG//[AaIiUuEeOo]}"
+printf '%s\n' "${CURRENT_SONG/\(feat. *)/(feat. Legend)}" "${CURRENT_SONG//[AaIiUuEeOo]}"
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-Polyphia - Ego Death (feat. Guitar Lord)  
-Plyph - g Dth (ft. Stv V)
+Ego Death (feat. Legend)  
+g Dth (ft. Stv V)
 {{< /admonition >}}
 
 ```shell
@@ -340,17 +340,17 @@ Plyph - g Dth (ft. Stv V)
 ```
 
 ```bash
-sed 's/(feat. .*)/(feat. Guitar Lord)/' <<< "$CURRENT_SONG" # bash herestrings.
+sed 's/(feat. .*)/(feat. Legend)/' <<< "$CURRENT_SONG" # bash herestrings.
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-Polyphia - Ego Death (feat. Guitar Lord)
+Ego Death (feat. Legend)
 {{< /admonition >}}
 
 ---
 
 ```shell
-CURRENT_SONG='Avenged Sevenfold - Nightmare'
+CURRENT_SONG='Scene Three: II. Fatal Tragedy'
 ```
 
 ```shell
@@ -366,9 +366,9 @@ printf '%s\n' "${CURRENT_SONG^^}" "${CURRENT_SONG,,}" "${CURRENT_SONG~~}"
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-AVENGED SEVENFOLD - NIGHTMARE  
-avenged sevenfold - nightmare  
-aVENGED sEVENFOLD - nIGHTMARE
+SCENE THREE: II. FATAL TRAGEDY  
+scene three: ii. fatal tragedy  
+sCENE tHREE: ii. fATAL tRAGEDY
 {{< /admonition >}}
 
 ```shell
@@ -381,8 +381,8 @@ tr '[:upper:]' '[:lower:]' <<< "$CURRENT_SONG"
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-AVENGED SEVENFOLD - NIGHTMARE  
-avenged sevenfold - nightmare
+SCENE THREE: II. FATAL TRAGEDY  
+scene three: ii. fatal tragedy
 {{< /admonition >}}
 
 ```shell
@@ -395,8 +395,8 @@ awk '{print tolower($0)}' <<< "$CURRENT_SONG"
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-AVENGED SEVENFOLD - NIGHTMARE  
-avenged sevenfold - nightmare
+SCENE THREE: II. FATAL TRAGEDY  
+scene three: ii. fatal tragedy
 {{< /admonition >}}
 
 ```shell
@@ -411,10 +411,10 @@ sed 's/.*/\l&/' <<< "$CURRENT_SONG"
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-AVENGED SEVENFOLD - NIGHTMARE  
-avenged sevenfold - nightmare  
-Avenged Sevenfold - Nightmare  
-avenged Sevenfold - Nightmare
+SCENE THREE: II. FATAL TRAGEDY  
+scene three: ii. fatal tragedy  
+Scene Three: II. Fatal Tragedy  
+scene Three: II. Fatal Tragedy
 {{< /admonition >}}
 
 ```shell
@@ -426,8 +426,8 @@ printf '%s\n' "${(U)CURRENT_SONG}" "${(L)CURRENT_SONG}"
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-AVENGED SEVENFOLD - NIGHTMARE  
-avenged sevenfold - nightmare
+SCENE THREE: II. FATAL TRAGEDY  
+scene three: ii. fatal tragedy
 {{< /admonition >}}
 
 ```shell
@@ -439,8 +439,8 @@ printf '%s\n' "${CURRENT_SONG:u}" "${CURRENT_SONG:l}"
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-AVENGED SEVENFOLD - NIGHTMARE  
-avenged sevenfold - nightmare
+SCENE THREE: II. FATAL TRAGEDY  
+scene three: ii. fatal tragedy
 {{< /admonition >}}
 
 ---
@@ -686,7 +686,7 @@ cat /proc/version # Show the contents.
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-Linux version 5.19.10-hikari-x86_64 (root@localh3art) (clang version 14.0.6, LLD 14.0.6) #1 ...
+Linux version 5.19.10-hikari-x86_64 (root@localh3art) (clang version 14.0.6, LLD 14.0.6)
 {{< /admonition >}}
 
 ```shell
@@ -963,7 +963,7 @@ SOCKET="${HOME}/.urxvt/urxvtd-localh3art"
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-/home/rachel/.urxvt/urxvtd-localh3art: socket
+/home/kagura/.urxvt/urxvtd-localh3art: socket
 {{< /admonition >}}
 
 ---
@@ -1017,7 +1017,7 @@ test -t 0 -a -h "/proc/$$/fd/0" && file "${_%%/fd*}/exe"
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-/home/rachel/.urxvt/urxvtd-localh3art: socket
+/home/kagura/.urxvt/urxvtd-localh3art: socket
 {{< /admonition >}}
 
 ---
@@ -1080,11 +1080,11 @@ Lucy (Kaede)
 ```
 
 ```shell
-printf '%.7s\n' 'My Last Farewell' # Cut 7 bytes string.
+printf '%.7s\n' 'Awaken the Master' # Cut 7 bytes string.
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-My Last
+Awaken 
 {{< /admonition >}}
 
 ---
@@ -1120,11 +1120,11 @@ printf '%.16f\n' "$((77/7))e-1" # Tricky 7.7/7 floating-point arithmetic.
 ```
 
 ```shell
-echo 'My Last Farewell' | cut -b1-7 # pipe to cut (from GNU coreutils).
+echo 'Awaken the Master' | cut -b1-7 # pipe to cut (from GNU coreutils).
 ```
 
 {{< admonition success "/proc/self/fd/1" true >}}
-My Last
+Awaken 
 {{< /admonition >}}
 
 ---
