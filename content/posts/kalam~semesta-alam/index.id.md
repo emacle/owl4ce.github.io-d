@@ -72,8 +72,13 @@ Manusia diajarkan melalui kalam (pena) tentang apa yang tidak diketahuinya (alam
 ke-Mahamulia-an Allah SWT, Tuhan semesta alam.[^1] Masyarakat sekuler juga sadar bahwa mereka
 maju sebab mengobservasi alam, mengubah perspektif dunia dari kolot menuju modern—rasional.
 
-[^1]: al-Qur'an,
+[^1]: Al-Qur'an,
       1:2;
+      10:10;
+      37:182;
+      39:75;
+      40:65;
+      45:36;
       96:3;
       96:4;
       96:5.
@@ -82,7 +87,7 @@ Alam merupakan kalam (pena), Sang Pencipta mengajar ilmu pengetahuan kepada manu
 ketika manusia telah "menguasai" (sebagian) hukum alam (*kauniyah*), mereka mulai berhenti (ingkar) terhadap
 Tuhan semesta alam.[^3] Ilmu pengetahuan itu sama seperti cahaya (nur[^4]), karenanya segala kegelapan
 (kebodohan) moral dan intelektual menjadi terang benderang. Manusia sekuler juga sadar bahwa mereka
-terang akal (cerdas) sebab berilmu pengetahuan, tetapi mereka mulai "alergi" (menutup diri)
+terang akal (~~cerdas~~) sebab berilmu pengetahuan, tetapi mereka mulai "alergi" (menutup diri)
 terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
 
 [^2]: *Ibid*.,
@@ -122,6 +127,8 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       16:67;
       16:68;
       16:69;
+      16:78;
+      16:79;
       17:12;
       20:53;
       21:30;
@@ -181,6 +188,7 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       36:80;
       39:5;
       39:21;
+      40:64;
       42:11;
       49:13;
       50:16;
@@ -195,6 +203,7 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       55:5;
       55:19;
       55:20;
+      55:22;
       55:33;
       55:41;
       56:70;
@@ -241,6 +250,7 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       5:16;
       5:44;
       5:46;
+      24:35;
       33:43;
       57:9.
 
@@ -254,9 +264,9 @@ memuat sesuatu yang bersifat metafisika.[^6] Persepsi salah kaprah nan fatal yan
 manusia bodoh lagi buta, yang tidak memahami petunjuk ilahi (*divine command*), masih mendominasi pola pikir
 manusia dalam mengobservasi *din*-Nya. Sebagian darinya sengaja memelintir esensi kitab-kitab suci-Nya
 semata "cinta kehancuran" umat manusia—pengikut *dajjal*. Demikian pula, manusia liberal
-(dalam bermoral) yang menjunjung tinggi nafsu sebagai tu(h)annya.[^7]
+(dalam ber-moral) yang menjunjung tinggi nafsu sebagai tuhannya.[^7]
 
-[^6]: al-Qur'an,
+[^6]: Al-Qur'an,
       6:25;
       8:31;
       16:24;
@@ -276,10 +286,10 @@ Menurutnya, agama hanya berlaku pada momen tertentu dan di tempat ibadah saja, s
 manusia—agama dilarang mengatur manusia, sebaliknya, manusialah yang mengatur agama. Sebagian besar darinya
 tergila-gila akan rasionalitas modern yang empiris saja, sehingga menolak segala sesuatu yang nonfisik. Manusia
 ini tunduk kepada Allah SWT sebab mematuhi hukum alam, tetapi ketika diperintah untuk tunduk patuh secara
-penuh (*kaffah*), mereka justru menolak *din*-Nya. Akibatnya, kaum-kaum yang dilaknat (azab)
-Allah SWT lahir kembali, bahkan pada milenium ketiga.[^8]
+penuh (*kaffah*), mereka justru menolak *din*-Nya. Akibatnya, kaum-kaum (sok benar) yang dilaknat
+(azab) Allah SWT muncul hingga milenium ketiga.[^8]
 
-[^8]: al-Qur'an,
+[^8]: Al-Qur'an,
       7:80;
       7:81;
       7:82;
@@ -305,9 +315,9 @@ Etika liar hasil imajinasi sebab ketidakpuasan pribadi kaum Nabi Luth AS, yang t
 mulai bangkit lagi. Manusia yang berilmu pengetahuan (rasionalis) tidak mampu menyentuh moral (akhlak),
 mereka justru menuruti nafsu "pelangi" dengan nafsu "ekonomi", menganggap gangguan *nafs* sebagai pemberian
 ilahi. Fenomena kebodohan moral (*jahiliyyah*) ini tidak lain disebabkan oleh relativitas
-dalam beretika, termasuk menganggap agama sebagai produk pikiran manusia masa lalu.
+dalam ber-etika, termasuk anggapan masif soal agama produk pikiran manusia masa lalu.
 
-Di sisi lain, manusia pluralis menganggap bahwa semua agama sama benarnya sebab mengajarkan kebaikan,
+Di sisi lain, manusia pluralis menganggap bahwa semua falsafah sama benarnya sebab mengajarkan kebaikan,
 mereka tidak sadar bahwa kebaikan di mata manusia bersifat subjektif—cenderung tidak rasional dan didominasi
 oleh nafsu manusia belaka.[^9] Manusia yang memahami esensi *Din al-Islam* (tauhid) secara hakiki (objektif[^10]),
 memahami bahwa akidah umat agama samawi yang politeistis merupakan produk pendistorsian *din*-Nya.[^11] Manusia
@@ -324,13 +334,16 @@ yang mencoba mengubah/merusak hukum alam sunatullah, kodrat yang ditetapkan Tuha
       5:77.
 
 [^10]: *Ibid*.,
+       2:115;
        4:171;
        5:75;
        6:100;
        6:101;
        6:103;
        9:30;
+       9:31;
        13:16;
+       17:42;
        17:111;
        23:91;
        25:2;
@@ -338,6 +351,8 @@ yang mencoba mengubah/merusak hukum alam sunatullah, kodrat yang ditetapkan Tuha
        37:150;
        37:151;
        37:152;
+       55:27;
+       57:3;
        112:1;
        112:2;
        112:3;
@@ -348,7 +363,7 @@ yang mencoba mengubah/merusak hukum alam sunatullah, kodrat yang ditetapkan Tuha
        https://www.teodisi.com/2020/06/islam-bukan-agama.html
        (Selasa, 27 September 2022, 13.19)
 
-[^12]: al-Qur'an,
+[^12]: Al-Qur'an,
        2:86;
        2:212;
        3:14;
@@ -381,7 +396,7 @@ yang mencoba mengubah/merusak hukum alam sunatullah, kodrat yang ditetapkan Tuha
 {{< /style >}}
 
 <sub>Bimbinglah kami ke jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat,
-bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat.[^13]</sub>
+bukan (jalan) mereka yang dimurkai dan bukan (pula jalannya) orang-orang yang sesat.[^13]</sub>
 
 [^13]: *Ibid*.,
        1:6;
@@ -389,13 +404,13 @@ bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat
 
 ---
 
-*Din al-Islam* (*al-Qur'an*) ialah jalan yang lurus (*Shirath al-Mustaqim*), menuju Tuhan semesta alam.[^14]
-Jalan hidup yang lurus bagi siapa saja selagi tunduk patuh lagi bersyukur juga tidak kufur (muslim), "... jalan
+*Din al-Islam* (*Al-Qur'an*) ialah jalan yang lurus (*Shirath al-Mustaqim*), menuju Tuhan semesta alam.[^14]
+Falsafah hidup yang lurus bagi siapa pun selagi tunduk patuh lagi bersyukur juga tidak kufur, "... jalan
 orang-orang yang telah Engkau beri nikmat, bukan mereka yang dimurkai dan bukan orang-orang yang sesat.".[^13]
-Bintang, tumbuhan, dan hewan (fisiologis) tunduk patuh (sujud) kepada Allah SWT, Tuhan semesta alam.[^15]
-Makhluk *Khaliq* semesta alam selain manusia, jin, dan malaikat otomatis tunduk patuh (sujud) terhadap
-*din*-Nya—benda mati tidak memiliki kehendak pribadi/ego. Bukankah tidak logis (rasional)
-apabila manusia menyembah selain Allah SWT, Tuhan semesta alam.
+Bintang, tumbuhan, dan hewan (fisiologis) tunduk patuh (sujud) kepada Allah SWT, Tuhan semesta alam.[^15] Makhluk
+*Khaliq* semesta alam selain manusia, jin, dan malaikat otomatis tunduk patuh (sujud) terhadap *ad-Din*—benda "mati"
+tidak memiliki kehendak pribadi/ego. Bukankah tidak rasional bagi manusia berbudi luhur untuk mengikuti, mempercayai,
+dan mematuhi falsafah (ideologi) manusia lain (tanpa dipaksa) yang bertentangan dengan *din* Tuhan semesta alam.
 
 [^14]: *Ibid*.,
        2:142;
@@ -419,8 +434,11 @@ apabila manusia menyembah selain Allah SWT, Tuhan semesta alam.
        7:54;
        16:48;
        16:49;
+       17:44;
        22:18;
        22:65;
-       55:6.
+       24:41;
+       55:6;
+       57:1.
 
 {{< /style >}}

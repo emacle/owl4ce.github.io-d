@@ -55,11 +55,11 @@ seo:
 
 ---
 
-{{< style "text-align:justify" >}}
+{{< style "text-align:justify;u{text-decoration:none;color:#2be491;}" >}}
 
-Media telah menjadi bagian yang tidak terpisahkan dari kehidupan manusia, bahkan bagi mayoritas, media (sosial)
-seakan pusat dunianya. Penemuan teknologi memberikan kontribusi besar terhadap perkembangan media (massa) untuk
-menyebarkan berita, baik fakta yang ada maupun dipaksa ada.[^1]
+Media telah menjadi bagian yang tidak terpisahkan dari kehidupan manusia, bahkan bagi mayoritas,
+media (sosial) seakan pusat dunianya. Penemuan teknologi memberikan kontribusi besar terhadap
+perkembangan media (massa) untuk menyebarkan berita, baik fakta yang ada maupun dipaksa ada.[^1]
 
 [^1]: Berita yang mengada-ada (direkayasa) semata untuk menunjukkan dunia citra dari sesuatu.
 
@@ -77,11 +77,14 @@ kesehatan mental yang semakin menjadi-jadi. Pemuda/pemudi hingga yang dewasa, ya
 membabi buta beradu aksi semata manipulasi rumor berita serta terhipnosis multimedia.
 
 Lemahnya pengawasan orang yang bertanggung jawab atas anak-anak mereka, yang masih belum mengerti moral baik/buruk
-dan kurangnya "hati nurani", sebuah edukasi yang tertanam tanpa teori.[^2] Lupakan soal teori, pikirkan solusi,
-dan segera beraksi. Satu-satunya yang terbayang imajinasi ialah "memaksa keadaan menjadi ketiadaan", sebuah
-solusi liar sesama mata pisau yang terbayang oleh golongan manusia yang juga kurang "hati nurani",
-yang tidak memahami hak prerogatif Tuhan YME.
+dan kurangnya "[<u>hati nurani</u>][hn]", sebuah edukasi yang tertanam tanpa teori.[^2] Lupakan soal teori,
+pikirkan solusi, dan segera beraksi. Satu-satunya yang terbayang imajinasi ialah "memaksa keadaan
+menjadi ketiadaan", sebuah solusi liar sesama mata pisau yang terbayang oleh golongan manusia
+yang juga kurang "[<u>hati nurani</u>][hn]", yang tidak memahami hak prerogatif Tuhan YME.
 
 [^2]: Etika yang terbentuk dalam budaya masyarakat, biasanya biadab dalam pandangan agama.
+
+[hn]: ../kalbu~perspektif-logika/
+      "Lihat substansi kalimat yang ditautkan (ke yang disorot) pada tautan terkait."
 
 {{< /style >}}

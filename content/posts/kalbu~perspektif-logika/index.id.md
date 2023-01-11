@@ -66,30 +66,32 @@ font-display:swap;\
 
 ---
 
-{{< style "text-align:justify" >}}
+{{< style "text-align:justify;u{text-decoration:none;color:#2be491;}" >}}
 
-Manusia adalah makhluk ciptaan Allah SWT yang paling canggih (potensial) dengan akal (daya pikir) yang dimilikinya,
-serta merupakan pembeda dari makhluk lainnya di alam semesta.[^1] Masyarakat sekuler juga sadar bahwa mereka
-adalah "hewan" (fisiologis) yang paling rumit di realitas kosmos.
+Manusia adalah makhluk ciptaan Allah SWT yang paling canggih (potensial) dengan akal (daya pikir)
+yang dimilikinya, serta merupakan pembeda dari makhluk lainnya di semesta alam.[^1] Masyarakat
+sekuler juga sadar bahwa mereka adalah "hewan" (fisiologis) yang paling rumit di realitas kosmos.
 
-[^1]: al-Qur'an,
+[^1]: Al-Qur'an,
       95:4.
 
 Akal (otak manusia) akan berfungsi dengan maksimal apabila mendapat dukungan persepsi empiris indra pendengaran
 telinga dan penglihatan mata—tiga institusi terpenting yang dimiliki manusia.[^2] Tiga institusi—akal, pendengaran,
 dan penglihatan—tersebut menjadikan manusia hidup (spiritual[^3]) dua kali apabila difungsikan sebagaimana mestinya,
-guna meningkatkan derajat (takwa) di hadapan Sang Pencipta.[^4] Manusia sekuler juga sadar bahwa mereka menggunakan akalnya
-dalam bertindak mengambil keputusan, tetapi mereka hanya berhenti (ingkar) pada moralitas atau etika (*kauniyah*).[^5]
+guna meningkatkan derajat (takwa) di hadapan Sang Pencipta.[^4] Manusia sekuler juga sadar bahwa mereka
+menggunakan akalnya dalam bertindak mengambil keputusan, tetapi mereka hanya berhenti (ingkar)
+pada moralitas atau etika (*kauniyah*).[^5]
 
 [^2]: Teodisi,
       "Istilah Otak dalam Al-Quran : Fu'ada",
       https://www.teodisi.com/2022/01/istilah-otak-dalam-al-quran-fuada.html
       (Selasa, 27 September 2022, 03.49)
 
-[^3]: al-Qur'an,
+[^3]: Al-Qur'an,
       42:52.
 
 [^4]: *Ibid*.,
+      2:177;
       3:133;
       3:134;
       53:32.
@@ -107,14 +109,17 @@ otomatis membentuk karakter bangsa sesuai sila kedua hingga kelima.[^7] Hingga m
 yang digunakan untuk menyelidiki suatu kebenaran dalam perspektif keilmuan (*science*) ialah doktrin
 sekuler dari Barat, yang sering menimbulkan bias di antara kaum ber-agama.
 
-[^6]: al-Qur'an,
+[^6]: Al-Qur'an,
+      2:115;
       4:171;
       5:75;
       6:100;
       6:101;
       6:103;
       9:30;
+      9:31;
       13:16;
+      17:42;
       17:111;
       23:91;
       25:2;
@@ -122,6 +127,8 @@ sekuler dari Barat, yang sering menimbulkan bias di antara kaum ber-agama.
       37:150;
       37:151;
       37:152;
+      55:27;
+      57:3;
       112:1;
       112:2;
       112:3;
@@ -129,7 +136,10 @@ sekuler dari Barat, yang sering menimbulkan bias di antara kaum ber-agama.
 
 [^7]: *Ibid*.,
       4:135;
-      5:8.
+      5:8;
+      16:90;
+   <u>60:8</u>;
+   <u>60:9</u>.
 
 Disadari atau tidak, salah satu pembiasan logika paling fatal ialah menempatkan semua agama pada posisi dan fenomena
 yang sama rata. *Din al-Islam* (tauhid) yang secara fitrah (potensial) mengakui eksistensi Tuhan YME, sejak dijadikannya
@@ -143,7 +153,7 @@ melihat kebenaran Islam historis-teologis. Akan tetapi, mayoritas tetap mengingk
       https://www.teodisi.com/2020/06/islam-bukan-agama.html
       (Selasa, 27 September 2022, 13.19)
 
-[^9]: al-Qur'an,
+[^9]: Al-Qur'an,
       6:25;
       8:31;
       16:24;
@@ -184,19 +194,22 @@ kebenaran itu sendiri. Manusia inilah sumber pembiasan logika.
 {{< /style >}}
 
 <sub>Mereka bertanya kepadamu (Nabi Muhammad) tentang ruh. Katakanlah, “Ruh itu termasuk urusan Rabb-ku,
-sedangkan kamu tidak diberi pengetahuan kecuali hanya sedikit.”[^11]</sub>
+sedangkan kamu tidak diberi pengetahuan melainkan hanya sedikit.”[^11]</sub>
 
-[^11]: al-Qur'an,
-       17:85.
+[^11]: Al-Qur'an,
+       2:269;
+       17:85;
+       18:109;
+       31:27.
 
 ---
 
-*Al-Qur'an* juga disebut *ar-Ruh*, diwahyukan melalui perantaraan Malaikat Jibril AS (*Ruh al-Qudus*) dengan firman
-Allah SWT.[^3] Fakta tentang keterbatasan akal (rasio) manusia pun telah difirmankan, "... sedangkan kamu tidak diberi
-pengetahuan kecuali hanya sedikit.".[^11] Manusia sekuler era modern juga mengakui, setidaknya, dari kalangan ilmuwan.
-Akan tetapi, mayoritas tetap mengingkarinya.[^12] Filsuf Jerman Immanuel Kant menyatakan bahwa ia "menolak pengetahuan"
-untuk memberi ruang bagi iman—apabila umat manusia mampu "membuktikan" eksistensi Tuhan YME dengan konkret,
-universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memiliki *Science of God*.[^13]
+*Al-Qur'an* juga disebut *Ar-Ruh*, diwahyukan melalui perantaraan Malaikat Jibril AS (*Ruh al-Qudus*) dengan
+firman Allah SWT.[^3] Fakta tentang keterbatasan akal (rasio) manusia pun telah difirmankan, "... sedangkan kamu
+tidak diberi pengetahuan melainkan hanya sedikit.".[^11] Manusia sekuler modern juga mengakui, setidaknya,
+dari kalangan *scientist*.[^12] Mengapakah mayoritas tetap tidak beriman.[^13] Bilamana umat manusia
+telah "membuktikan" eksistensi Tuhan YME dengan konkret, universal, dan absolut maka manusia
+(tanpa iman) tidak perlu lagi ber-iman kendati memiliki *Science of ~~God~~ Allah*.
 
 [^12]: *Ibid*.,
        2:22;
@@ -235,6 +248,8 @@ universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memilik
        16:67;
        16:68;
        16:69;
+       16:78;
+       16:79;
        17:12;
        20:53;
        21:30;
@@ -294,6 +309,7 @@ universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memilik
        36:80;
        39:5;
        39:21;
+       40:64;
        42:11;
        49:13;
        50:16;
@@ -308,6 +324,7 @@ universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memilik
        55:5;
        55:19;
        55:20;
+       55:22;
        55:33;
        55:41;
        56:70;
@@ -342,6 +359,12 @@ universal, dan absolut maka manusia tidak perlu lagi beriman sebab telah memilik
 [^13]: *Ibid*.,
        6:9;
        6:158;
-       42:51.
+       17:13;
+       17:97;
+       20:124;
+       39:31;
+       42:51;
+       43:66;
+       47:18.
 
 {{< /style >}}
