@@ -58,10 +58,11 @@ seo:
 {{< style "text-align:justify" >}}
 
 Ergo Proxy merupakan salah satu dari berbagai serial *anime* yang super kompleks dalam menyajikan cerita,
-ia berbeda dari lainnya. Mengapa tidak, ia menggunakan banyak referensi psikologis dan filosofis yang kental.
+ia berbeda dari selainnya. Mengapa tidak, ia menggunakan banyak referensi psikologis dan filosofis yang kental.
 Karena cara penyajian ceritanya yang halus, terkadang sulit untuk dimengerti tentang apa yang sebenarnya terjadi.
-Begitu memahami plotnya yang diungkap pada episode ke-15, pasti menyadari betapa menakjubkan: klasik.
-Meskipun demikian, sangat disayangkan "underrated".
+Begitu memahami plotnya yang diungkap pada episode ke-15, pasti menyadari betapa menakjubkannya
+karya fiksi ini: *neoclassic*, merefleksikan keraguan filosofis.
+
 
 ---
 
@@ -124,9 +125,9 @@ atau menemukan kepercayaan kepada pencipta yang tertinggi.
 
 Esensialisme "Proxy", ras manusia super hasil rekayasa genetika yang diciptakan oleh manusia asli sebagai agen
 dari pencipta mereka, "seseorang yang diberi wewenang bertindak untuk orang lain". Proxy sendiri baru menyadari
-bahwa ciptaan mereka tidaklah sempurna: replika manusia tidak dapat b-e-r-"e"-p-r-o-d-u-k-s-i. Mereka hanya dapat
-b-e-r-p-r-o-d-u-k-s-i melalui rahim artifisial yang bergantung pada keberadaan Proxy di dalam Dome karena membutuhkan
-kekuatan dari energinya. Proxy lalu menyadari bahwa mereka telah gagal dalam tujuan utamanya: melestarikan kehidupan.
+bahwa ciptaan mereka tidaklah sempurna, replika manusia tidak dapat b-e-r-"e"-p-r-o-d-u-k-s-i. Mereka hanya dapat
+b-e-r-p-r-o-d-u-k-s-i melalui rahim artifisial yang bergantung pada keberadaan Proxy di dalam Dome karena Proxy semacam
+bank ingatan gen hidup. Proxy lalu menyadari bahwa mereka telah gagal dalam tujuan utamanya: melestarikan kehidupan.
 Esensi manusia yang merupakan bagian dari kerajaan hewan menjadi berkurang karena kehilangan kemampuan berkembang biak,
 sehingga mereka tidaklah lagi berguna. Ini menjelaskan mengapa Kazkis dan Proxy lain dengan sengaja membunuh manusia
 ciptaan mereka, bahkan menghancurkan Dome mereka—frustasi akibat mempertanyakan *raison d'être* mereka. Dari
@@ -245,7 +246,7 @@ matahari. Tidak ada Proxy dan replika manusia lagi. Masalah selesai dengan sempu
 
 Setelah "Pulse of the Awakening" diaktifkan. Lima ribu tahun kemudian pada tahun 7207, ceritanya mengikuti Re-l Mayer,
 Vincent Law, dan Pino saat mereka melakukan perjalanan untuk menemukan kebenaran yang telah lama hilang tentang dunia
-serta diri mereka sendiri. Bumi hanya memburuk, wabah yang disebut virus "Cogito" menyebar di antara populasi AutoReiv.
+serta diri mereka sendiri. Bumi hanya memburuk, "wabah" yang disebut virus "Cogito" menyebar di antara populasi AutoReiv.
 Kota-kota kubah yang tersisa terus mengalami kegagalan. Bupati Donov Mayer hanyalah penguasa palsu Romdeau Dome.
 
 {{< admonition abstract "Pulse of the Awakening" false >}}
@@ -254,14 +255,7 @@ Kota-kota kubah yang tersisa terus mengalami kegagalan. Bupati Donov Mayer hanya
 
 ---
 
-This analysis would not be done without them, many thanks to
-
-1. [Ergo Proxy Wiki :(fas fa-arrow-up-right-from-square fa-fw):][EPW-];
-2. [Ergo Proxy anime explained! :(fas fa-arrow-up-right-from-square fa-fw):][EPae].
-
-[EPW-]: https://ergoproxy.fandom.com/wiki/Ergo_Proxy_Wiki
-        "Ergo Proxy Wiki | Fandom"
-[EPae]: https://cureclover.livejournal.com/759.html
-        "Ergo Proxy anime explained! (guide for story, plot and episodes)"
+Sama seperti objek, analisis ini dikompilasi dari berbagai sumber tanpa menyebut referensi secara
+eksplisit. Penganalisis lebih menekankan aspek filosofis inti dan sedikit merincikan aspek psikologis.
 
 {{< /style >}}
