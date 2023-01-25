@@ -104,6 +104,7 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       9:36;
       10:5;
       10:61;
+      11:56;
       13:2;
       13:3;
       13:4;
@@ -137,7 +138,9 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       21:33;
       22:5;
       22:47;
+      22:61;
       22:63;
+      22:65;
       23:12;
       23:13;
       23:14;
@@ -176,6 +179,7 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       35:13;
       35:27;
       35:28;
+      35:41;
       36:36;
       36:37;
       36:38;
@@ -189,6 +193,11 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       39:5;
       39:21;
       40:64;
+      40:67;
+      41:9;
+      41:10;
+      41:11;
+      41:12;
       42:11;
       49:13;
       50:16;
@@ -201,6 +210,7 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       54:49;
       55:4;
       55:5;
+      55:7;
       55:19;
       55:20;
       55:22;
@@ -220,6 +230,12 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       78:14;
       78:15;
       78:16;
+      79:27;
+      79:28;
+      79:29;
+      79:30;
+      79:31;
+      79:32;
       81:15;
       81:16;
       81:17;
@@ -233,7 +249,10 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       91:2;
       91:3;
       91:4;
-      96:15.
+      96:15;
+      96:16;
+      99:7;
+      99:8.
 
 [^3]: *Ibid*.,
       96:6;
@@ -432,6 +451,7 @@ dan mematuhi falsafah (ideologi) manusia lain (tanpa dipaksa) yang bertentangan 
 
 [^15]: *Ibid*.,
        7:54;
+       13:13;
        16:48;
        16:49;
        17:44;
@@ -439,6 +459,11 @@ dan mematuhi falsafah (ideologi) manusia lain (tanpa dipaksa) yang bertentangan 
        22:65;
        24:41;
        55:6;
-       57:1.
+       57:1;
+       84:1;
+       84:2;
+       84:3;
+       84:4;
+       84:5.
 
 {{< /style >}}

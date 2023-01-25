@@ -69,7 +69,7 @@ font-display:swap;\
 {{< style "text-align:justify;u{text-decoration:none;color:#2be491;}" >}}
 
 Manusia adalah makhluk ciptaan Allah SWT yang paling canggih (potensial) dengan akal (daya pikir)
-yang dimilikinya, serta merupakan pembeda dari makhluk lainnya di semesta alam.[^1] Masyarakat
+yang dimilikinya, serta merupakan pembeda dari makhluk lainnya di alam semesta.[^1] Masyarakat
 sekuler juga sadar bahwa mereka adalah "hewan" (fisiologis) yang paling rumit di realitas kosmos.
 
 [^1]: Al-Qur'an,
@@ -207,8 +207,9 @@ sedangkan kamu tidak diberi pengetahuan melainkan hanya sedikit.”[^11]</sub>
 *Al-Qur'an* juga disebut *Ar-Ruh*, diwahyukan melalui perantaraan Malaikat Jibril AS (*Ruh al-Qudus*) dengan
 firman Allah SWT.[^3] Fakta tentang keterbatasan akal (rasio) manusia pun telah difirmankan, "... sedangkan kamu
 tidak diberi pengetahuan melainkan hanya sedikit.".[^11] Manusia sekuler modern juga mengakui, setidaknya,
-dari kalangan *scientist*.[^12] Mengapakah mayoritas tetap tidak beriman.[^13] Bilamana umat manusia
-telah "membuktikan" eksistensi Tuhan YME dengan konkret, universal, dan absolut maka manusia
+dari kalangan *scientist*.[^12] Mengapakah mayoritas tetap tidak beriman.[^13] Tanpa sebuah tanda tanya,
+men-dikotomi-kan kebenaran yang integral ialah bukti konkret egoisme. Bilamana umat manusia telah
+"membuktikan" eksistensi Tuhan YME dengan konkret, universal, dan absolut maka manusia
 (tanpa iman) tidak perlu lagi ber-iman kendati memiliki *Science of ~~God~~ Allah*.
 
 [^12]: *Ibid*.,
@@ -225,6 +226,7 @@ telah "membuktikan" eksistensi Tuhan YME dengan konkret, universal, dan absolut 
        9:36;
        10:5;
        10:61;
+       11:56;
        13:2;
        13:3;
        13:4;
@@ -258,7 +260,9 @@ telah "membuktikan" eksistensi Tuhan YME dengan konkret, universal, dan absolut 
        21:33;
        22:5;
        22:47;
+       22:61;
        22:63;
+       22:65;
        23:12;
        23:13;
        23:14;
@@ -297,6 +301,7 @@ telah "membuktikan" eksistensi Tuhan YME dengan konkret, universal, dan absolut 
        35:13;
        35:27;
        35:28;
+       35:41;
        36:36;
        36:37;
        36:38;
@@ -310,6 +315,11 @@ telah "membuktikan" eksistensi Tuhan YME dengan konkret, universal, dan absolut 
        39:5;
        39:21;
        40:64;
+       40:67;
+       41:9;
+       41:10;
+       41:11;
+       41:12;
        42:11;
        49:13;
        50:16;
@@ -322,6 +332,7 @@ telah "membuktikan" eksistensi Tuhan YME dengan konkret, universal, dan absolut 
        54:49;
        55:4;
        55:5;
+       55:7;
        55:19;
        55:20;
        55:22;
@@ -341,6 +352,12 @@ telah "membuktikan" eksistensi Tuhan YME dengan konkret, universal, dan absolut 
        78:14;
        78:15;
        78:16;
+       79:27;
+       79:28;
+       79:29;
+       79:30;
+       79:31;
+       79:32;
        81:15;
        81:16;
        81:17;
@@ -354,15 +371,22 @@ telah "membuktikan" eksistensi Tuhan YME dengan konkret, universal, dan absolut 
        91:2;
        91:3;
        91:4;
-       96:15.
+       96:15;
+       96:16;
+       99:7;
+       99:8.
 
 [^13]: *Ibid*.,
        6:9;
        6:158;
+       16:61;
        17:13;
        17:97;
        20:124;
+       35:45;
        39:31;
+       40:84;
+       40:85;
        42:51;
        43:66;
        47:18.
