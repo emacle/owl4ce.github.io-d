@@ -183,7 +183,7 @@ yang dapat diulangbuktikan (induktif/deduktif) oleh siapa pun. Peristiwa *Mi'raj
 tidak pernah dipandang sebagai sesuatu yang ilmiah (*scientific*), melainkan sebatas dogma, seperti agama lain.
 Namun, dalam perspektif keilmuan *Din al-Islam*, peristiwa *Mi'raj* tetap menjadi sesuatu yang ilmiah dan *haq*
 sebab mengakui paradigma transenden. Iman terhadap kebenaran yang datang dari Allah SWT. Iman terhadap segala
-sesuatu yang nonfisik merupakan kebenaran yang tidak perlu adanya bukti empiris semata belum/tidaknya
+sesuatu yang nonempiris merupakan kebenaran yang tidak perlu adanya bukti empiris semata belum/tidaknya
 terjangkau akal (rasio) manusia, apalagi sampai dijadikan dalih untuk membuktikan ketidakbenaran
 kebenaran itu sendiri. Manusia inilah sumber pembiasan logika.
 

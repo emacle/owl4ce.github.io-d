@@ -303,8 +303,8 @@ semata "cinta kehancuran" umat manusia—pengikut *dajjal*. Demikian pula, manus
 
 Menurutnya, agama hanya berlaku pada momen tertentu dan di tempat ibadah saja, selain itu suka-suka
 manusia—agama dilarang mengatur manusia, sebaliknya, manusialah yang mengatur agama. Sebagian besar darinya
-tergila-gila akan rasionalitas modern yang empiris saja, sehingga menolak segala sesuatu yang nonfisik. Manusia
-ini tunduk kepada Allah SWT sebab mematuhi hukum alam, tetapi ketika diperintah untuk tunduk patuh secara
+tergila-gila akan rasionalitas modern yang empiris saja, sehingga menolak segala sesuatu yang nonempiris. Manusia
+ini tunduk kepada Allah SWT sebab patuh hukum alam, tetapi ketika diperintah untuk tunduk patuh secara
 penuh (*kaffah*), mereka justru menolak *din*-Nya. Akibatnya, kaum-kaum (sok benar) yang dilaknat
 (azab) Allah SWT muncul hingga milenium ketiga.[^8]
 
