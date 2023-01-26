@@ -183,7 +183,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "Crastinus Dies Nunquam Sciat"
+    title = "C.D.N.S."
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
@@ -195,7 +195,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     themeColor = ""
     # Safari mask icon color
     # Safari 图标颜色
-    iconColor = "#fa5aa4"
+    iconColor = "#fa74b2"
     # Windows v8-11 tile color
     # Windows v8-11 磁贴颜色
     tileColor = ""
