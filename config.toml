@@ -192,13 +192,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     svgFavicon = ""
     # Android browser theme color
     # Android 浏览器主题色
-    themeColor = "#ffffff"
+    themeColor = ""
     # Safari mask icon color
     # Safari 图标颜色
-    iconColor = "#ffffff"
+    iconColor = "#fa5aa4"
     # Windows v8-11 tile color
     # Windows v8-11 磁贴颜色
-    tileColor = "#ffffff"
+    tileColor = ""
 
   # Search config
   # 搜索配置
