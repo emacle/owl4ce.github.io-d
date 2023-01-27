@@ -73,6 +73,7 @@ yang dimilikinya, serta merupakan pembeda dari makhluk lainnya di alam semesta.[
 sekuler juga sadar bahwa mereka adalah "hewan" (fisiologis) yang paling rumit di realitas kosmos.
 
 [^1]: Al-Qur'an,
+      17:70;
       95:4.
 
 Akal (otak manusia) akan berfungsi dengan maksimal apabila mendapat dukungan persepsi empiris indra pendengaran
@@ -233,6 +234,7 @@ men-dikotomi-kan kebenaran yang integral ialah bukti konkret egoisme. Bilamana u
        13:12;
        13:15;
        13:17;
+       15:14;
        15:19;
        15:20;
        15:21;
@@ -258,6 +260,7 @@ men-dikotomi-kan kebenaran yang integral ialah bukti konkret egoisme. Bilamana u
        21:31;
        21:32;
        21:33;
+       21:104;
        22:5;
        22:47;
        22:61;

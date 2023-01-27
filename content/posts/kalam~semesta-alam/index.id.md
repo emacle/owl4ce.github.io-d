@@ -111,6 +111,7 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       13:12;
       13:15;
       13:17;
+      15:14;
       15:19;
       15:20;
       15:21;
@@ -136,6 +137,7 @@ terhadap Tuhan, mengaku bahwa ilmunya "murni" kepintaran pribadi.[^5]
       21:31;
       21:32;
       21:33;
+      21:104;
       22:5;
       22:47;
       22:61;
@@ -455,6 +457,7 @@ dan mematuhi falsafah (ideologi) manusia lain (tanpa dipaksa) yang bertentangan 
        16:48;
        16:49;
        17:44;
+       21:79;
        22:18;
        22:65;
        24:41;
