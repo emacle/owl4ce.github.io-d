@@ -73,8 +73,8 @@ means "<u>Day</u>". **Nunquam** (IPA: `/ˈnum.kʷam/`) etymologically "Nē" and 
 and "<u>Ever</u>". **Sciat** (from 3rd person) etymologically "Sciō" (IPA: `/ˈski.oː/`), means "<u>Known</u>".
 
 Tomorrow is Never Known. The more humans find out about something, the more they do not know
-anything about it—when humans (just) start to know about something, themself (just) realize that they are
-increasingly ignorance of something that "will never be completed" to find out (be known).
+anything about it—when humans start to know about something, they by themselves realize that they are increasingly
+ignorance of something that "will never be completed" to find out (be known).
 
 ---
 
