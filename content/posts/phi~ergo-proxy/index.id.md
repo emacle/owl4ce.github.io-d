@@ -8,13 +8,13 @@ author: "Harry Kurn"
 authorLink: "/id/posts/"
 description: ""
 license: ""
-images: ["https://ik.imagekit.io/owl4ce/id/phi~ergo-proxy/f"]
+images: ["https://ik.imagekit.io/owl4ce/ik-seo/id/phi~ergo-proxy/f/index"]
 
 tags: ["Philosophy", "Psychology", "Interpretation"]
 categories: ["Analysis"]
 
 featuredImage: ""
-featuredImagePreview: "https://ik.imagekit.io/owl4ce/id/phi~ergo-proxy/f"
+featuredImagePreview: "https://ik.imagekit.io/owl4ce/ik-seo/id/phi~ergo-proxy/f/index"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: []
 seo:
-  images: ["https://ik.imagekit.io/owl4ce/id/phi~ergo-proxy/f"]
+  images: ["https://ik.imagekit.io/owl4ce/ik-seo/id/phi~ergo-proxy/f/index"]
   # ...
 ---
 

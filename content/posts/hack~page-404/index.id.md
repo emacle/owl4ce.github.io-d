@@ -8,13 +8,13 @@ author: "Harry Kurn"
 authorLink: "/id/posts/"
 description: ""
 license: ""
-images: ["https://ik.imagekit.io/owl4ce/id/hack~page-404/f"]
+images: ["https://ik.imagekit.io/owl4ce/ik-seo/id/hack~page-404/f/index"]
 
 tags: ["Hacking", "Hugo", "JavaScript", "Web-browser"]
 categories: ["Technical"]
 
 featuredImage: ""
-featuredImagePreview: "https://ik.imagekit.io/owl4ce/id/hack~page-404/f"
+featuredImagePreview: "https://ik.imagekit.io/owl4ce/ik-seo/id/hack~page-404/f/index"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: []
 seo:
-  images: ["https://ik.imagekit.io/owl4ce/id/hack~page-404/f"]
+  images: ["https://ik.imagekit.io/owl4ce/ik-seo/id/hack~page-404/f/index"]
   # ...
 ---
 

@@ -8,13 +8,13 @@ author: "Harry Kurn"
 authorLink: "/id/posts/"
 description: ""
 license: ""
-images: ["https://ik.imagekit.io/owl4ce/id/kalbu~perspektif-logika/f"]
+images: ["https://ik.imagekit.io/owl4ce/ik-seo/id/kalbu~perspektif-logika/f/index"]
 
 tags: ["Hujjah", "Din al-Islam", "Critique"]
 categories: ["Essay"]
 
 featuredImage: ""
-featuredImagePreview: "https://ik.imagekit.io/owl4ce/id/kalbu~perspektif-logika/f"
+featuredImagePreview: "https://ik.imagekit.io/owl4ce/ik-seo/id/kalbu~perspektif-logika/f/index"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -47,7 +47,7 @@ library:
   css: []
   js: []
 seo:
-  images: ["https://ik.imagekit.io/owl4ce/id/kalbu~perspektif-logika/f"]
+  images: ["https://ik.imagekit.io/owl4ce/ik-seo/id/kalbu~perspektif-logika/f/index"]
   # ...
 ---
 
